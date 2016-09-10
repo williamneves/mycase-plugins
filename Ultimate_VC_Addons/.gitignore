@@ -1,0 +1,11 @@
+# This file will ignore files/folders from git
+
+# Node Modules #
+node_modules/
+u.sh
+Ultimate_VC_Addons.zip
+# GRAUPI fetch #
+bcore.sh
+push.sh
+admin/bsf-core/.git
+admin/bsf-core/.gitignore

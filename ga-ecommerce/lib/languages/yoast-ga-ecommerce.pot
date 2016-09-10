@@ -1,0 +1,71 @@
+# Copyright (C) 2015 Team Yoast
+# This file is distributed under the same license as the Google Analytics by Yoast eCommerce tracking addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Analytics by Yoast eCommerce tracking addon "
+"3.0.5\n"
+"Report-Msgid-Bugs-To: https://github.com/Yoast/ga-ecommerce/issues\n"
+"POT-Creation-Date: 2015-07-15 12:04:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Yoast Translate Team <translations@yoast.com>\n"
+"Language-Team: Yoast Translate <translations@yoast.com>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: lib/class-ga-ecommerce-admin.php:65
+msgid ""
+"This plugin depends on the Google Analytics by Yoast plugin. To allow the "
+"eCommerce tracking to work, please %sinstall &amp; activate Google "
+"Analytics by Yoast%s."
+msgstr ""
+
+#: lib/class-ga-ecommerce-admin.php:73
+msgid ""
+"Google Analytics eCommerce Tracking requires at least version %s of Google "
+"Analytics by Yoast."
+msgstr ""
+
+#: lib/class-ga-ecommerce-admin.php:75
+msgid "Please make sure you have installed the latest version."
+msgstr ""
+
+#: lib/class-ga-ecommerce-admin.php:85
+msgid ""
+"eCommerce tracking can only be used if Universal tracking is enabled. "
+"Please %sactivate Universal tracking%s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Google Analytics by Yoast eCommerce tracking addon"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://yoast.com/wordpress/plugins/ga-ecommerce/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Relying on the Google Analytics by Yoast plugin, this plugin allows you to "
+"track your eCommerce transactions."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Team Yoast"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yoast.com/"
+msgstr ""

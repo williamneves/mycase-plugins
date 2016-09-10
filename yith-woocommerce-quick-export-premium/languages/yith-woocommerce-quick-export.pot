@@ -1,0 +1,346 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Order Tracking\n"
+"POT-Creation-Date: 2016-01-28 14:16+0100\n"
+"PO-Revision-Date: 2015-05-18 14:30+0100\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __ ;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../init.php:45
+msgid ""
+"YITH WooCommerce Quick Export is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: ../lib/class.yith-dropbox.php:130
+msgid "Dropbox backup: unable to send file  -> "
+msgstr ""
+
+#: ../lib/class.yith-dropbox.php:150
+msgid "Dropbox backup: unable to disable authorization  -> "
+msgstr ""
+
+#: ../lib/class.yith-dropbox.php:171
+msgid "Dropbox backup: unable to retrieve account information  -> "
+msgstr ""
+
+#: ../lib/class.yith-dropbox.php:194
+msgid "Dropbox backup: unable to get access token  -> "
+msgstr ""
+
+#: ../lib/class.yith-woocommerce-quick-export.php:204
+#: ../templates/admin/create-job.php:121
+msgid "Weekly"
+msgstr ""
+
+#: ../lib/class.yith-woocommerce-quick-export.php:209
+msgid "Monthly"
+msgstr ""
+
+#: ../lib/class.yith-woocommerce-quick-export.php:282
+msgid "Please enter a valid folder/path name"
+msgstr ""
+
+#: ../lib/class.yith-woocommerce-quick-export.php:289
+msgid "Starting date must be earlier than ending date"
+msgstr ""
+
+#: ../lib/class.yith-woocommerce-quick-export.php:367
+msgid "Please enter a valid schedule time."
+msgstr ""
+
+#: ../lib/class.yith-woocommerce-quick-export.php:368
+msgid "Starting date must be earlier than/the same of ending date."
+msgstr ""
+
+#: ../lib/class.ywqe-custom-types.php:80
+#, php-format
+msgid ""
+"Dropbox backup is currently active for <b>%s</b>. <b>%s</b> used over <b>%s</"
+"b> total."
+msgstr ""
+
+#: ../lib/class.ywqe-custom-types.php:81
+msgid "Disable Dropbox"
+msgstr ""
+
+#: ../lib/class.ywqe-custom-types.php:84
+msgid ""
+"The authentication token provided is no longer valid, please repeat the "
+"Dropbox authentication steps."
+msgstr ""
+
+#: ../lib/class.ywqe-custom-types.php:93
+msgid "Login to Dropbox"
+msgstr ""
+
+#: ../lib/class.ywqe-export-job.php:181
+msgid "Export data"
+msgstr ""
+
+#: ../lib/class.ywqe-plugin-fw-loader.php:126
+msgid "General"
+msgstr ""
+
+#: ../lib/class.ywqe-plugin-fw-loader.php:127
+msgid "Data Exportation"
+msgstr ""
+
+#: ../lib/class.ywqe-plugin-fw-loader.php:128
+msgid "Schedule history"
+msgstr ""
+
+#: ../lib/class.ywqe-plugin-fw-loader.php:131
+#: ../lib/class.ywqe-plugin-fw-loader.php:193
+msgid "Premium Version"
+msgstr ""
+
+#: ../lib/class.ywqe-plugin-fw-loader.php:190
+msgid "Settings"
+msgstr ""
+
+#: ../lib/class.ywqe-plugin-fw-loader.php:218
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../lib/class.ywqe-plugin-fw-loader.php:231
+msgid ""
+"YITH WooCommerce Quick Export is available in an outstanding PREMIUM version "
+"with many new options, discover it now."
+msgstr ""
+
+#: ../lib/class.ywqe-plugin-fw-loader.php:232
+msgid "Premium version"
+msgstr ""
+
+#: ../lib/class.ywqe-plugin-fw-loader.php:239
+#: ../plugin-options/general-options.php:64
+msgid "YITH WooCommerce Quick Export"
+msgstr ""
+
+#: ../lib/class.ywqe-plugin-fw-loader.php:240
+msgid ""
+"In the YIT Plugins tab, you can find the YITH WooCommerce Quick Export "
+"options.<br> From this menu you can have access to all settings of the "
+"activated YITH plugins."
+msgstr ""
+
+#: ../plugin-options/general-options.php:17
+msgid "General Settings"
+msgstr ""
+
+#: ../plugin-options/general-options.php:23
+msgid "Path format"
+msgstr ""
+
+#: ../plugin-options/general-options.php:26
+msgid ""
+"Set the path where you want to store the documents. Use {{year}}, {{month}}, "
+"{{day}} as placeholders. For example: \"Backup/{{year}}/{{month}}\" will "
+"create a paths like Backup/2015/05, Backup/2015/06 for invoices stored per "
+"year and month; alternatively, leave blank for storing files in the root "
+"folder"
+msgstr ""
+
+#: ../plugin-options/general-options.php:34
+msgid "Filename format"
+msgstr ""
+
+#: ../plugin-options/general-options.php:37
+msgid ""
+"Set filename format for invoice documents. Use {{year}}, {{month}}, {{day}}, "
+"{{hours}}, {{minutes}}, {{seconds}} as placeholders."
+msgstr ""
+
+#: ../plugin-options/general-options.php:45
+msgid "Send documents to Dropbox"
+msgstr ""
+
+#: ../plugin-options/general-options.php:48
+msgid "Set automatic document backup to Dropbox."
+msgstr ""
+
+#: ../plugin-options/general-options.php:61
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#: ../plugin-options/general-options.php:65
+msgid "Discover The Advanced Features"
+msgstr ""
+
+#: ../plugin-options/general-options.php:66
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WooCommerce Quick Export to benefit "
+"from all features!"
+msgstr ""
+
+#: ../plugin-options/general-options.php:70
+msgid ""
+"See YITH WooCommerce Quick Export plugin with full premium features in action"
+msgstr ""
+
+#: ../plugin-options/general-options.php:72
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: ../plugin-options/general-options.php:73
+msgid ""
+"Purchasing the premium version of the plugin, you will take advantage of the "
+"advanced features of the product and you will get one year of free updates "
+"and support through our platform available 24h/24."
+msgstr ""
+
+#: ../templates/admin/create-job.php:2
+msgid "Create new scheduled job"
+msgstr ""
+
+#: ../templates/admin/create-job.php:12 ../templates/admin/create-job.php:16
+#: ../templates/admin/create-job.php:24 ../templates/admin/create-job.php:32
+msgid "Choose data to export"
+msgstr ""
+
+#: ../templates/admin/create-job.php:20
+msgid "Orders"
+msgstr ""
+
+#: ../templates/admin/create-job.php:28
+msgid "Customers"
+msgstr ""
+
+#: ../templates/admin/create-job.php:36
+msgid "Coupons"
+msgstr ""
+
+#: ../templates/admin/create-job.php:42
+msgid "Scheduled exportation"
+msgstr ""
+
+#: ../templates/admin/create-job.php:46
+msgid "Start exportation at specific date/time"
+msgstr ""
+
+#: ../templates/admin/create-job.php:55
+msgid "From"
+msgstr ""
+
+#: ../templates/admin/create-job.php:62
+msgid ""
+"Choose the starting date. Leave blank to start from the first item found."
+msgstr ""
+
+#: ../templates/admin/create-job.php:68
+msgid "To"
+msgstr ""
+
+#: ../templates/admin/create-job.php:76
+msgid "Choose the ending date. Leave blank to end with the last item found."
+msgstr ""
+
+#: ../templates/admin/create-job.php:82
+msgid "Exportation job name"
+msgstr ""
+
+#: ../templates/admin/create-job.php:88
+msgid "Set a univocal name for this exportation job"
+msgstr ""
+
+#: ../templates/admin/create-job.php:95
+msgid "Export on"
+msgstr ""
+
+#: ../templates/admin/create-job.php:106
+msgid "Choose when the exportation should start."
+msgstr ""
+
+#: ../templates/admin/create-job.php:112
+msgid "Recurrence"
+msgstr ""
+
+#: ../templates/admin/create-job.php:115
+msgid "None"
+msgstr ""
+
+#: ../templates/admin/create-job.php:118
+msgid "Daily"
+msgstr ""
+
+#: ../templates/admin/create-job.php:124
+msgid "Monthly (30 days)"
+msgstr ""
+
+#: ../templates/admin/create-job.php:132
+msgid "Confirm"
+msgstr ""
+
+#: ../templates/admin/create-job.php:135
+msgid "Cancel"
+msgstr ""
+
+#: ../templates/admin/exportation-history.php:5
+msgid "Processed task list"
+msgstr ""
+
+#: ../templates/admin/exportation-history.php:11
+msgid "Select bulk action"
+msgstr ""
+
+#: ../templates/admin/exportation-history.php:13
+msgid "Bulk Actions"
+msgstr ""
+
+#: ../templates/admin/exportation-history.php:14
+msgid "Move to Bin"
+msgstr ""
+
+#: ../templates/admin/exportation-history.php:16
+msgid "Apply"
+msgstr ""
+
+#: ../templates/admin/exportation-history.php:23
+#: ../templates/admin/jobs-table.php:13
+msgid "ID"
+msgstr ""
+
+#: ../templates/admin/exportation-history.php:24
+#: ../templates/admin/jobs-table.php:14
+msgid "Name"
+msgstr ""
+
+#: ../templates/admin/exportation-history.php:25
+#: ../templates/admin/jobs-table.php:15
+msgid "Exportation time"
+msgstr ""
+
+#: ../templates/admin/exportation-history.php:45
+msgid "Download"
+msgstr ""
+
+#: ../templates/admin/exportation-history.php:48
+#: ../templates/admin/jobs-table.php:40
+msgid "Delete"
+msgstr ""
+
+#: ../templates/admin/jobs-table.php:6
+msgid "Scheduled task list"
+msgstr ""
+
+#: ../templates/admin/jobs-table.php:8
+msgid "Add job"
+msgstr ""
+
+#: ../templates/admin/jobs-table.php:16
+msgid "Recurrency"
+msgstr ""

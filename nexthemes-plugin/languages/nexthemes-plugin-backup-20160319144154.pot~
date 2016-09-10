@@ -1,0 +1,978 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nexthemes Plugins\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Sep 03 2015 11:04:08 GMT+0700 (SE Asia Standard Time)\n"
+"POT-Revision-Date: Tue Jan 12 2016 22:00:15 GMT+0700 (SE Asia Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Nexthemes Plugins"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://nexthemes.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Nexthemes Plugins. It support only to Nexthemes."
+msgstr ""
+
+msgid "Nexthemes"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:26
+msgid ""
+"<strong>WARNING!</strong> If you disabled \"Static block\", some featured on "
+"theme will not working (Ex: Mega menu, Static block widget, Static block "
+"shortcode, ... )"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:42
+msgid "Basic Settings"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:49
+msgid "Ajax Search Settings"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:60
+msgid "Disable Features"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:61
+msgid "Ticking on the features that you want to disable"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:78
+msgid "Portfolio thumb size"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:91
+msgid "Team member thumb size"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:99
+msgid "Gallery thumb size (auto height)"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:109
+msgid "Seach product thumb size"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:119
+msgid "Min Char"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:127
+msgid "Result Limit"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:150
+msgid "Nexthemes Settings"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:150
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class.settings-api.php:212
+msgid "Hard Crop?"
+msgstr ""
+
+#: ../includes/class.settings-api.php:397
+msgid "Choose File"
+msgstr ""
+
+#: ../includes/ajax-search/class-ajax-search.php:90
+msgid "No results"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:33
+msgctxt "post type general name"
+msgid "NTH Galleries"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:34
+msgctxt "post type singular name"
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:35
+msgctxt "admin menu"
+msgid "NTH Galleries"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:36
+msgctxt "add new on admin bar"
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:37
+msgctxt "Gallery"
+msgid "Add New"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:38
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:39
+msgid "New Gallery"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:40
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:41
+msgid "View Gallery"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:42
+msgid "All Galleries"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:43
+msgid "Search Galleries"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:44
+msgid "Parent Galleries:"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:45
+msgid "No Gallery found."
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:46
+msgid "No Gallery found in Trash."
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:75 ../includes/portfolios/class-
+#: portfolios.php:84
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:76 ../includes/portfolios/class-
+#: portfolios.php:85
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:77 ../includes/portfolios/class-
+#: portfolios.php:86
+msgid "Search Categories"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:78 ../includes/portfolios/class-
+#: portfolios.php:87
+msgid "Popular Categories"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:79 ../includes/portfolios/class-
+#: portfolios.php:88
+msgid "All Categories"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:82 ../includes/portfolios/class-
+#: portfolios.php:91
+msgid "Edit Category"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:83 ../includes/portfolios/class-
+#: portfolios.php:92
+msgid "Update Category"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:84 ../includes/portfolios/class-
+#: portfolios.php:93
+msgid "Add New Category"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:85 ../includes/portfolios/class-
+#: portfolios.php:94
+msgid "New Category Name"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:86 ../includes/portfolios/class-
+#: portfolios.php:95
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:87 ../includes/portfolios/class-
+#: portfolios.php:96
+msgid "Add or remove Categories"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:88 ../includes/portfolios/class-
+#: portfolios.php:97
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:89 ../includes/portfolios/class-
+#: portfolios.php:98
+msgid "No Categories found."
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:90 ../includes/portfolios/class-
+#: portfolios.php:99
+msgid "Categories"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:108
+msgid "Gallery Images / Videos"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:129
+msgid "Gallery style"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:131
+msgid "Style 1"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:132
+msgid "Style 2"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:145 ../includes/gallery/class.gallery.
+#: php:156
+msgid "Delete image"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:145
+msgid "&times;"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:156
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:156
+msgid "Add to gallery"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:156
+msgid "Add gallery images"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:184
+msgid "Video Link"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:185 ../includes/gallery/class.gallery.
+#: php:234 ../includes/staticblocks/class-staticblocks.php:141
+msgid "Position"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:191 ../includes/woo-product-videos/class-
+#: wooproductvideos.php:325 ../includes/woo-product-videos/class-wooproductvideos.
+#: php:329
+msgid "No single tab found!"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:198 ../includes/gallery/class.gallery.
+#: php:243
+msgid "Add gallery video"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:207
+msgid "Video thumb"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:214 ../includes/woo-brands/class-woo-
+#: brands.php:91 ../includes/woo-brands/class-woo-brands.php:166 ../includes/woo-
+#: product-videos/class-wooproductvideos.php:235
+msgid "Choose an image"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:214 ../includes/woo-brands/class-woo-
+#: brands.php:93 ../includes/woo-brands/class-woo-brands.php:168 ../includes/woo-
+#: product-videos/class-wooproductvideos.php:235
+msgid "Use image"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:218 ../includes/woo-product-videos/class-
+#: wooproductvideos.php:239
+msgid "Add image"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:219 ../includes/woo-product-videos/class-
+#: wooproductvideos.php:240
+msgid "Remove"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:226
+msgid "Video link"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:373
+msgid "View All"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:380
+msgid "Sort by"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:382 ../includes/staticblocks/class-
+#: staticblocks.php:142
+msgid "Date"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:383 ../includes/woo-product-videos/class-
+#: wooproductvideos.php:370
+msgid "Title"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:384
+msgid "Random"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:386
+msgid "Sort"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:388
+msgid "DESC"
+msgstr ""
+
+#: ../includes/gallery/class.gallery.php:389
+msgid "ASC"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios-front.php:92
+msgid "ALL"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:40
+msgctxt "post type general name"
+msgid "NTH Portfolios"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:41
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:42
+msgctxt "admin menu"
+msgid "NTH Portfolios"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:43
+msgctxt "add new on admin bar"
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:44
+msgctxt "Portfolio"
+msgid "Add New"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:45
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:46
+msgid "New Portfolio"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:47
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:48
+msgid "View Portfolio"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:49
+msgid "All Portfolios"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:50
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:51
+msgid "Parent Portfolios:"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:52
+msgid "No Portfolios found."
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:53
+msgid "No Portfolios found in Trash."
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:115
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:116
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:117
+msgid "Search Tags"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:118
+msgid "Popular Tags"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:119
+msgid "All Tags"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:122
+msgid "Edit Tag"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:123
+msgid "Update Tag"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:124
+msgid "Add New Tag"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:125
+msgid "New Tag Name"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:126
+msgid "Separate tags with commas"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:127
+msgid "Add or remove tags"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:128
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:129
+msgid "No tags found."
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:130
+msgid "Tags"
+msgstr ""
+
+#: ../includes/shortcodes/class-shortcodes.php:80 ../includes/shortcodes/class-
+#: shortcodes.php:86
+msgid "My Account"
+msgstr ""
+
+#: ../includes/shortcodes/class-shortcodes.php:92
+msgid "Username"
+msgstr ""
+
+#: ../includes/shortcodes/class-shortcodes.php:93
+msgid "Password"
+msgstr ""
+
+#: ../includes/shortcodes/class-shortcodes.php:94
+msgid "Remember Me"
+msgstr ""
+
+#: ../includes/shortcodes/class-shortcodes.php:95
+msgid "Log In"
+msgstr ""
+
+#: ../includes/shortcodes/class-shortcodes.php:105
+msgid "Login"
+msgstr ""
+
+#: ../includes/shortcodes/class-shortcodes.php:110
+#, php-format
+msgid ""
+"New to our store? <a href=\"%1$s\" title=\"Create an Account\">Create an "
+"Account</a>"
+msgstr ""
+
+#: ../includes/shortcodes/class-woo-shortcodes.php:600
+msgid "Logout"
+msgstr ""
+
+#: ../includes/shortcodes/class-woo-shortcodes.php:605
+msgid "My Order"
+msgstr ""
+
+#: ../includes/shortcodes/class-woo-shortcodes.php:608
+msgid "My Wishlist"
+msgstr ""
+
+#: ../includes/shortcodes/class-woo-shortcodes.php:611
+msgid "Track my order"
+msgstr ""
+
+#: ../includes/shortcodes/class-woo-shortcodes.php:613
+msgid "Custom Account page"
+msgstr ""
+
+#: ../includes/shortcodes/class-woo-shortcodes.php:614
+msgid "Log Out"
+msgstr ""
+
+#: ../includes/shortcodes/class-woo-shortcodes.php:965
+#, php-format
+msgid "%s Item"
+msgid_plural "%s Items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/shortcodes/class-woo-shortcodes.php:967 ..
+#: /includes/shortcodes/class-woo-shortcodes.php:967
+msgid "shop now"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:22
+msgctxt "post type general name"
+msgid "Static blocks"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:23
+msgctxt "post type singular name"
+msgid "Block"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:24
+msgctxt "admin menu"
+msgid "NTH Blocks"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:25
+msgctxt "add new on admin bar"
+msgid "Block"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:26
+msgctxt "static block"
+msgid "Add New"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:27
+msgid "Add New Static Blocks"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:28
+msgid "New Block"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:29
+msgid "Edit Block"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:30
+msgid "View Block"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:31
+msgid "Static Blocks"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:32
+msgid "Search Static Blocks"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:33
+msgid "Parent Static Blocks:"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:34
+msgid "No Static blocks found."
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:35
+msgid "No Static blocks found in Trash."
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:77
+msgid "--Select--"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:152
+msgid "Mega menu"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:155
+msgid "Widget"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:158
+msgid "Standard"
+msgstr ""
+
+#: ../includes/teams/class-team-members-admin.php:27
+msgid "Role"
+msgstr ""
+
+#: ../includes/teams/class-team-members-admin.php:30
+msgid "Name"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:33
+msgctxt "post type general name"
+msgid "Team Members"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:34
+msgctxt "post type singular name"
+msgid "Team Member"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:35
+msgctxt "admin menu"
+msgid "NTH Members"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:36
+msgctxt "add new on admin bar"
+msgid "Team Members"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:37
+msgctxt "Team Member"
+msgid "Add New"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:38
+msgid "Add New Member"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:39
+msgid "New Member"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:40
+msgid "Edit Member"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:41
+msgid "View Member"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:42
+msgid "All Members"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:43
+msgid "Search Members"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:44
+msgid "Parent Member:"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:45
+msgid "No Members found."
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:46
+msgid "No Members found in Trash."
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:28
+msgctxt "taxonomy general name"
+msgid "Brands"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:29
+msgctxt "taxonomy singular name"
+msgid "Brand"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:30
+msgid "Search Brands"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:31
+msgid "Popular Brands"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:32
+msgid "All Brands"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:35
+msgid "Edit Brand"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:36
+msgid "Update Brand"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:37
+msgid "Add New Brand"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:38
+msgid "New Brand Name"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:39
+msgid "Separate Brands with commas"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:40
+msgid "Add or remove Brands"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:41
+msgid "Choose from the most used Brands"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:42
+msgid "No Brand found."
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:43
+msgid "Brands"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:62 ../includes/woo-brands/class-
+#: woo-brands.php:136 ../includes/woo-brands/class-woo-brands.php:230 ..
+#: /includes/woo-product-videos/class-wooproductvideos.php:234
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:66 ../includes/woo-brands/class-
+#: woo-brands.php:141
+msgid "Upload/Add image"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:67 ../includes/woo-brands/class-
+#: woo-brands.php:142
+msgid "Remove image"
+msgstr ""
+
+#: ../includes/woo-brands/class-woo-brands.php:210
+msgid "Image"
+msgstr ""
+
+#: ../includes/woo-gridlisttoggle/class-gridlisttoggle.php:15 ../includes/woo-
+#: gridlisttoggle/class-gridlisttoggle.php:20
+msgid "Default catalog view"
+msgstr ""
+
+#: ../includes/woo-gridlisttoggle/class-gridlisttoggle.php:21
+msgid "Display products in grid or list view by default"
+msgstr ""
+
+#: ../includes/woo-gridlisttoggle/class-gridlisttoggle.php:25
+msgid "Grid"
+msgstr ""
+
+#: ../includes/woo-gridlisttoggle/class-gridlisttoggle.php:26
+msgid "List"
+msgstr ""
+
+#: ../includes/woo-gridlisttoggle/class-gridlisttoggle.php:27
+msgid "Table"
+msgstr ""
+
+#: ../includes/woo-gridlisttoggle/class-gridlisttoggle.php:79 ../includes/woo-
+#: gridlisttoggle/class-gridlisttoggle.php:79
+msgid "Grid view"
+msgstr ""
+
+#: ../includes/woo-gridlisttoggle/class-gridlisttoggle.php:79 ../includes/woo-
+#: gridlisttoggle/class-gridlisttoggle.php:79
+msgid "List view"
+msgstr ""
+
+#: ../includes/woo-gridlisttoggle/class-gridlisttoggle.php:79 ../includes/woo-
+#: gridlisttoggle/class-gridlisttoggle.php:79
+msgid "Table view"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:122
+msgid "Videos"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:127
+msgid "Single Tabs"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:140
+msgid "No videos found!"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:210
+msgid "Attached videos"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:215
+msgid "Thumb"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:216
+msgid "Preview"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:251
+msgid "Video URL"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:252
+msgid "You can use video link on youtube or vimeo"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:262
+msgid "Enter the external URL to the youtube or vimeo."
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:272
+msgid "Media upload"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:273
+msgid "You can upload media file as mp4, ogg, webm."
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:279
+msgid "Choose an video"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:281
+msgid "Use This Video"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:295
+msgid "Upload Video"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:296
+msgid "Remove Video"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:312
+msgid "Add Video"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:342
+msgid "Mobile"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:345
+msgid "Tablet"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:348
+msgid "Desktop"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:365
+msgid "Single tabs"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:371
+msgid "Static block"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:372
+msgid "Hidden on"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:384
+msgid "Tab title"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:394
+msgid "Custom content"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:397
+msgid "Please create a NTH Staticblock and select it in here."
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:402
+msgid "Hidden on devices"
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:404
+msgid "Hidden on mobile."
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:406
+msgid "Hidden on table."
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:408
+msgid "Hidden on PC."
+msgstr ""
+
+#: ../includes/woo-product-videos/class-wooproductvideos.php:413
+msgid "Add Single Tab"
+msgstr ""
+
+#: ../templates/album-portfolio.tpl.php:32
+#, php-format
+msgid "%d image"
+msgid_plural "%d images"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/album-portfolio.tpl.php:36
+#, php-format
+msgid "%d video"
+msgid_plural "%d videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/pricing.tpl.php:23
+#, php-format
+msgid "/%s"
+msgstr ""
+
+#: ../templates/shortcode-comments.tpl.php:13
+msgid "By"
+msgstr ""
+
+#: ../templates/shortcode-features.tpl.php:96
+msgid "Learn more"
+msgstr ""
+
+#: ../templates/shortcode-feedburner.tpl.php:4
+msgid "enter your email address"
+msgstr ""
+
+#: ../templates/shortcode-product-subcaterories.tpl.php:70
+msgid "Show now"
+msgstr ""
+
+#: ../templates/shortcode-woo-cats.tpl.php:82
+#, php-format
+msgid "%s product"
+msgid_plural "%s products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/shortcode-woo-cats.tpl.php:86
+msgid "Shop Now"
+msgstr ""

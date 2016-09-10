@@ -1,0 +1,77 @@
+/*.yith_wcmap_endpoint_order_container input[type="checkbox"] {*/
+    /*display: none;*/
+/*}*/
+.yith_wcmap_endpoint_container .endpoint,
+.yith_wcmap_endpoint_container .add-endpoint {
+    border: 1px solid #dfdfdf;
+    position: relative;
+    padding: 10px 15px;
+    height: auto;
+    min-height: 20px;
+    line-height: 30px;
+    overflow: hidden;
+    word-wrap: break-word;
+    display: block;
+    background-color: #fff;
+}
+
+.yith_wcmap_endpoint_container .endpoint .header {
+    position: relative;
+    cursor: move;
+}
+.yith_wcmap_endpoint_container .endpoint .header label {
+    cursor: pointer;
+}
+.yith_wcmap_endpoint_container .endpoint .header .open-options {
+    position: absolute;
+    width: 20px;
+    text-align: center;
+    right: -2px;
+    padding: 7px;
+    cursor: pointer;
+    opacity: 0.7;
+}
+.yith_wcmap_endpoint_container .endpoint .header .open-options:hover {
+    opacity: 1;
+}
+
+.yith_wcmap_endpoint_container .add-endpoint {
+    border-style: dashed;
+    cursor: pointer;
+    background: #fff url('../images/add-icon.png') no-repeat center center;
+}
+
+.yith_wcmap_endpoint_container .header input[type="checkbox"] {
+    margin-left: -22px;
+    opacity: 0;
+}
+.yith_wcmap_endpoint_container .header input[type="checkbox"] ~ .fa {
+    opacity: 0.2;
+    margin-right: 10px;
+}
+.yith_wcmap_endpoint_container .header input[type="checkbox"]:checked ~ .fa {
+    opacity: 1;
+}
+
+.yith_wcmap_endpoint_container .endpoint .options .options-row {
+    text-align: right;
+}
+.yith_wcmap_endpoint_container .endpoint .options .options-row a {
+    font-size: 12px;
+    padding: 1px 2px;
+    text-decoration: none;
+}
+.yith_wcmap_endpoint_container .endpoint .options .options-row a.remove-link {
+    color: #a00;
+}
+.yith_wcmap_endpoint_container .endpoint .options .options-row a.remove-link:hover,
+span.checking i.fa-times {
+    color: #f00;
+}
+.new-endpoint-form .error-msg {
+    font-style: italic;
+    color: #f00;
+}
+span.checking i.fa-check {
+    color: #56AA29;
+}

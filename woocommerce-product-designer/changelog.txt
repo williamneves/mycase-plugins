@@ -1,0 +1,307 @@
+Version 3.11 - February 23rd, 2016
+-Added: ability to define default, minimum and maximum font size  
+-Added: ability to define default text and cliparts colors
+-Added: lazyload effect on cliparts (cliparts settings)
+-Added: ability to set the pricing rules based on the additionnel items on the editor
+-Fixed issue: background image included and not included are switched on the canvas
+-Fixed issue: curved text color does not stay when we run any other action after adding it to the canvas.
+-Fixed issue: price are doubled on cart page when WPML is active
+
+Version 3.10 - January 28th, 2016
+-Fixed issue: The overlay image is always included in the output no matter if it's included or not in the parts
+-Fixed issue: Colors customizations for add to cart button and other elements in the same box does not work.
+-Fixed issue: Can't select all products on the bulk definition page to apply the bulk discounts
+-Fixed issue: Quantities box are not displayed when there are no related product or quantity enabled.
+-Fixed issue: Can't uncheck the background image not included checkbox
+-Fixed issue: Editor does not load when the related products have been set once for the product which has been changed from variable to simple
+-Fixed issue: WPML templates creation issue after selecting the base product
+-Fixed issue: Pricing rules tabs does not show up for variable products
+-Fixed issue: Fonts selector does not apply the fonts changes unless we click on the editor after the switch
+-Fixed issue: Bulk definition feature raises an error when used.
+-Fixed issue: Can't disable related products once they're disabled.
+
+Version 3.9 - January 15th, 2016
+-Added ninja form fields to woocommerce emails
+-Added ability to display the proper price when Woocommerce Advanced Discounts (http://codecanyon.net/item/woocommerce-advanced-discounts/12695982) is enabled
+-Added ORION library to WPD
+-Added new pricing rule scope Per additionnal item
+-Optimized product settings management: variations settings are now part of the variations tabs loaded by woocommerce.
+-Optimized global settings: UI customizations now include the Design from blank, Upload my own Designs and Browse our Templates buttons
+-Optimized global settings: All UI settings are moved to there own tab in to keep them together.
+-Fixed CMYK missing icc profiles issues
+-Fixed rounded rectangle issue where canvas is unusable when the rounded rectangle is enabled
+
+Version 3.8.1 - November 27th, 2015
+-Added design decomposition in the order details page
+-Added option to enable the responsive behavior (disabled by default)
+-Improved google fonts selection process to include a dropdown of all existing google fonts to choose from
+-Updated translation files
+-Fixed issue with "Upload my own design" for variable products
+
+Version 3.8 - November 23th, 2015
+-Fixed PDF download issue when only PDF is enabled in the output settings
+-Improved output generation to generate borderless PDF files
+-Fixed Yoast compatibility issue with the template creation interface
+
+Version 3.7.6 - November 16th, 2015
+-Added cross origin image loading
+-Improved SVG export by embbeding every image used in the file
+-Improved templates design by increasing the design area
+-Fixed issue with formats when generating a PDF
+-Removed responsivity feature (too buggy)
+
+Version 3.7.5 - October 06th, 2015
+-Fixed issue with fonts when generating a PDF
+
+Version 3.7.5 - October 06th, 2015
+-Fixed bug with related products and quantities
+-Fixed compatibility issue with visual composer when VC is enabled for products
+-Fixed ninja form calculation issue
+-Fixed template link issue when multiple "Browse our templates" buttons are displayed on the same page.
+
+Version 3.7.4 - August 29th, 2015
+-Fixed compatibility issue with woocommerce 2.4.6
+
+Version 3.7.3 - August 26th, 2015
+-Fixed simple products creation issue
+-Fixed error message on templates creation page
+
+Version 3.7.2 - August 24th, 2015
+-Improved products tabs loading to only fetch data when needed for performance
+
+Version 3.7.1 - August 19th, 2015
+-Minor bug fixes
+
+Version 3.7 - August 17th, 2015
+-Added ability to output a svg file
+-Added ability to change the edited variation in the edition page
+-Added ability to purchase multiple variations at once for the same design
+-Added ability to upload TTF fonts
+-Fixed bug: Templates are always saved in the draft status
+-Fixed bug: Facebook & Instagram images extractions need to run twice before extracting the pictures
+
+
+Version 3.6 - June 27th, 2015
+-Added ability to define the parameters for multiple products at once
+-Added ability to duplicate a template
+-Added ability to change a template base product
+-Fixed bug: Templates stay in draft status after creation/update
+-Fixed bug: Edit button does not work on cart page for custom products when the shop permalink structure is set to default.
+
+Version 3.5 - June 06th, 2015
+-Added ability to define different templates pages per variation
+-Added bounding box feature
+-Updated upload my own design to show up in a popup
+-Added minimum server requirements verification feature
+-Fixed bug in the output generation with cmyk, pdf and layers active
+-Fixed bug: Preview button color can't be changed
+-Fixed bug: Vertical and horizontal alignment issues
+-Fixed bug: Issue with text font-size when a text is selected
+
+Version 3.4 - May 20th, 2015
+-Added: Ability to customize the editor colors and icons
+-Added: Quantity minimum, maximum & steps integration (based on woocommerce parameters)
+-Added: Price formatting integration (based on woocommerce parameters)
+-Fixed bug: Flush issue with permalinks (404 error on the customization page)
+-Fixed bug: Upload my own design issue on shop page
+-Fixed bug: Toolbar buttons are not working on mobile devices
+-Fixed bug: Watermark issue when downloading a part image
+
+Version 3.3 - May 04th, 2015
+-Added: Watermark feature for preview and PDF downloads
+-Fixed bug: When an item is selected on the design area, the related tab is not openned by default.
+-Fixed bug: When the modal script is disabled in the settings, it's still loaded.
+-Fixed bug: When a text element is selected, updated from the textarea used to add it, the updates does not apply to the selected text component
+-Improved feature: On selection, the editor automatically recognize the selected element and open the related tab accordingly.
+-Improved feature: Social media extraction will now avoid hibrydAuth conflicts
+-Improved loading: Minified all JS and CSS files
+
+Version 3.2 - April 26th, 2015
+-Fixed bug: Templates creation issue when a ninja form is linked to the base product
+-Fixed bug: The controls/tabs disabled in the plugin settings are still visible from in the front
+-Fixed bug: The Browse our templates buttons on the product page is still visible even if disabled
+-Fixed bug: Can't add extracted social networks pictures to the canvas
+
+Version 3.1 - April 21th, 2015
+-Fixed bug: Preview, Download, Save, Add to cart still show up even when hidden in the plugin settings
+-Fixed bug: automatic updater can't run the update
+
+Version 3.0 - April 18th, 2015
+
+-New interface which includes responsive features
+-Added Overlay image not included in the output feature
+-Added new text decoration features: overline and strike-through
+-Added text alignment features (left, center, right)
+-Added mobile version of colorpicker
+-Added automatic updates detection from codecanyon
+-Added ability to configure different outputs per product
+-Added ability to upload multiple custom designs on product details page
+-Added ability to configure the PDF format (A1, A2, A3, A4, ....up to 140 standard formats) 
+-Added ability to configure the PDF orientation (Portrait or Landscape)
+-Added ability to configure the PDF margins (top/bottom and left/right)
+-Improved plugin data storage in database (w've added an updater to help migrate the old data to new structure)	
+-Improved resources (js and css) loading per page
+-Fixed overlay images bug when overlay/background images were not defined before creating the template but after
+-Upgraded url structures to use permalinks style (like /customization-page/design/638
+-Removed bounding box feature (can be easily replaced by the overlay image feature)
+
+Version 2.3 - February 20th, 2015
+
+-Fixed issue with canvas dimensions
+
+
+Version 2.3 - February 14th, 2015
+
+-Checked compatibility for woocommerce 2.3
+-Added ability for the font list in the customizer to actually show what the fonts look like, instead of just the name of the font?
+-Added progress bar for upload my own design
+-Added new strings to translation files
+-Added a setting to fix bootstrap modal popups conflicts
+-Added colorpicker for the colors inputs in the settings
+-Added ability to create additionnal fields under the editor using ninja forms
+-Added controls for the zip extension loaded and if not, write an error message.
+-Fixed grid mode incompatibility with canvas background
+-Fixed compatibility issue with Visual Composer
+-Fixed unchecked checkboxes issues in the defaults settings once the plugin is active
+-Removed HD picture display in the preview mode
+
+
+Version 2.2 - December 04th, 2014
+
+-Added zoom feature
+-Added CMYK conversion option (requires imagemagick)
+-Added library tcpdf check before load to avoid conflicts
+-Added inline text edition feature
+-Fixed user saved design bug
+-Fixed line break issue on template edition page
+-Fixed designs position in the cart bug
+-Fixed new element issue with positionned bounding box
+
+
+Version 2.1.3 - October 31st, 2014
+
+-Fixed social medias issue
+
+
+Version 2.1.1 - October 13th, 2014
+
+-Fixed download issues
+-Removed cart debug display 
+
+
+Version 2.1 - October 13th, 2014
+
+-Added new strings to translation files
+-Added preview for custom adobe files uploads (require imagick)
+-Added support for adobe files on the editor (require imagick)
+-Added automatic error detection and debug display for editor ajax requests (add to cart, save for later and download processes)
+-Added new translation files
+-Improved image upload: image automatically added to canvas after upload
+-Improved HD images generation and transfer from the editor to the server
+-Fixed custom design update while adding to cart
+-Fixed small images fit in the editor issue
+
+
+Version 2.0 - September 29th, 2014
+
+-Added ability to customize the tool colors and icons
+-Added support for layered PDF outputs
+-Improved parts and fonts forms
+
+
+Version 1.7 - September 23rd, 2014
+
+-Added compatibility for woocommerce 2.2
+-Fixed download links issues on design page
+-Improved fonts loading
+
+
+Version 1.6 - September 10th, 2014
+
+-Minor bugs fixes
+
+
+Version 1.5 - September 04th, 2014
+
+- Added ability to define the canvas dimensions
+- Added browse template and upload designs on shop page
+- Added ability to configure the download buttons
+- Added ability to send the ordered designs by mail after the checkout
+- Improved SVG rescaling algorithm
+- Improved performance in huge files generation
+- Improved ajax requests by using the native wp ajax system
+- Fixed price issue when adding clipart to existing group
+- Fixed popup display issue on user designs tab
+
+
+Version 1.4 - August 26th, 2014
+
+- Added Curved text element
+- Added controls for empty edition areas before printing or downloading
+- Added dynamic scaling for high resolution image in canvas background and overlay
+- Added setting to configure the output loop delay in the output generation process
+- Added new post label on template creation page
+- Added ability to go to the cart after adding a customized product to the cart
+- Added cliparts strings to translation
+- Added templates strings to translation
+- Added link to base product on templates list in admin areale lien vers le base product dans la liste des templates
+
+
+Version 1.2.1 - August 14th, 2014
+
+-Fixed multi picture in PDF output bug
+-Added ability to lock item deletion in template
+
+
+Version 1.1 - August 6th, 2014
+
+Added ability to configure the number of designs in the output PDF file
+
+
+Version 1.0 - August 4th, 2014
+
+-Added ability to assign a price to a clipart
+-Added ability to use pricing rules to every customizable product
+-Added ability to lock the layers in the templates
+-Added ability to send the customized data to the client by mail
+-Added ability to choose what's generated in the output
+-Fixed custom order display on user account page
+-Fixed modal popup compatibility issues
+-Fixed quantity style on the product customization page
+-Fixed custom attributes display in the cart
+-Documentation updated
+
+
+Version 0.4.1 - July 9th, 2014
+
+-Fixed nav menu issue
+-Fixed loading issue on migration
+-Fixed cart attributes warning for simple products
+-Fixed block UI not synced with the end of the generation process
+-Fixed PDF Generation issue on SVG
+-Added products parts control (admin notice)
+-Fixed square rectangle issue
+-Fixed redirection issue after adding a font
+
+
+Version 0.4 - July 8th, 2014
+
+-Added PDF output format
+-Added rectangle border radius for clip bouding box
+-Added a centralized menu for all the plugin submenus and settings
+-Added automatic tab opening upon object selection
+-Added overlay picture feature
+-Added background picture included feature
+-Added shortcodes to display products and templates
+-Added ability to disable customizations buttons
+-Added error messages for products without parts
+-Added ability to create parts without background images
+-Added SVG colorization option by path,by colors or disabled
+-Added ability to hide buttons (preview, download or save) on the customization page
+-Added ability to define usable colors palette
+-Removed shortcode usage for customization page
+-Removed shapes tab
+-Fixed Upload progress bar display
+-Fixed multiline text issues
+-Fixed redirection bug on parts update
+-Fixed custom variable products attributes display on cart and order details page

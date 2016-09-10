@@ -1,0 +1,416 @@
+# Copyright (C) 2015 YIThemes
+# This file is distributed under the same license as the YITH Plugin Starter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Custom Order Status\n"
+"Report-Msgid-Bugs-To: Your Inspiration Themes <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2016-06-15 11:18+0200\n"
+"PO-Revision-Date: 2016-06-15 11:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <info@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: class.yith-wccos-admin-premium.php:222
+msgid "Status Type"
+msgstr "Tipo di stato"
+
+#: class.yith-wccos-admin-premium.php:223
+msgid "Select a type for your status."
+msgstr "Seleziona un tipo per il tuo stato."
+
+#: class.yith-wccos-admin-premium.php:226
+msgctxt "Select status type"
+msgid "Custom Status"
+msgstr "Stato personalizzato"
+
+#: class.yith-wccos-admin-premium.php:227
+msgctxt "Select status type"
+msgid "Pending Payment"
+msgstr "In attesa di pagamento"
+
+#: class.yith-wccos-admin-premium.php:228
+msgctxt "Select status type"
+msgid "Processing"
+msgstr "In elaborazione"
+
+#: class.yith-wccos-admin-premium.php:229
+msgctxt "Select status type"
+msgid "On Hold"
+msgstr "In sospeso"
+
+#: class.yith-wccos-admin-premium.php:230
+msgctxt "Select status type"
+msgid "Completed"
+msgstr "Completato"
+
+#: class.yith-wccos-admin-premium.php:231
+msgctxt "Select status type"
+msgid "Cancelled"
+msgstr "Cancellato"
+
+#: class.yith-wccos-admin-premium.php:232
+msgctxt "Select status type"
+msgid "Refunded"
+msgstr "Rimborsato"
+
+#: class.yith-wccos-admin-premium.php:233
+msgctxt "Select status type"
+msgid "Failed"
+msgstr "Fallito"
+
+#: class.yith-wccos-admin-premium.php:243
+#: class.yith-wccos-admin-premium.php:270
+msgid "Icon"
+msgstr "Icona"
+
+#: class.yith-wccos-admin-premium.php:244
+msgid "Icon of your status"
+msgstr "Icona del tuo stato"
+
+#: class.yith-wccos-admin-premium.php:249
+msgid "Default"
+msgstr "Default"
+
+#: class.yith-wccos-admin-premium.php:250
+msgid "Choose Icon"
+msgstr "Scegli icona"
+
+#: class.yith-wccos-admin-premium.php:266
+msgid "Graphic Style"
+msgstr "Stile grafico"
+
+#: class.yith-wccos-admin-premium.php:267
+msgid "Style of your status button and indicator"
+msgstr "Stile del tuo pulsante di stato e indicatore"
+
+#: class.yith-wccos-admin-premium.php:271
+msgid "Text"
+msgstr "Testo"
+
+#: class.yith-wccos-admin-premium.php:278
+msgid "Next Actions"
+msgstr "Prossime azioni"
+
+#: class.yith-wccos-admin-premium.php:279
+msgid "Select statuses that will be enabled by this status"
+msgstr "Seleziona gli stati che saranno attivati per questo stato"
+
+#: class.yith-wccos-admin-premium.php:291
+msgid "User can cancel"
+msgstr "L'utente può annullare"
+
+#: class.yith-wccos-admin-premium.php:292
+msgid ""
+"Choose whether the customer can cancel orders when this status is applied or "
+"not"
+msgstr ""
+"Scegli se il cliente può o meno cancellare gli ordini quando viene applicato "
+"questo stato"
+
+#: class.yith-wccos-admin-premium.php:298
+msgid "User can pay"
+msgstr "L'utente può pagare"
+
+#: class.yith-wccos-admin-premium.php:299
+msgid ""
+"Choose whether the customer can pay orders when this status is applied or not"
+msgstr ""
+"Scegli se il cliente può o meno pagare gli ordini quando viene applicato "
+"questo stato"
+
+#: class.yith-wccos-admin-premium.php:305
+msgid "Allow Downloads"
+msgstr "Consenti i download"
+
+#: class.yith-wccos-admin-premium.php:306
+msgid ""
+"Choose whether you want to allow downloads when this status is applied or not"
+msgstr ""
+"Scegli se vuoi permettere i download o meno quando viene applicato questo "
+"stato"
+
+#: class.yith-wccos-admin-premium.php:312
+msgid "Display in Reports"
+msgstr "Mostra nei report"
+
+#: class.yith-wccos-admin-premium.php:313
+msgid ""
+"Choose whether you want to include orders marked with this status in Reports"
+msgstr ""
+"Scegli se vuoi includere nei report gli ordini marcati con questo stato"
+
+#: class.yith-wccos-admin-premium.php:319
+#: class.yith-wccos-admin-premium.php:327
+msgid "Email Settings"
+msgstr "Impostazioni email"
+
+#: class.yith-wccos-admin-premium.php:320
+msgid "To set emails for WooCommerce default status, use WooCommerce Panel in "
+msgstr ""
+"Per impostare lo stato di default di WooCommerce utilizza WooCommerce Panel "
+"in "
+
+#: class.yith-wccos-admin-premium.php:320
+msgid "WooCommerce -> Settings -> Emails"
+msgstr "WooCommerce -> Settings -> Emails"
+
+#: class.yith-wccos-admin-premium.php:330
+msgid "Send email to"
+msgstr "Invia email a"
+
+#: class.yith-wccos-admin-premium.php:331
+msgid ""
+"Choose recipients of email notifications for this status; you can configure "
+"email settings from tab \"Email Settings\" on top"
+msgstr ""
+"Scegli i destinatari delle notifiche email per questo stato; puoi "
+"configurare le impostazioni email dalla tab \"Email Settings\" in alto"
+
+#: class.yith-wccos-admin-premium.php:334
+msgid "None"
+msgstr "Nessuno"
+
+#: class.yith-wccos-admin-premium.php:335
+msgid "Administrator"
+msgstr "Amministratore"
+
+#: class.yith-wccos-admin-premium.php:336
+msgid "Customer"
+msgstr "Cliente"
+
+#: class.yith-wccos-admin-premium.php:337
+msgid "Administrator and Customer"
+msgstr "Amministratore e cliente"
+
+#: class.yith-wccos-admin-premium.php:338
+msgid "Custom Email Address"
+msgstr "Indirizzo email personalizzato"
+
+#: class.yith-wccos-admin-premium.php:343
+msgid "Recipient Email Address"
+msgstr "Indirizzo email destinatario"
+
+#: class.yith-wccos-admin-premium.php:344
+msgid ""
+"Type here the email address to notify when the selected status is selected"
+msgstr ""
+"Scrivi qui l'indirizzo email per notificare quando lo stato scelto viene "
+"selezionato"
+
+#: class.yith-wccos-admin-premium.php:350
+msgid "\"From\" Name"
+msgstr "\"Da\" nome"
+
+#: class.yith-wccos-admin-premium.php:351
+msgid "Enter the email sender name which will appear to recipients"
+msgstr "Inserisci il nome del mittente email che apparirà ai destinatari"
+
+#: class.yith-wccos-admin-premium.php:357
+msgid "\"From\" Email Address"
+msgstr "\"Da\" indirizzo email"
+
+#: class.yith-wccos-admin-premium.php:358
+msgid "Enter the email address which will appear to recipients"
+msgstr "Inserisci l'indirizzo email che apparirà ai destinatari"
+
+#: class.yith-wccos-admin-premium.php:364
+msgid "Email Subject"
+msgstr "Soggetto email"
+
+#: class.yith-wccos-admin-premium.php:365
+msgid "Enter the email subject which will appear to recipients of the email"
+msgstr "Inserisci l'oggetto che apparirà ai destinatari delle e-mail"
+
+#: class.yith-wccos-admin-premium.php:371
+msgid "Email Heading"
+msgstr "Intestazione email"
+
+#: class.yith-wccos-admin-premium.php:372
+msgid "Enter the heading you want to appear in the email sent"
+msgstr ""
+"Inserisci l'intestazione che desideri visualizzare nella e-mail inviata"
+
+#: class.yith-wccos-admin-premium.php:378
+msgid "Custom Message"
+msgstr "Messaggio personalizzato"
+
+#: class.yith-wccos-admin-premium.php:379
+msgid ""
+"Available Shortcodes: {customer_first_name} , {customer_last_name} , "
+"{order_date} , {order_number} , {order_value} , {billing_address} , "
+"{shipping_address}"
+msgstr ""
+"Shortcode disponibili:  {customer_first_name} , {customer_last_name} , "
+"{order_date} , {order_number} , {order_value} , {billing_address} , "
+"{shipping_address}"
+
+#: class.yith-wccos-admin-premium.php:385
+msgid "Include Order Information"
+msgstr "Includi informazioni dell'ordine"
+
+#: class.yith-wccos-admin-premium.php:386
+msgid ""
+"Select whether you want to include order information (billing and shipping "
+"address, order items, total, etc)"
+msgstr ""
+"Seleziona se vuoi includere le informazioni dell'ordine (indirizzo di "
+"fatturazione e consegna, prodotti dell'ordine, totale, etc.)"
+
+#: class.yith-wccos-admin-premium.php:433
+#: class.yith-wccos-admin-premium.php:466 class.yith-wccos-admin.php:249
+msgid "Complete"
+msgstr "Completa"
+
+#: class.yith-wccos-admin-premium.php:506
+msgid "Mark"
+msgstr "Contrassegna"
+
+#: class.yith-wccos-admin.php:175
+#, php-format
+msgid "Status changed because of the deletion of \"%s\" custom status"
+msgstr ""
+"Lo stato è cambiato a causa dell'eliminazione dello stato personalizzato \"%s"
+"\""
+
+#: class.yith-wccos-admin.php:241
+msgid "Processing"
+msgstr "In elaborazione"
+
+#: class.yith-wccos-admin.php:321
+#, php-format
+msgid " <span class=\"count\">(%s)</span>"
+msgid_plural " <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span>"
+msgstr[1] "<span class=\"count\">(%s)</span>"
+
+#: class.yith-wccos-admin.php:335 class.yith-wccos-admin.php:336
+msgid "Order Status"
+msgstr "Stato dell'ordine"
+
+#: class.yith-wccos-admin.php:337
+msgid "Add Order Status"
+msgstr "Aggiungi stato dell'ordine"
+
+#: class.yith-wccos-admin.php:338
+msgid "New Order Status"
+msgstr "Nuovo stato dell'ordine"
+
+#: class.yith-wccos-admin.php:339
+msgid "Edit Order Status"
+msgstr "Modifica stato dell'ordine"
+
+#: class.yith-wccos-admin.php:340
+msgid "View Order Status"
+msgstr "Vedi lo stato dell'ordine"
+
+#: class.yith-wccos-admin.php:341
+msgid "Order Status not found"
+msgstr "Stato dell'ordine non trovato"
+
+#: class.yith-wccos-admin.php:342
+msgid "Order Status not found in trash"
+msgstr "Stato dell'ordine non trovato nel cestino"
+
+#: class.yith-wccos-admin.php:364
+msgid "Status Options"
+msgstr "Opzioni di stato"
+
+#: class.yith-wccos-admin.php:370 class.yith-wccos-admin.php:411
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: class.yith-wccos-admin.php:373
+msgid "Slug"
+msgstr "Slug"
+
+#: class.yith-wccos-admin.php:374
+msgid "Unique slug of your status"
+msgstr "Slug unico per il tuo stato"
+
+#: class.yith-wccos-admin.php:380
+msgid "Color"
+msgstr "Colore"
+
+#: class.yith-wccos-admin.php:381
+msgid "Color of your status"
+msgstr "Colore del tuo stato"
+
+#: class.yith-wccos-admin.php:413 class.yith-wccos-admin.php:459
+msgid "Premium Version"
+msgstr "Versione premium"
+
+#: class.yith-wccos-admin.php:436
+msgid "Plugin Documentation"
+msgstr "Documentazione plugin"
+
+#: class.yith-wccos-admin.php:467 class.yith-wccos-admin.php:468
+msgid "Custom Order Status"
+msgstr "Stato dell'ordine personalizzato"
+
+#: includes/class.yith-wccos-email.php:40
+msgid "Custom Order Status Mail"
+msgstr "Mail personalizzata dello stato dell'ordine "
+
+#: includes/class.yith-wccos-email.php:41
+msgid "YITH WooCommerce Custom Order Status Mail"
+msgstr "Mail YITH WooCommerce Custom Order Status "
+
+#: includes/class.yith-wccos-email.php:155
+msgid "Enable/Disable"
+msgstr "Attiva/Disattiva"
+
+#: includes/class.yith-wccos-email.php:157
+msgid "Enable this email notification"
+msgstr "Abilita questa notifica email"
+
+#: includes/class.yith-wccos-email.php:161
+msgid "Email type"
+msgstr "Tipo email"
+
+#: includes/class.yith-wccos-email.php:163
+msgid "Choose which format of email to send."
+msgstr "Scegli quale formato email inviare."
+
+#: init.php:50
+msgid ""
+"YITH WooCommerce Custom Order Status Premium is enabled but not effective. "
+"It requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Custom Order Status Premium è attivo ma non operativo. Il "
+"suo funzionamento richiede WooCommerce."
+
+#: plugin-options/settings-options.php:8
+msgid "General Options"
+msgstr "Opzioni generali"
+
+#: templates/metaboxes/yith-wccos-icons.php:90
+#, php-format
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr "(Default: %s <img src=\"%s\"/>)"
+
+#: templates/metaboxes/yith-wccos-icons.php:92
+#, php-format
+msgid "(Default: <i %s></i> )"
+msgstr "(Default: <i %s></i> )"
+
+#~ msgid "Downloads allowed"
+#~ msgstr "Download consentiti"
+
+#~ msgid "Upload"
+#~ msgstr "Upload"
+
+#~ msgid "Image preview"
+#~ msgstr "Anteprima immagine"

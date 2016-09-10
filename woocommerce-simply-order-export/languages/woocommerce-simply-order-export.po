@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce simply order export\n"
+"POT-Creation-Date: 2015-12-17 12:20+0530\n"
+"PO-Revision-Date: 2015-12-17 12:20+0530\n"
+"Last-Translator: \n"
+"Language-Team: WPGEEKO\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../classes\n"
+"X-Poedit-SearchPath-2: ../lib\n"
+"X-Poedit-SearchPath-3: ../views\n"
+
+#: ../main.php:99 ../classes/class-order-export.php:126
+#: ../classes/class-order-export.php:128
+msgid "Order ID"
+msgstr ""
+
+#: ../main.php:100 ../classes/class-order-export.php:133
+#: ../classes/class-order-export.php:135
+msgid "Customer Name"
+msgstr ""
+
+#: ../main.php:101 ../classes/class-order-export.php:140
+msgid "Product Name"
+msgstr ""
+
+#: ../main.php:102 ../classes/class-order-export.php:147
+msgid "Product Quantity"
+msgstr ""
+
+#: ../main.php:103
+msgid "Variation details"
+msgstr ""
+
+#: ../main.php:104
+msgid "Order Amount"
+msgstr ""
+
+#: ../main.php:105
+msgid "Customer Email"
+msgstr ""
+
+#: ../main.php:106
+msgid "Phone Number"
+msgstr ""
+
+#: ../main.php:107 ../classes/class-order-export.php:184
+#: ../classes/class-order-export.php:211
+msgid "Order Status"
+msgstr ""
+
+#: ../lib/functions.php:175
+msgid "Fix weird charactes in CSV"
+msgstr ""
+
+#: ../lib/functions.php:176
+msgid ""
+"Check this option only if you are getting some weird characters in exported "
+"CSV file"
+msgstr ""
+
+#: ../views/html-notice-htaccess-missing.php:13
+msgid "htaccess file is missing in "
+msgstr ""
+
+#: ../views/html-notice-htaccess-missing.php:17
+#: ../views/html-notice-htaccess-missing.php:37
+#: ../views/html-notice-addon-support.php:18
+#: ../views/html-notice-scheduler.php:18
+msgid "Hide this notice"
+msgstr ""
+
+#: ../views/html-notice-htaccess-missing.php:26
+msgid ""
+"Please add following rule to the server block of nginx configuration file "
+"for your site., to protect csv files from accessing directly."
+msgstr ""
+
+#: ../views/html-notice-htaccess-missing.php:36
+msgid ""
+"If you have changed directory path to save csv, please correct path in above "
+"rule"
+msgstr ""
+
+#: ../views/html-notice-addon-support.php:12
+msgid "Want to add more fields woocommerce simply order export?"
+msgstr ""
+
+#: ../views/html-notice-addon-support.php:13
+msgid "Want to reorder fields in woocommerce simply order export?"
+msgstr ""
+
+#: ../views/html-notice-addon-support.php:16
+msgid "Try Order Export Add-on"
+msgstr ""
+
+#: ../views/html-notice-addon-support.php:17
+#: ../views/html-notice-scheduler.php:17
+msgid "Donate to this plugin"
+msgstr ""
+
+#: ../views/html-notice-scheduler.php:12
+msgid "Wish to schedule the order export?"
+msgstr ""
+
+#: ../views/html-notice-scheduler.php:13
+msgid ""
+"Wish to log the reports, you already exported and able to download them?"
+msgstr ""
+
+#: ../views/html-notice-scheduler.php:16
+msgid "Try Order Export Scheduler and Logger"
+msgstr ""
+
+#: ../classes/class-order-export-process.php:105
+msgid "Unable to create csv file, upload folder not writable"
+msgstr ""
+
+#: ../classes/class-order-export-process.php:149
+msgid "No orders for specified duration."
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:24
+msgid "WooCommerce"
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:31
+#: ../classes/class-order-export.php:80
+msgid "Order Export"
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:34
+msgid ""
+"Thank you for using <strong>WooCommerce Simply Order Export</strong> "
+"plugin :)"
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:36
+msgid "Please use following steps to use the plugin."
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:38
+msgid "Choose the fields you want to export."
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:39
+msgid "Click Save Settings button at the bottom of the page."
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:40
+msgid "Click Advanced Options to explore more controls."
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:41
+msgid "Select the duration for which you want to export orders."
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:42
+msgid "Click Export Order button."
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:49
+msgid "Order Export Add-on"
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:52
+msgid ""
+"With <strong>WooCommerce Simply Order Export Add-on</strong>, you can do "
+"following things."
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:55
+msgid "Export all the possible fields related to order."
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:56
+msgid ""
+"Reorder the fields, so that exported CSV would contain columns in that order."
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:59
+#: ../classes/class-order-export-admin-help.php:74
+msgid "Purchase Add-on"
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:59
+#: ../classes/class-order-export-admin-help.php:74
+msgid "Add-on Documentation"
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:64
+msgid "Order Export Scheduler and Logger"
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:67
+msgid ""
+"With <strong>Order Export Scheduler and Logger</strong>plugin, you can do "
+"following things."
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:70
+msgid "Schedule order export process for future."
+msgstr ""
+
+#: ../classes/class-order-export-admin-help.php:71
+msgid ""
+"Maintain log of already exported reports. You can also download those "
+"reports either individually or in bulk (zip)."
+msgstr ""
+
+#: ../classes/class-order-export.php:69
+msgid "Settings"
+msgstr ""
+
+#: ../classes/class-order-export.php:114
+msgid "WooCommerce Order Export"
+msgstr ""
+
+#: ../classes/class-order-export.php:122
+msgid "Please choose settings for order export."
+msgstr ""
+
+#: ../classes/class-order-export.php:142
+msgid "Name of items purchased"
+msgstr ""
+
+#: ../classes/class-order-export.php:149
+msgid "Quantity of items purchased"
+msgstr ""
+
+#: ../classes/class-order-export.php:154
+msgid "Product Variation"
+msgstr ""
+
+#: ../classes/class-order-export.php:156
+msgid "Product variation"
+msgstr ""
+
+#: ../classes/class-order-export.php:161
+msgid "Amount"
+msgstr ""
+
+#: ../classes/class-order-export.php:163
+msgid "Amount paid by customer"
+msgstr ""
+
+#: ../classes/class-order-export.php:168
+msgid "Email"
+msgstr ""
+
+#: ../classes/class-order-export.php:170
+msgid "Email of customer"
+msgstr ""
+
+#: ../classes/class-order-export.php:175
+msgid "Phone"
+msgstr ""
+
+#: ../classes/class-order-export.php:177
+msgid "Phone number of customer"
+msgstr ""
+
+#: ../classes/class-order-export.php:182
+msgid "Status"
+msgstr ""
+
+#: ../classes/class-order-export.php:209
+msgid "Advanced Options"
+msgstr ""
+
+#: ../classes/class-order-export.php:233
+msgid "Select Duration and Export"
+msgstr ""
+
+#: ../classes/class-order-export.php:238
+msgid "Start Date"
+msgstr ""
+
+#: ../classes/class-order-export.php:242
+msgid "End Date"
+msgstr ""
+
+#: ../classes/class-order-export.php:247
+msgid "Export Orders"
+msgstr ""
+
+#: ../classes/class-order-export.php:265
+msgid "Click to see advanced options"
+msgstr ""
+
+#: ../classes/class-order-export.php:265
+msgid "Advanced options"
+msgstr ""
+
+#: ../classes/class-order-export.php:266
+msgid "These are one time use options and will not be saved."
+msgstr ""
+
+#: ../classes/class-order-export.php:274
+msgid "Order Export Filename"
+msgstr ""
+
+#: ../classes/class-order-export.php:275
+msgid "This will be the downloaded csv filename"
+msgstr ""
+
+#: ../classes/class-order-export.php:277
+msgid ".csv"
+msgstr ""
+
+#: ../classes/class-order-export.php:282
+msgid "Order Statuses"
+msgstr ""
+
+#: ../classes/class-order-export.php:283
+msgid ""
+"Orders with only selected status will be exported, if none selected then all "
+"order status will be exported"
+msgstr ""
+
+#: ../classes/class-order-export.php:305
+msgid "Delimiter"
+msgstr ""
+
+#: ../classes/class-order-export.php:306
+msgid "Delimiter for exported file."
+msgstr ""
+
+#: ../classes/class-order-export.php:330
+msgid "Enter both dates"
+msgstr ""
+
+#: ../classes/class-order-export.php:334
+msgid "Invalid start date."
+msgstr ""
+
+#: ../classes/class-order-export.php:338
+msgid "Invalid end date."
+msgstr ""
+
+#: ../classes/class-order-export.php:342
+msgid "Invalid request"
+msgstr ""
+
+#: ../classes/class-order-export.php:344
+msgid "Invalid nonce."
+msgstr ""
+
+#: ../classes/class-order-export.php:348
+msgid ""
+"Invalid CSV filename. Only letters, numbers, dashes and underscore are "
+"allowed."
+msgstr ""

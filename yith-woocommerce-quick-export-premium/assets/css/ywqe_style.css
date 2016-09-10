@@ -1,0 +1,30 @@
+div.exportation-job-settings {
+    position: relative;
+    min-width: 255px;
+    border: 1px solid #e5e5e5;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    background: #fff;
+    padding: 5px 20px;
+}
+
+div.exportation-job-settings tr.scheduled-exportation input.recurrence {
+    margin: 0 10px;
+}
+
+div.date-error {
+    color: red;
+}
+
+a.delete-item {
+    color: red;
+}
+
+a.button.delete-items {
+    color: red;
+    margin: 10px 0;
+}
+
+#job-errors {
+    margin: 15px 0;
+}

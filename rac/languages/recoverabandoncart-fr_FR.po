@@ -1,0 +1,1160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: recoverabandoncart\n"
+"POT-Creation-Date: 2016-03-02 12:07+0530\n"
+"PO-Revision-Date: 2016-03-02 16:02+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: recoverabandoncart.php:51
+msgid "General Settings"
+msgstr ""
+
+#: recoverabandoncart.php:52 recoverabandoncart.php:1742
+msgid "Email Settings"
+msgstr ""
+
+#: recoverabandoncart.php:53
+msgid "Cart List"
+msgstr ""
+
+#: recoverabandoncart.php:54
+msgid "Check Previous Orders"
+msgstr ""
+
+#: recoverabandoncart.php:55
+msgid "Coupon In Mail"
+msgstr ""
+
+#: recoverabandoncart.php:56
+msgid "Mail Log"
+msgstr ""
+
+#: recoverabandoncart.php:57
+msgid "Troubleshoot"
+msgstr ""
+
+#: recoverabandoncart.php:58
+msgid "Reports"
+msgstr ""
+
+#: recoverabandoncart.php:59
+msgid "Recovered Orders"
+msgstr ""
+
+#: recoverabandoncart.php:60
+msgid "Shortcodes"
+msgstr ""
+
+#: recoverabandoncart.php:61
+msgid "Support"
+msgstr ""
+
+#: recoverabandoncart.php:113
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: recoverabandoncart.php:163
+msgid "Your settings have been saved."
+msgstr ""
+
+#: recoverabandoncart.php:165
+msgid "Your settings have been Restored."
+msgstr ""
+
+#: recoverabandoncart.php:192 recoverabandoncart.php:992
+#: recoverabandoncart.php:1088 recoverabandoncart.php:1165
+msgid "Save"
+msgstr ""
+
+#: recoverabandoncart.php:197
+msgid "Mail Template Settings"
+msgstr ""
+
+#: recoverabandoncart.php:219 recoverabandoncart.php:392
+#: recoverabandoncart.php:842
+msgid "Template Name"
+msgstr ""
+
+#: recoverabandoncart.php:220 recoverabandoncart.php:396
+msgid "Template Status"
+msgstr ""
+
+#: recoverabandoncart.php:225 recoverabandoncart.php:403
+#: recoverabandoncart.php:620
+msgid "Email Template Type"
+msgstr ""
+
+#: recoverabandoncart.php:231 recoverabandoncart.php:409
+#: recoverabandoncart.php:630
+msgid "Header Image For HTML Template"
+msgstr ""
+
+#: recoverabandoncart.php:233 recoverabandoncart.php:413
+#: recoverabandoncart.php:636
+msgid "Email Sender Option"
+msgstr ""
+
+#: recoverabandoncart.php:234 recoverabandoncart.php:415
+#: recoverabandoncart.php:645 recoverabandoncart.php:843
+msgid "From Name"
+msgstr ""
+
+#: recoverabandoncart.php:235 recoverabandoncart.php:417
+#: recoverabandoncart.php:649 recoverabandoncart.php:844
+msgid "From Email"
+msgstr ""
+
+#: recoverabandoncart.php:237 recoverabandoncart.php:419
+msgid "Bcc"
+msgstr ""
+
+#: recoverabandoncart.php:239 recoverabandoncart.php:426
+#: recoverabandoncart.php:845
+msgid "Subject"
+msgstr ""
+
+#: recoverabandoncart.php:240
+msgid "Duration to Send Mail After Abandoned Cart"
+msgstr ""
+
+#: recoverabandoncart.php:246 recoverabandoncart.php:435
+msgid "Cart Link Anchor Text"
+msgstr ""
+
+#: recoverabandoncart.php:247 recoverabandoncart.php:436
+#: recoverabandoncart.php:665 recoverabandoncart.php:846
+msgid "Message"
+msgstr ""
+
+#: recoverabandoncart.php:429
+msgid "Send Mail Duration"
+msgstr ""
+
+#: recoverabandoncart.php:441
+msgid "Save Changes"
+msgstr ""
+
+#: recoverabandoncart.php:442
+msgid "Return to Mail Templates"
+msgstr ""
+
+#: recoverabandoncart.php:448
+msgid "Test Email"
+msgstr ""
+
+#: recoverabandoncart.php:450
+msgid "Send Test"
+msgstr ""
+
+#: recoverabandoncart.php:452
+msgid "Shortcodes replaced by Sample Data"
+msgstr ""
+
+#: recoverabandoncart.php:534
+msgid "Please enter valid email id"
+msgstr ""
+
+#: recoverabandoncart.php:539
+msgid "Please enter email id"
+msgstr ""
+
+#: recoverabandoncart.php:599
+msgid "Load Message from existing Template"
+msgstr ""
+
+#: recoverabandoncart.php:841 recoverabandoncart.php:3913
+msgid "ID"
+msgstr ""
+
+#: recoverabandoncart.php:847 recoverabandoncart.php:3918
+msgid "Status"
+msgstr ""
+
+#: recoverabandoncart.php:848
+msgid "Emails Sent"
+msgstr ""
+
+#: recoverabandoncart.php:849
+msgid "Carts Recovered"
+msgstr ""
+
+#: recoverabandoncart.php:850
+msgid "Email Preview"
+msgstr ""
+
+#: recoverabandoncart.php:851
+msgid "Duplicate"
+msgstr ""
+
+#: recoverabandoncart.php:859
+msgid "Edit"
+msgstr ""
+
+#: recoverabandoncart.php:859
+msgid "Delete"
+msgstr ""
+
+#: recoverabandoncart.php:1082
+msgid "Troubleshoot for Unsubscription Link in Footer"
+msgstr ""
+
+#: recoverabandoncart.php:1084
+msgid ""
+"If Unsubscribe Email Link is not visible footer of email, then kindly "
+"consider to use this shortcode {rac.unsubscribe} in text editor of each "
+"email templates to make it work."
+msgstr ""
+
+#: recoverabandoncart.php:1245
+msgid "Time Settings"
+msgstr ""
+
+#: recoverabandoncart.php:1252
+msgid "Abandon Cart Time Type for Members"
+msgstr ""
+
+#: recoverabandoncart.php:1253
+msgid ""
+"Please Select whether the time should be in Minutes/Hours/Days for Members"
+msgstr ""
+
+#: recoverabandoncart.php:1265
+msgid "Abandon Cart Time for Members"
+msgstr ""
+
+#: recoverabandoncart.php:1266
+msgid ""
+"Please Enter time after which the cart should be considered as abandon for "
+"Members"
+msgstr ""
+
+#: recoverabandoncart.php:1277
+msgid "Abandon Cart Time Type for Guest"
+msgstr ""
+
+#: recoverabandoncart.php:1278
+msgid ""
+"Please Select whether the time should be in Minutes/Hours/Days for Guest"
+msgstr ""
+
+#: recoverabandoncart.php:1290
+msgid "Abandon Cart Time for Guest"
+msgstr ""
+
+#: recoverabandoncart.php:1291
+msgid ""
+"Please Enter time after which the cart should be considered as abandon for "
+"guest"
+msgstr ""
+
+#: recoverabandoncart.php:1303
+msgid "Mail Cron Settings"
+msgstr ""
+
+#: recoverabandoncart.php:1310
+msgid "Mail Cron Time Type"
+msgstr ""
+
+#: recoverabandoncart.php:1311
+msgid "Please Select whether the time should be in Minutes/Hours/Days"
+msgstr ""
+
+#: recoverabandoncart.php:1323
+msgid "Mail Cron Time"
+msgstr ""
+
+#: recoverabandoncart.php:1324
+msgid "Please Enter time after which Email cron job should run"
+msgstr ""
+
+#: recoverabandoncart.php:1336
+msgid "Recover Status Settings"
+msgstr ""
+
+#: recoverabandoncart.php:1343
+msgid ""
+"When User's place the order change all the New/Abandon Cart List to "
+"Recovered Status"
+msgstr ""
+
+#: recoverabandoncart.php:1344
+msgid "Recover Cart List based on Order Status"
+msgstr ""
+
+#: recoverabandoncart.php:1357
+msgid "New Status to Recovered Status"
+msgstr ""
+
+#: recoverabandoncart.php:1358
+msgid "Based on Order Status change New Status to Recovered Status"
+msgstr ""
+
+#: recoverabandoncart.php:1371
+msgid "Abandon Status to Recovered Status"
+msgstr ""
+
+#: recoverabandoncart.php:1372
+msgid "Based on Order Status change Abandon Status to Recovered Status"
+msgstr ""
+
+#: recoverabandoncart.php:1385
+msgid "Cart List become Recovered when Order Status"
+msgstr ""
+
+#: recoverabandoncart.php:1386
+msgid "Based on these Order Status Cart List become Recovered"
+msgstr ""
+
+#: recoverabandoncart.php:1400
+msgid "Notification Settings"
+msgstr ""
+
+#: recoverabandoncart.php:1407
+msgid "Enable Email Notification for Admin when Cart is Recovered"
+msgstr ""
+
+#: recoverabandoncart.php:1416
+msgid "Admin Email ID"
+msgstr ""
+
+#: recoverabandoncart.php:1426
+msgid "Notification Sender Option"
+msgstr ""
+
+#: recoverabandoncart.php:1438
+msgid "Notification From Name"
+msgstr ""
+
+#: recoverabandoncart.php:1448
+msgid "Notification From Email"
+msgstr ""
+
+#: recoverabandoncart.php:1458
+msgid "Notification Email Subject"
+msgstr ""
+
+#: recoverabandoncart.php:1468
+msgid "Notification Email Message"
+msgstr ""
+
+#: recoverabandoncart.php:1480
+msgid "Carts List Settings"
+msgstr ""
+
+#: recoverabandoncart.php:1487
+msgid "Remove NEW and ABANDON Carts Previously by same Users"
+msgstr ""
+
+#: recoverabandoncart.php:1488
+msgid "Enabling this option will remove New and Abandon Carts by same Users"
+msgstr ""
+
+#: recoverabandoncart.php:1496
+msgid "Remove Carts with \"NEW\" Status"
+msgstr ""
+
+#: recoverabandoncart.php:1497
+msgid "Enabling this option will remove New Carts by same Users"
+msgstr ""
+
+#: recoverabandoncart.php:1505
+msgid "Remove Carts with \"ABANDON\" Status"
+msgstr ""
+
+#: recoverabandoncart.php:1506
+msgid "Enabling this option will remove Abandon Carts by same Users"
+msgstr ""
+
+#: recoverabandoncart.php:1514
+msgid "Remove Carts with \"ABANDON\" Status after x Days"
+msgstr ""
+
+#: recoverabandoncart.php:1515
+msgid ""
+"Enabling this option will delete Abandon Carts after Days which You Select"
+msgstr ""
+
+#: recoverabandoncart.php:1527
+msgid "Days to Delete Abandon Carts"
+msgstr ""
+
+#: recoverabandoncart.php:1528
+msgid "Enter Days to delete Abandon Carts in Cart List"
+msgstr ""
+
+#: recoverabandoncart.php:1537
+msgid "Custom Restrict Settings"
+msgstr ""
+
+#: recoverabandoncart.php:1538
+msgid "Selected User Roles, Names and Email ID To Restrict Entry in Cart List"
+msgstr ""
+
+#: recoverabandoncart.php:1550 recoverabandoncart.php:1792
+msgid "Select User Role"
+msgstr ""
+
+#: recoverabandoncart.php:1551 recoverabandoncart.php:1793
+msgid "Enter the First Three Characters of User Role"
+msgstr ""
+
+#: recoverabandoncart.php:1561 recoverabandoncart.php:1803
+#: recoverabandoncart.php:2357 recoverabandoncart.php:2386
+#: recoverabandoncart.php:6404 recoverabandoncart.php:6433
+msgid "User Name Selected"
+msgstr ""
+
+#: recoverabandoncart.php:1562
+msgid "Enter the First Three Characters of User Name"
+msgstr ""
+
+#: recoverabandoncart.php:1571 recoverabandoncart.php:1813
+msgid "Custom Mail ID Selected"
+msgstr ""
+
+#: recoverabandoncart.php:1572
+msgid ""
+"Enter Mail ID per line which will be restricted to includes an entry in Cart "
+"List"
+msgstr ""
+
+#: recoverabandoncart.php:1581
+msgid ""
+"Insert Entry in Cart List with Abandon Status When Order Status is Cancelled"
+msgstr ""
+
+#: recoverabandoncart.php:1582
+msgid ""
+"Enabling this option will Insert Entry in Cart List with Abandon Status When "
+"Order Status is Cancelled"
+msgstr ""
+
+#: recoverabandoncart.php:1590
+msgid "Prevent adding \"New\" cart when order cancelled in cart page"
+msgstr ""
+
+#: recoverabandoncart.php:1591
+msgid ""
+"Enabling this option will Prevent adding \"New\" cart when order cancelled "
+"in cart page"
+msgstr ""
+
+#: recoverabandoncart.php:1600
+msgid "Guest Cart Settings"
+msgstr ""
+
+#: recoverabandoncart.php:1607
+msgid "Remove Guest Cart when the Order Status Changes to Pending"
+msgstr ""
+
+#: recoverabandoncart.php:1608
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become Pending"
+msgstr ""
+
+#: recoverabandoncart.php:1616
+msgid "Remove Guest Cart when the Order Status Changes to Failed"
+msgstr ""
+
+#: recoverabandoncart.php:1617
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become Failed"
+msgstr ""
+
+#: recoverabandoncart.php:1625
+msgid "Remove Guest Cart when the Order Status Changes to On-Hold"
+msgstr ""
+
+#: recoverabandoncart.php:1626
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become On-Hold"
+msgstr ""
+
+#: recoverabandoncart.php:1634
+msgid "Remove Guest Cart when the Order Status Changes to Processing"
+msgstr ""
+
+#: recoverabandoncart.php:1635
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become Processing"
+msgstr ""
+
+#: recoverabandoncart.php:1643
+msgid "Remove Guest Cart when the Order Status Changes to Completed"
+msgstr ""
+
+#: recoverabandoncart.php:1644
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become Completed"
+msgstr ""
+
+#: recoverabandoncart.php:1652
+msgid "Remove Guest Cart when the Order Status Changes to Refunded"
+msgstr ""
+
+#: recoverabandoncart.php:1653
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become Refunded"
+msgstr ""
+
+#: recoverabandoncart.php:1661
+msgid "Remove Guest Cart when the Order Status Changes to Cancelled"
+msgstr ""
+
+#: recoverabandoncart.php:1662
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become Cancelled"
+msgstr ""
+
+#: recoverabandoncart.php:1671
+msgid "My Account Settings"
+msgstr ""
+
+#: recoverabandoncart.php:1676
+msgid "Show Unsubscription Option in My Account Page"
+msgstr ""
+
+#: recoverabandoncart.php:1677
+msgid "Turn On to make it visible in My Account Page"
+msgstr ""
+
+#: recoverabandoncart.php:1686
+msgid "Customize Unsubscription Heading in My Account Page"
+msgstr ""
+
+#: recoverabandoncart.php:1687
+msgid "Customize the heading appeared in My Account Page"
+msgstr ""
+
+#: recoverabandoncart.php:1696
+msgid "Customize Unsubscription Text in My Account Page"
+msgstr ""
+
+#: recoverabandoncart.php:1697
+msgid "Customize the Message appeared in My Account Page for Subscription"
+msgstr ""
+
+#: recoverabandoncart.php:1761
+msgid "Send Email to Members"
+msgstr ""
+
+#: recoverabandoncart.php:1762
+msgid "Enabling this option will send an Email to Members only"
+msgstr ""
+
+#: recoverabandoncart.php:1770
+msgid "Send Email to Guests"
+msgstr ""
+
+#: recoverabandoncart.php:1771
+msgid "Enabling this option will send an Email to Guests only"
+msgstr ""
+
+#: recoverabandoncart.php:1779
+msgid "Custom Exclude Settings"
+msgstr ""
+
+#: recoverabandoncart.php:1780
+msgid "Select User Roles, Names and Email ID To Stop EMail Sending"
+msgstr ""
+
+#: recoverabandoncart.php:1804
+msgid "Enter the First Three Character of User Name"
+msgstr ""
+
+#: recoverabandoncart.php:1814
+msgid ""
+"Enter Mail ID per line which will be excluded to receive a mail from Recover "
+"Abandon Cart"
+msgstr ""
+
+#: recoverabandoncart.php:1824
+msgid "Email Template Cart Link Settings"
+msgstr ""
+
+#: recoverabandoncart.php:1830
+msgid "Cart Link"
+msgstr ""
+
+#: recoverabandoncart.php:1831
+msgid "Customize the Cart Link in Email Template"
+msgstr ""
+
+#: recoverabandoncart.php:1840
+msgid "Hyperlink"
+msgstr ""
+
+#: recoverabandoncart.php:1841
+msgid "URL"
+msgstr ""
+
+#: recoverabandoncart.php:1842
+msgid "Button"
+msgstr ""
+
+#: recoverabandoncart.php:1847
+msgid "Button Background Color"
+msgstr ""
+
+#: recoverabandoncart.php:1848
+msgid "Customize Button Background Color in Email"
+msgstr ""
+
+#: recoverabandoncart.php:1860
+msgid "Button Link Color"
+msgstr ""
+
+#: recoverabandoncart.php:1861
+msgid "Customize Button Link Color"
+msgstr ""
+
+#: recoverabandoncart.php:1873
+msgid "Link Color"
+msgstr ""
+
+#: recoverabandoncart.php:1874
+msgid "Customize Link Color in Email Template"
+msgstr ""
+
+#: recoverabandoncart.php:1886
+msgid "Redirect after click cartlink in email"
+msgstr ""
+
+#: recoverabandoncart.php:1887
+msgid ""
+"Please Select the page that you want to redirect after clicking the cartlink "
+"in an email"
+msgstr ""
+
+#: recoverabandoncart.php:1899
+msgid "Unsubscribe Settings"
+msgstr ""
+
+#: recoverabandoncart.php:1906
+msgid "Unsubscription Link in Email"
+msgstr ""
+
+#: recoverabandoncart.php:1907
+msgid "Enable"
+msgstr ""
+
+#: recoverabandoncart.php:1916
+msgid "Unsubscription Link Text"
+msgstr ""
+
+#: recoverabandoncart.php:1917
+msgid "Enter Unsubscription Anchor Text in Email Footer"
+msgstr ""
+
+#: recoverabandoncart.php:1926
+msgid "Unsubscription Message"
+msgstr ""
+
+#: recoverabandoncart.php:1927
+msgid "Enter Unsubscription Message which is visible in Email Footer"
+msgstr ""
+
+#: recoverabandoncart.php:1937
+msgid "Unsubscription Type"
+msgstr ""
+
+#: recoverabandoncart.php:1938
+msgid "Please Select the Unsubscription Type"
+msgstr ""
+
+#: recoverabandoncart.php:1951
+msgid "Redirect Url for Automatic Unsubscription"
+msgstr ""
+
+#: recoverabandoncart.php:1952
+msgid ""
+"Enter Redirect Url to redirect when click the Automatic unsubscription link"
+msgstr ""
+
+#: recoverabandoncart.php:1961
+msgid "Redirect Url for Manual Unsubscription"
+msgstr ""
+
+#: recoverabandoncart.php:1962
+msgid ""
+"Enter Redirect Url to redirect when click the Manual unsubscription link"
+msgstr ""
+
+#: recoverabandoncart.php:1971
+msgid "Already Unsubscribed Text"
+msgstr ""
+
+#: recoverabandoncart.php:1972
+msgid "Enter Already Unsubscribed Text"
+msgstr ""
+
+#: recoverabandoncart.php:1981
+msgid "Unsubscribed Successfully Text"
+msgstr ""
+
+#: recoverabandoncart.php:1982
+msgid "Enter Unsubscribed Successfully Text"
+msgstr ""
+
+#: recoverabandoncart.php:1991
+msgid "Confirm Unsubscription Text"
+msgstr ""
+
+#: recoverabandoncart.php:1992
+msgid "Enter Confirm Unsubscription Text"
+msgstr ""
+
+#: recoverabandoncart.php:2001
+msgid "Unsubscription Message Text color"
+msgstr ""
+
+#: recoverabandoncart.php:2002
+msgid "Choose Unsubscription Message Text color"
+msgstr ""
+
+#: recoverabandoncart.php:2012
+msgid "Background color for Unsubscription Message"
+msgstr ""
+
+#: recoverabandoncart.php:2013
+msgid "Choose Background color for Unsubscription Message"
+msgstr ""
+
+#: recoverabandoncart.php:2023
+msgid "Unsubscription Email Text color"
+msgstr ""
+
+#: recoverabandoncart.php:2024
+msgid "Choose Unsubscription Email Text color"
+msgstr ""
+
+#: recoverabandoncart.php:2034
+msgid "Confirm Unsubscription Text color"
+msgstr ""
+
+#: recoverabandoncart.php:2035
+msgid "Choose Confirm Unsubscription Text color"
+msgstr ""
+
+#: recoverabandoncart.php:2046
+msgid "Customize Caption and Visibility for Product Info in Email Template"
+msgstr ""
+
+#: recoverabandoncart.php:2053 recoverabandoncart.php:2054
+msgid "Enable Border for Product Info in Email Template"
+msgstr ""
+
+#: recoverabandoncart.php:2063 recoverabandoncart.php:2064
+msgid "Customize Product Name Caption in Email Template"
+msgstr ""
+
+#: recoverabandoncart.php:2072 recoverabandoncart.php:2073
+msgid "Customize Product Image Caption in Email Template"
+msgstr ""
+
+#: recoverabandoncart.php:2081 recoverabandoncart.php:2082
+msgid "Customize Product Quantity in Email Template"
+msgstr ""
+
+#: recoverabandoncart.php:2090 recoverabandoncart.php:2091
+msgid "Customize Product Price Caption in Email Template"
+msgstr ""
+
+#: recoverabandoncart.php:2099 recoverabandoncart.php:2100
+msgid "Customize Subtotal Caption in Email Template"
+msgstr ""
+
+#: recoverabandoncart.php:2108 recoverabandoncart.php:2109
+msgid "Customize Tax Caption in Email Template"
+msgstr ""
+
+#: recoverabandoncart.php:2117 recoverabandoncart.php:2118
+msgid "Customize Total Caption in Email Template"
+msgstr ""
+
+#: recoverabandoncart.php:2126 recoverabandoncart.php:2127
+msgid "Hide Product Name Column in Product Info Shortcode"
+msgstr ""
+
+#: recoverabandoncart.php:2135 recoverabandoncart.php:2136
+msgid "Hide Product Image Column in Product Info Shortcode"
+msgstr ""
+
+#: recoverabandoncart.php:2144 recoverabandoncart.php:2145
+msgid "Hide Quantity Column in Product Info Shortcode"
+msgstr ""
+
+#: recoverabandoncart.php:2153 recoverabandoncart.php:2154
+msgid "Hide Product Price Column in Product Info Shortcode"
+msgstr ""
+
+#: recoverabandoncart.php:2162 recoverabandoncart.php:2163
+msgid "Hide Subtotal , Tax , Total Rows in Product Info Shortcode"
+msgstr ""
+
+#: recoverabandoncart.php:2171
+msgid "Clear the Cart Content When Cart Link is Clicked"
+msgstr ""
+
+#: recoverabandoncart.php:2187
+msgid "Troubleshooting"
+msgstr ""
+
+#: recoverabandoncart.php:2194
+msgid "Use Mail Function"
+msgstr ""
+
+#: recoverabandoncart.php:2195
+msgid "Please Select which mail function to use while sending notification"
+msgstr ""
+
+#: recoverabandoncart.php:2207
+msgid "Use Mail Troubleshoot"
+msgstr ""
+
+#: recoverabandoncart.php:2208
+msgid ""
+"Please enable this option if you want to send Emails using Fifth Parameter "
+msgstr ""
+
+#: recoverabandoncart.php:2220
+msgid "Use Email as Fifth Parameter"
+msgstr ""
+
+#: recoverabandoncart.php:2231
+msgid "Troubleshoot Performance"
+msgstr ""
+
+#: recoverabandoncart.php:2237
+msgid "Load Recover Abandon Cart Script/Styles in "
+msgstr ""
+
+#: recoverabandoncart.php:2238
+msgid ""
+"For Footer of the Site Option is experimental why because if your theme "
+"doesn't contain wp_footer hook then it won't work"
+msgstr ""
+
+#: recoverabandoncart.php:2257
+msgid "Help & Support"
+msgstr ""
+
+#: recoverabandoncart.php:2259
+msgid ""
+"For support, feature request or any help, please <a href=\"http://support."
+"fantasticplugins.com/\">register and open a support ticket on our site.</a> "
+"<br> "
+msgstr ""
+
+#: recoverabandoncart.php:2263
+msgid "Documentation"
+msgstr ""
+
+#: recoverabandoncart.php:2389 recoverabandoncart.php:6436
+msgid "Search for a customer&hellip;"
+msgstr ""
+
+#: recoverabandoncart.php:2430
+msgid "Coupon Code"
+msgstr ""
+
+#: recoverabandoncart.php:2437
+msgid "Prefix Text of Coupon Code"
+msgstr ""
+
+#: recoverabandoncart.php:2438
+msgid "Select Prefix Text in Coupon Code"
+msgstr ""
+
+#: recoverabandoncart.php:2445
+msgid "Default"
+msgstr ""
+
+#: recoverabandoncart.php:2446
+msgid "Custom"
+msgstr ""
+
+#: recoverabandoncart.php:2453
+msgid "Custom Prefix Text of Coupon Code"
+msgstr ""
+
+#: recoverabandoncart.php:2454
+msgid "Enter Custom Prefix Text for Coupon Code"
+msgstr ""
+
+#: recoverabandoncart.php:2465
+msgid "Type of Discount"
+msgstr ""
+
+#: recoverabandoncart.php:2466
+msgid "Please Select which type of discount should be applied"
+msgstr ""
+
+#: recoverabandoncart.php:2478
+msgid "Value"
+msgstr ""
+
+#: recoverabandoncart.php:2479
+#, php-format
+msgid ""
+"Enter the value to reduce in currency or % based on the Type of Discount "
+"Selected without any Symbols"
+msgstr ""
+
+#: recoverabandoncart.php:2490
+msgid "Validity in Days"
+msgstr ""
+
+#: recoverabandoncart.php:2491
+msgid "Enter a value(days in number) for how long the Coupon should be Active"
+msgstr ""
+
+#: recoverabandoncart.php:2501
+msgid "Minimum Amount for Coupon Usage"
+msgstr ""
+
+#: recoverabandoncart.php:2510
+msgid "Maximum Amount for Coupon Usage"
+msgstr ""
+
+#: recoverabandoncart.php:2519
+msgid "Individual use only"
+msgstr ""
+
+#: recoverabandoncart.php:2521
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+
+#: recoverabandoncart.php:2535
+msgid "Select Category"
+msgstr ""
+
+#: recoverabandoncart.php:2536
+msgid ""
+"Select the Categories to which the coupons from abandoned cart emails can be "
+"applied"
+msgstr ""
+
+#: recoverabandoncart.php:2548
+msgid "Exclude Category"
+msgstr ""
+
+#: recoverabandoncart.php:2549
+msgid ""
+"Select the Categories to which the coupons from abandoned cart emails cannot "
+"be applied"
+msgstr ""
+
+#: recoverabandoncart.php:2562
+msgid "Coupon Code Deletion"
+msgstr ""
+
+#: recoverabandoncart.php:2569
+msgid "Delete Coupons after Used"
+msgstr ""
+
+#: recoverabandoncart.php:2570
+msgid ""
+"Delete Coupons which are automatically created by Recover Abandoned Cart "
+"that are Used"
+msgstr ""
+
+#: recoverabandoncart.php:2578
+msgid "Delete Coupons after Expired"
+msgstr ""
+
+#: recoverabandoncart.php:2579
+msgid ""
+"Delete Coupons which are automatically created by Recover Abandoned Cart "
+"that are Expired"
+msgstr ""
+
+#: recoverabandoncart.php:3230
+msgid "Seems your cart has been already Recovered/Order Placed"
+msgstr ""
+
+#: recoverabandoncart.php:3491 recoverabandoncart.php:3522
+msgid "Unsubscribe"
+msgstr ""
+
+#: recoverabandoncart.php:3871
+msgid "All "
+msgstr ""
+
+#: recoverabandoncart.php:3873
+msgid "Trash "
+msgstr ""
+
+#: recoverabandoncart.php:3914
+msgid "Cart Details / Cart Total"
+msgstr ""
+
+#: recoverabandoncart.php:3915
+msgid "UserName / First Last Name"
+msgstr ""
+
+#: recoverabandoncart.php:3916
+msgid "Email ID / Phone Number"
+msgstr ""
+
+#: recoverabandoncart.php:3917
+msgid "Abandoned Date/Time"
+msgstr ""
+
+#: recoverabandoncart.php:3919
+msgid "Email Template / Email Status / Cart Link in Email"
+msgstr ""
+
+#: recoverabandoncart.php:3920
+msgid "Recovered Order ID"
+msgstr ""
+
+#: recoverabandoncart.php:3921
+msgid "Coupon Used"
+msgstr ""
+
+#: recoverabandoncart.php:3922
+msgid "Payment Status"
+msgstr ""
+
+#: recoverabandoncart.php:3923
+msgid "Mail Sending"
+msgstr ""
+
+#: recoverabandoncart.php:3935
+msgid "Page Select"
+msgstr ""
+
+#: recoverabandoncart.php:3935
+msgid "Page Deselct"
+msgstr ""
+
+#: recoverabandoncart.php:3935 recoverabandoncart.php:4285
+msgid "Select All"
+msgstr ""
+
+#: recoverabandoncart.php:3935 recoverabandoncart.php:4285
+msgid "Deselct All"
+msgstr ""
+
+#: recoverabandoncart.php:3936 recoverabandoncart.php:4285
+msgid "Delete Selected"
+msgstr ""
+
+#: recoverabandoncart.php:3938
+msgid "Send Mail for Selected"
+msgstr ""
+
+#: recoverabandoncart.php:4154
+msgid "Restore"
+msgstr ""
+
+#: recoverabandoncart.php:4255
+msgid "Back to Cart List"
+msgstr ""
+
+#: recoverabandoncart.php:4280
+#: inc/class_list_table_fp_rac_recovered_order.php:90
+msgid "S.No"
+msgstr ""
+
+#: recoverabandoncart.php:4281
+msgid "Email Id"
+msgstr ""
+
+#: recoverabandoncart.php:4282
+msgid "Date/Time"
+msgstr ""
+
+#: recoverabandoncart.php:4283
+msgid "Template Used"
+msgstr ""
+
+#: recoverabandoncart.php:4284
+msgid "Abandoned Cart ID"
+msgstr ""
+
+#: recoverabandoncart.php:4486
+msgid "Product"
+msgstr ""
+
+#: recoverabandoncart.php:4487
+msgid "Quantity"
+msgstr ""
+
+#: recoverabandoncart.php:4488
+msgid "Price"
+msgstr ""
+
+#: recoverabandoncart.php:5278 recoverabandoncart.php:5304
+msgid "Exclude Products from using Coupon"
+msgstr ""
+
+#: recoverabandoncart.php:5281 recoverabandoncart.php:5351
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: recoverabandoncart.php:5348 recoverabandoncart.php:5374
+msgid "Products"
+msgstr ""
+
+#: recoverabandoncart.php:5981
+msgid "Number of Carts Recovered"
+msgstr ""
+
+#: recoverabandoncart.php:5997
+msgid "Total Sales Amount Recovered"
+msgstr ""
+
+#: inc/rac_settings_backward_compatibility.php:86
+msgid "Width"
+msgstr ""
+
+#: inc/rac_settings_backward_compatibility.php:93
+msgid "Height"
+msgstr ""
+
+#: inc/rac_settings_backward_compatibility.php:100
+msgid "Hard Crop"
+msgstr ""
+
+#: inc/rac_settings_backward_compatibility.php:215
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: inc/rac_settings_backward_compatibility.php:233
+msgid "Choose a country&hellip;"
+msgstr ""
+
+#: inc/rac_settings_backward_compatibility.php:248
+msgid "Choose countries&hellip;"
+msgstr ""
+
+#: inc/class_list_table_fp_rac_recovered_order.php:91
+msgid "Order ID"
+msgstr ""
+
+#: inc/class_list_table_fp_rac_recovered_order.php:92
+msgid "Recover Sale Total"
+msgstr ""
+
+#: inc/class_list_table_fp_rac_recovered_order.php:93
+msgid "Date"
+msgstr ""

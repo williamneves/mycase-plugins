@@ -1,0 +1,301 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YIT WooCommerce Advanced Product Options\n"
+"POT-Creation-Date: 2016-05-27 13:53+0200\n"
+"PO-Revision-Date: 2016-03-30 17:22+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/classes/yith-wcch-admin.php:64
+#: ../templates/backend/customers.php:14
+msgid "Customers"
+msgstr ""
+
+#: ../includes/classes/yith-wcch-admin.php:65
+#: ../templates/backend/customer.php:24
+msgid "Customer"
+msgstr ""
+
+#: ../includes/classes/yith-wcch-admin.php:66
+#: ../templates/backend/sessions.php:17
+msgid "Sessions"
+msgstr ""
+
+#: ../includes/classes/yith-wcch-admin.php:67
+msgid "Session"
+msgstr ""
+
+#: ../includes/classes/yith-wcch-admin.php:68
+#: ../templates/backend/emails.php:15
+msgid "Emails"
+msgstr ""
+
+#: ../includes/classes/yith-wcch-admin.php:69
+#: ../templates/backend/customer.php:42 ../templates/backend/customers.php:65
+#: ../templates/backend/email.php:51
+msgid "Email"
+msgstr ""
+
+#: ../includes/classes/yith-wcch-admin.php:70
+#: ../templates/backend/settings.php:22
+msgid "Settings"
+msgstr ""
+
+#: ../includes/classes/yith-wcch-admin.php:74
+msgid "YITH Plugins"
+msgstr ""
+
+#: ../includes/classes/yith-wcch-admin.php:76
+msgid "Customer History"
+msgstr ""
+
+#: ../includes/classes/yith-wcch-email.php:85
+msgid "Your email was sent successfully"
+msgstr ""
+
+#: ../includes/classes/yith-wcch-email.php:90
+msgid "ERROR: there was a database problem"
+msgstr ""
+
+#: ../includes/classes/yith-wcch-email.php:92
+msgid "ERROR: \"wp_mail\" function problem"
+msgstr ""
+
+#: ../init.php:47
+msgid ""
+"YITH WooCommerce Advanced Product Options is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: ../templates/backend/customer.php:39
+msgid "User ID"
+msgstr ""
+
+#: ../templates/backend/customer.php:40
+msgid "Name"
+msgstr ""
+
+#: ../templates/backend/customer.php:41
+msgid "Username"
+msgstr ""
+
+#: ../templates/backend/customer.php:43
+msgid "Website"
+msgstr ""
+
+#: ../templates/backend/customer.php:61
+msgid "Total Orders"
+msgstr ""
+
+#: ../templates/backend/customer.php:62 ../templates/backend/customers.php:21
+msgid "Pending Orders"
+msgstr ""
+
+#: ../templates/backend/customer.php:63
+msgid "Refunded Orders"
+msgstr ""
+
+#: ../templates/backend/customer.php:64 ../templates/backend/customers.php:23
+msgid "Orders average"
+msgstr ""
+
+#: ../templates/backend/customer.php:65 ../templates/backend/customers.php:24
+msgid "Total Spent"
+msgstr ""
+
+#: ../templates/backend/customer.php:107
+msgid "Edit this user"
+msgstr ""
+
+#: ../templates/backend/customer.php:108
+msgid "Send an email"
+msgstr ""
+
+#: ../templates/backend/customer.php:135
+msgid "Latest Orders"
+msgstr ""
+
+#: ../templates/backend/customer.php:139
+msgid "Order"
+msgstr ""
+
+#: ../templates/backend/customer.php:140 ../templates/backend/customer.php:173
+#: ../templates/backend/customer.php:197 ../templates/backend/emails.php:23
+#: ../templates/backend/sessions.php:24
+msgid "Date"
+msgstr ""
+
+#: ../templates/backend/customer.php:141
+msgid "Type"
+msgstr ""
+
+#: ../templates/backend/customer.php:142
+msgid "Status"
+msgstr ""
+
+#: ../templates/backend/customer.php:143
+msgid "Items"
+msgstr ""
+
+#: ../templates/backend/customer.php:144
+msgid "Refunded Items"
+msgstr ""
+
+#: ../templates/backend/customer.php:145
+msgid "Refunded"
+msgstr ""
+
+#: ../templates/backend/customer.php:146
+msgid "Total"
+msgstr ""
+
+#: ../templates/backend/customer.php:147 ../templates/backend/customers.php:25
+#: ../templates/backend/emails.php:27
+msgid "Actions"
+msgstr ""
+
+#: ../templates/backend/customer.php:162 ../templates/backend/customers.php:64
+#: ../templates/backend/emails.php:50
+msgid "View"
+msgstr ""
+
+#: ../templates/backend/customer.php:169
+msgid "Search History"
+msgstr ""
+
+#: ../templates/backend/customer.php:174
+msgid "Key"
+msgstr ""
+
+#: ../templates/backend/customer.php:193
+msgid "Sessions History"
+msgstr ""
+
+#: ../templates/backend/customer.php:198 ../templates/backend/sessions.php:23
+msgid "URL"
+msgstr ""
+
+#: ../templates/backend/customer.php:221 ../templates/backend/sessions.php:49
+msgid "Search"
+msgstr ""
+
+#: ../templates/backend/customer.php:226 ../templates/backend/sessions.php:54
+msgid "Add to cart"
+msgstr ""
+
+#: ../templates/backend/customer.php:231 ../templates/backend/sessions.php:59
+msgid "New order"
+msgstr ""
+
+#: ../templates/backend/customer.php:271
+msgid "Error"
+msgstr ""
+
+#: ../templates/backend/customer.php:272
+msgid "I'm sorry, but you can't see this page!"
+msgstr ""
+
+#: ../templates/backend/customer.php:272
+msgid "Back"
+msgstr ""
+
+#: ../templates/backend/customers.php:15
+msgid "Complete customers list."
+msgstr ""
+
+#: ../templates/backend/customers.php:19 ../templates/backend/emails.php:24
+#: ../templates/backend/sessions.php:22
+msgid "User"
+msgstr ""
+
+#: ../templates/backend/customers.php:20
+msgid "Orders"
+msgstr ""
+
+#: ../templates/backend/customers.php:22
+msgid "Refund Orders"
+msgstr ""
+
+#: ../templates/backend/email.php:52 ../templates/backend/emails.php:16
+msgid "Send new email"
+msgstr ""
+
+#: ../templates/backend/email.php:55
+msgid ""
+"Set default \"Sender\" name and email values in <a href=\"admin.php?"
+"page=yith-wcch-settings.php\">plugin settings</a>."
+msgstr ""
+
+#: ../templates/backend/email.php:62 ../templates/backend/email.php:83
+msgid "From"
+msgstr ""
+
+#: ../templates/backend/email.php:63 ../templates/backend/email.php:87
+msgid "To"
+msgstr ""
+
+#: ../templates/backend/email.php:64 ../templates/backend/email.php:96
+#: ../templates/backend/emails.php:25
+msgid "Subject"
+msgstr ""
+
+#: ../templates/backend/email.php:79
+msgid "Sender Name"
+msgstr ""
+
+#: ../templates/backend/email.php:100 ../templates/backend/emails.php:26
+msgid "Content"
+msgstr ""
+
+#: ../templates/backend/email.php:105
+msgid "Send"
+msgstr ""
+
+#: ../templates/backend/emails.php:19
+msgid "Complete emails list."
+msgstr ""
+
+#: ../templates/backend/sessions.php:18
+msgid "Complete sessions list."
+msgstr ""
+
+#: ../templates/backend/settings.php:23
+msgid "Configure the plugin options."
+msgstr ""
+
+#: ../templates/backend/settings.php:32
+msgid "Save \"admin\" sessions?"
+msgstr ""
+
+#: ../templates/backend/settings.php:35
+msgid "No"
+msgstr ""
+
+#: ../templates/backend/settings.php:36
+msgid "Yes"
+msgstr ""
+
+#: ../templates/backend/settings.php:41
+msgid "Default Sender Name"
+msgstr ""
+
+#: ../templates/backend/settings.php:45
+msgid "Default Sender Email"
+msgstr ""
+
+#: ../templates/backend/settings.php:49
+msgid "Save"
+msgstr ""

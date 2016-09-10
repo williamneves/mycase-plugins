@@ -1,0 +1,370 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Email Templates\n"
+"POT-Creation-Date: 2015-06-24 17:11+0100\n"
+"PO-Revision-Date: 2015-06-03 14:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../class.yith-wcet-admin.php:193
+msgid "Default"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:203
+msgid "YITH WooCommerce Email Settings"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:205
+msgid "Select templates for email"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:211 ../class.yith-wcet-admin.php:341
+msgid "Email Template"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:213
+msgid "Select the email template that you want to use for your emails!"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:312
+msgid "HTML Email Template"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:340 ../class.yith-wcet-admin.php:477
+#: ../class.yith-wcet-admin.php:478
+msgid "Email Templates"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:342
+msgid "Add Email Template"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:343
+msgid "Add new Email Template"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:344
+msgid "Edit Email Template"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:345
+msgid "View Email Template"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:346
+msgid "Email Template not found"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:347
+msgid "Email Template not found in trash"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:371
+msgid "Template Options"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:425 ../class.yith-wcet-admin.php:468
+msgid "Settings"
+msgstr ""
+
+#: ../class.yith-wcet-admin.php:447
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../functions.yith-wcet.php:29
+msgid "Header Logo"
+msgstr ""
+
+#: ../functions.yith-wcet.php:33
+msgid "Logo"
+msgstr ""
+
+#: ../functions.yith-wcet.php:45
+msgid ""
+"[Upload a new logo, or select your default logo as you have set in \"Email "
+"Template Settings\"]"
+msgstr ""
+
+#: ../functions.yith-wcet.php:52
+msgid "Style Options"
+msgstr ""
+
+#: ../functions.yith-wcet.php:56
+msgid "Base Color"
+msgstr ""
+
+#: ../functions.yith-wcet.php:65
+msgid "Body Color"
+msgstr ""
+
+#: ../functions.yith-wcet.php:74
+msgid "Background Color"
+msgstr ""
+
+#: ../functions.yith-wcet.php:83
+msgid "Text Color"
+msgstr ""
+
+#: ../functions.yith-wcet.php:93 ../functions.yith-wcet.php:97
+msgid "Preview"
+msgstr ""
+
+#: ../functions.yith-wcet.php:101
+msgid "Preview Template"
+msgstr ""
+
+#: ../functions.yith-wcet.php:103
+msgid ""
+"[You need to publish or update the template before displaying the correct "
+"preview]"
+msgstr ""
+
+#: ../functions.yith-wcet.php:126
+msgid "Upload"
+msgstr ""
+
+#: ../functions.yith-wcet.php:127
+msgid "My Default Logo"
+msgstr ""
+
+#: ../init.php:43
+msgid ""
+"YITH WooCommerce Email Templates is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: ../init.php:52
+msgid ""
+"You can't activate the free version of YITH WooCommerce Email Templates "
+"while you are using the premium one."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:8
+msgid "General Options"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:16
+msgid "Default Logo"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:18
+msgid "Upload your custom default logo"
+msgstr ""
+
+#: ../plugin-options/socials-options.php:8
+msgid "Social Network Options"
+msgstr ""
+
+#: ../plugin-options/socials-options.php:16
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../plugin-options/socials-options.php:18
+msgid "Enter your Facebook page URL"
+msgstr ""
+
+#: ../plugin-options/socials-options.php:23
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: ../plugin-options/socials-options.php:25
+msgid "Enter your Twitter profile URL"
+msgstr ""
+
+#: ../plugin-options/socials-options.php:30
+msgid "Google+ Profile URL"
+msgstr ""
+
+#: ../plugin-options/socials-options.php:32
+msgid "Enter your Google+ profile URL"
+msgstr ""
+
+#: ../templates/emails/admin-cancelled-order.php:16
+#, php-format
+msgid "The order #%d from %s has been cancelled. The order was as follows:"
+msgstr ""
+
+#: ../templates/emails/admin-cancelled-order.php:20
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: ../templates/emails/admin-cancelled-order.php:25
+#: ../templates/emails/admin-new-order.php:30
+#: ../templates/emails/customer-completed-order.php:30
+#: ../templates/emails/customer-invoice.php:34
+#: ../templates/emails/customer-note.php:34
+#: ../templates/emails/customer-processing-order.php:30
+#: ../templates/views/html-email-template-preview.php:35
+msgid "Product"
+msgstr ""
+
+#: ../templates/emails/admin-cancelled-order.php:26
+#: ../templates/emails/admin-new-order.php:31
+#: ../templates/emails/customer-completed-order.php:31
+#: ../templates/emails/customer-invoice.php:35
+#: ../templates/emails/customer-note.php:35
+#: ../templates/emails/customer-processing-order.php:31
+#: ../templates/views/html-email-template-preview.php:36
+msgid "Quantity"
+msgstr ""
+
+#: ../templates/emails/admin-cancelled-order.php:27
+#: ../templates/emails/admin-new-order.php:32
+#: ../templates/emails/customer-completed-order.php:32
+#: ../templates/emails/customer-invoice.php:36
+#: ../templates/emails/customer-note.php:36
+#: ../templates/emails/customer-processing-order.php:32
+#: ../templates/views/html-email-template-preview.php:37
+msgid "Price"
+msgstr ""
+
+#: ../templates/emails/admin-new-order.php:21
+#: ../templates/views/html-email-template-preview.php:26
+#, php-format
+msgid "You have received an order from %s. The order is as follows:"
+msgstr ""
+
+#: ../templates/emails/admin-new-order.php:25
+#: ../templates/emails/customer-completed-order.php:25
+#: ../templates/emails/customer-invoice.php:29
+#: ../templates/emails/customer-note.php:29
+#: ../templates/emails/customer-processing-order.php:25
+#: ../templates/views/html-email-template-preview.php:30
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: ../templates/emails/customer-completed-order.php:21
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: ../templates/emails/customer-invoice.php:23
+#, php-format
+msgid ""
+"An order has been created for you on %s. In order to purchase this order, "
+"please use the following link: %s"
+msgstr ""
+
+#: ../templates/emails/customer-invoice.php:23
+msgid "pay"
+msgstr ""
+
+#: ../templates/emails/customer-new-account.php:21
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: ../templates/emails/customer-new-account.php:25
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: ../templates/emails/customer-new-account.php:29
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: ../templates/emails/customer-note.php:21
+msgid "Hi, a note has just been added to your order:"
+msgstr ""
+
+#: ../templates/emails/customer-note.php:25
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: ../templates/emails/customer-processing-order.php:21
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: ../templates/emails/customer-reset-password.php:21
+msgid "Someone requested a password reset for the following account:"
+msgstr ""
+
+#: ../templates/emails/customer-reset-password.php:22
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../templates/emails/customer-reset-password.php:23
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../templates/emails/customer-reset-password.php:24
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../templates/emails/customer-reset-password.php:27
+msgid "Click here to reset your password"
+msgstr ""
+
+#: ../templates/emails/email-addresses.php:20
+msgid "Billing address"
+msgstr ""
+
+#: ../templates/emails/email-addresses.php:30
+msgid "Shipping address"
+msgstr ""
+
+#: ../templates/emails/email-order-items.php:30
+#: ../templates/views/html-email-template-preview.php:64
+msgid "Product Image"
+msgstr ""
+
+#: ../templates/emails/email-order-items.php:59
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: ../templates/emails/email-order-items.php:61
+msgid "Download"
+msgstr ""
+
+#: ../templates/views/html-email-template-preview.php:26
+msgid "User"
+msgstr ""
+
+#: ../templates/views/html-email-template-preview.php:78
+msgid "Subtotal"
+msgstr ""
+
+#: ../templates/views/html-email-template-preview.php:82
+msgid "Shipping"
+msgstr ""
+
+#: ../templates/views/html-email-template-preview.php:83
+msgid "Free Shipping"
+msgstr ""
+
+#: ../templates/views/html-email-template-preview.php:86
+msgid "Payment"
+msgstr ""
+
+#: ../templates/views/html-email-template-preview.php:87
+msgid "PayPal"
+msgstr ""
+
+#: ../templates/views/html-email-template-preview.php:90
+msgid "Total"
+msgstr ""

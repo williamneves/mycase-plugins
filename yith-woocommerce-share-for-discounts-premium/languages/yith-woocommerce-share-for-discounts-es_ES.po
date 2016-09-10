@@ -1,0 +1,458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Save For Discounts\n"
+"POT-Creation-Date: 2016-03-30 09:41+0100\n"
+"PO-Revision-Date: 2016-06-29 12:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../class.yith-wc-share-for-discounts.php:173
+msgid "General Settings"
+msgstr "Ajustes Generales"
+
+#: ../class.yith-wc-share-for-discounts.php:177
+#: ../plugin-options/coupon-options.php:18
+msgid "Coupon Settings"
+msgstr "Ajustes de Cupón"
+
+#: ../class.yith-wc-share-for-discounts.php:178
+#: ../plugin-options/share-options.php:18
+msgid "Sharing Settings"
+msgstr "Ajustes de Compartir"
+
+#: ../class.yith-wc-share-for-discounts.php:181
+#: ../class.yith-wc-share-for-discounts.php:939
+msgid "Premium Version"
+msgstr "Versión Premium"
+
+#: ../class.yith-wc-share-for-discounts.php:187
+#: ../class.yith-wc-share-for-discounts.php:188
+#: ../includes/class-ywsfd-share-email.php:47
+msgid "Share For Discounts"
+msgstr "Share For Discounts"
+
+#: ../class.yith-wc-share-for-discounts.php:217
+msgid "You need to add a Facebook App ID"
+msgstr "Necesitas añadir una App ID de Facebook"
+
+#: ../class.yith-wc-share-for-discounts.php:322
+#, php-format
+msgid "Share the product and get 10% discount!"
+msgstr "¡Comparte el producto para conseguir un 10% de descuento!"
+
+#: ../class.yith-wc-share-for-discounts.php:356
+#: ../plugin-options/share-options.php:32
+msgid "Thank you for sharing!"
+msgstr "¡Gracias por compartir!"
+
+#: ../class.yith-wc-share-for-discounts.php:361
+#: ../plugin-options/share-options.php:40
+msgid "Your discount has been activated and applied to your shopping cart."
+msgstr "Tu descuento ha sido activado y aplicado a tu carrito."
+
+#: ../class.yith-wc-share-for-discounts.php:563
+msgid "Guest"
+msgstr ""
+
+#: ../class.yith-wc-share-for-discounts.php:696
+#: ../plugin-options/coupon-options.php:25
+#, php-format
+msgid "10% off for the shared product"
+msgstr "10% de descuento por el producto compartido"
+
+#: ../class.yith-wc-share-for-discounts.php:936
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../class.yith-wc-share-for-discounts.php:966
+msgid "Plugin Documentation"
+msgstr "Documentación del Plugin"
+
+#: ../class.yith-wc-share-for-discounts.php:1019
+msgid "To use the coupon, you need to add the product to the cart"
+msgstr "Para usar el cupón, necesitas añadir el producto al carrito"
+
+#: ../includes/class-ywsfd-ajax-premium.php:80
+msgid "We were unable to process your request, please try again."
+msgstr "No hemos podido procesar tu petición, por favor, inténtalo de nuevo."
+
+#: ../includes/class-ywsfd-ajax-premium.php:87
+#: ../templates/frontend/social-buttons-premium.php:28
+msgid "Your friend email"
+msgstr "El email de tu amigo."
+
+#: ../includes/class-ywsfd-ajax-premium.php:92
+#: ../templates/frontend/social-buttons-premium.php:35
+msgid "Your email"
+msgstr "Tu email"
+
+#: ../includes/class-ywsfd-ajax-premium.php:97
+msgid "Your message"
+msgstr "Tu mensaje"
+
+#: ../includes/class-ywsfd-ajax-premium.php:114
+msgid "is a required field."
+msgstr "es un campo obligatorio."
+
+#: ../includes/class-ywsfd-ajax-premium.php:121
+msgid "is not a valid email address."
+msgstr "no es una dirección de email válida."
+
+#: ../includes/class-ywsfd-ajax-premium.php:134
+#, php-format
+msgid "%s wants to share something with you on %s site"
+msgstr ""
+
+#: ../includes/class-ywsfd-ajax-premium.php:143
+msgid "There was an error while sending the email, please try again."
+msgstr ""
+"Ha ocurrido un error mientras se enviaba el email, por favor, inténtalo de "
+"nuevo."
+
+#: ../includes/class-ywsfd-ajax-premium.php:210
+#, php-format
+msgid "Cancellation completed. %d coupon deleted."
+msgid_plural "Cancellation completed. %d coupons deleted."
+msgstr[0] "Cancelación completada. %d cupón borrado."
+msgstr[1] "Cancelación completada. %d cupones borrados."
+
+#: ../includes/class-ywsfd-ajax-premium.php:215
+#, php-format
+msgid "An error has occurred: %s"
+msgstr "Ha ocurrido un error: %s"
+
+#: ../includes/class-ywsfd-share-email.php:46
+msgid ""
+"YITH WooCommerce Share For Discounts gives you the perfect tool to reward "
+"your users when they share the products they are going to purchase."
+msgstr ""
+"YITH WooCommerce Share For Discounts te da la herramienta perfecta para "
+"recompensar a tus usuarios cuando comparten los productos que van a comprar."
+
+#: ../init.php:23
+msgid ""
+"YITH WooCommerce Share For Discounts is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Share For Discounts está habilitado pero no es efectivo. "
+"Requiere WooCommerce para funcionar."
+
+#: ../plugin-options/coupon-options.php:22
+msgid "Coupon settings"
+msgstr "Ajustes de cupón"
+
+#: ../plugin-options/coupon-options.php:34
+msgid "Expired Coupon Clearing"
+msgstr ""
+
+#: ../plugin-options/coupon-options.php:36
+msgid ""
+"Automatically deletes expired coupons (Only those created by this plugin)"
+msgstr ""
+"Borra automáticamente los cupones caducados (Sólo los creados por este "
+"plugin)"
+
+#: ../plugin-options/general-options.php:16
+msgid "Email to a friend"
+msgstr "Enviar por email a un amigo"
+
+#: ../plugin-options/general-options.php:20
+msgid "Enable email sharing"
+msgstr "Habilitar compartir por email"
+
+#: ../plugin-options/general-options.php:34
+msgid "Share For Discounts settings"
+msgstr "Ajustes de Share por Discounts"
+
+#: ../plugin-options/general-options.php:38
+msgid "Enable YITH WooCommerce Share For Discounts"
+msgstr "Habilitar YITH WooCommerce Share For Discounts"
+
+#: ../plugin-options/general-options.php:49
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../plugin-options/general-options.php:53
+msgid "Enable Facebook sharing"
+msgstr "Habilitar compartir a través de Facebook"
+
+#: ../plugin-options/general-options.php:60
+msgid "Facebook App ID"
+msgstr "APP ID de Facebook"
+
+#: ../plugin-options/general-options.php:67
+msgid "Facebook Button Type"
+msgstr ""
+
+#: ../plugin-options/general-options.php:69
+msgid "Select the type of button you want to show for Facebook"
+msgstr "Selecciona el tipo de botón que quieres mostrar para Facebook"
+
+#: ../plugin-options/general-options.php:72
+msgid "Like and Share Buttons"
+msgstr "Botones de Me gusta y Compartir"
+
+#: ../plugin-options/general-options.php:73
+msgid "Like Button Only"
+msgstr "Sólo botón de Me gusta"
+
+#: ../plugin-options/general-options.php:74
+#: ../plugin-options/general-options.php:123
+msgid "Share Button Only"
+msgstr "Sólo botón de Compartir"
+
+#: ../plugin-options/general-options.php:83
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../plugin-options/general-options.php:87
+msgid "Enable Twitter sharing"
+msgstr "Habilitar compartir para Twitter"
+
+#: ../plugin-options/general-options.php:89
+msgid ""
+"Note: due to a change made by twitter, you can not be sure that the tweets "
+"are published, so the coupons will be given even if the tweet is canceled. "
+"For more information about this change, please click here:"
+msgstr ""
+"Nota: debido a un cambio hecho por Twitter, no puedes estar seguro de que "
+"los tweets sean publicados, así que los cupones se darán incluso si el tweet "
+"se cancela. Para más información sobre este cambio, haz click aquí:"
+
+#: ../plugin-options/general-options.php:94
+msgid "Twitter username"
+msgstr "Nombre de usuario de Twitter"
+
+#: ../plugin-options/general-options.php:96
+msgid ""
+"Set this option if you want to include \"via @YourUsername\" to your tweets"
+msgstr ""
+"Marca esta opción si quieres incluir \"vía @TuNombreDeUsuario\" a tus tweets"
+
+#: ../plugin-options/general-options.php:105
+msgid "Google+"
+msgstr "Google+"
+
+#: ../plugin-options/general-options.php:109
+msgid "Enable Google+ sharing"
+msgstr "Habilitar compartir en Google+"
+
+#: ../plugin-options/general-options.php:116
+msgid "Google+ Button Type"
+msgstr ""
+
+#: ../plugin-options/general-options.php:118
+msgid ""
+"Select the type of button you want to show for Google+. Note: because of a "
+"bug unresolved by Google, the \"Share\" button could not generate the coupon "
+"correctly. For more information about the bug, please click here:"
+msgstr ""
+
+#: ../plugin-options/general-options.php:121
+msgid "+1 and Share Buttons"
+msgstr ""
+
+#: ../plugin-options/general-options.php:122
+msgid "+1 Button Only"
+msgstr "Sólo botón +1"
+
+#: ../plugin-options/share-options.php:22
+msgid "Box title before sharing"
+msgstr ""
+
+#: ../plugin-options/share-options.php:24
+msgid "Share and get your discount!"
+msgstr ""
+
+#: ../plugin-options/share-options.php:27
+msgid "Title showed above the sharing buttons"
+msgstr ""
+
+#: ../plugin-options/share-options.php:30
+msgid "Box title after sharing"
+msgstr ""
+
+#: ../plugin-options/share-options.php:35
+msgid "Title showed after the sharing"
+msgstr ""
+
+#: ../plugin-options/share-options.php:38
+msgid "Message after sharing"
+msgstr "Mensaje después de compartir"
+
+#: ../plugin-options/share-options.php:43
+msgid "Text that replaces the buttons after the sharing"
+msgstr "Texto que sustituye los botones después de compartir"
+
+#: ../plugin-options/share-options.php:46
+msgid "URL to share"
+msgstr "URL para compartir"
+
+#: ../plugin-options/share-options.php:51
+msgid "If not specified, it will be used the URL of the page"
+msgstr "Si no se especifica, se usará la URL de la página"
+
+#: ../plugin-options/share-options.php:54
+msgid "Show on product page"
+msgstr "Mostrar en la página de producto"
+
+#: ../plugin-options/share-options.php:64
+msgid "Product page position"
+msgstr ""
+
+#: ../plugin-options/share-options.php:69
+msgid ""
+"The position where the sharing buttons are showed in product detail pages."
+msgstr ""
+
+#: ../plugin-options/share-options.php:71
+msgid "Before title"
+msgstr "Antes del título"
+
+#: ../plugin-options/share-options.php:72
+msgid "After price"
+msgstr "Después de precio"
+
+#: ../plugin-options/share-options.php:73
+msgid "Before \"Add to cart\""
+msgstr "Antes de \"Añadir al carrito\""
+
+#: ../plugin-options/share-options.php:74
+msgid "Before tabs"
+msgstr ""
+
+#: ../plugin-options/share-options.php:75
+msgid "Between tabs and related products"
+msgstr ""
+
+#: ../plugin-options/share-options.php:76
+msgid "After related products"
+msgstr ""
+
+#: ../plugin-options/share-options.php:80
+msgid "Show on checkout page"
+msgstr ""
+
+#: ../plugin-options/share-options.php:90
+msgid "Checkout position"
+msgstr ""
+
+#: ../plugin-options/share-options.php:95
+msgid "The position where share buttons are showed in checkout page."
+msgstr ""
+
+#: ../plugin-options/share-options.php:97
+msgid "Before customer details"
+msgstr "Antes de los detalles de cliente"
+
+#: ../plugin-options/share-options.php:98
+msgid "After customer details"
+msgstr ""
+
+#: ../plugin-options/share-options.php:102
+msgid "Show on cart page"
+msgstr "Mostrar en la página de carrito"
+
+#: ../plugin-options/share-options.php:112
+msgid "Cart page position"
+msgstr ""
+
+#: ../plugin-options/share-options.php:117
+msgid "The position where share buttons are showed in cart page."
+msgstr ""
+
+#: ../plugin-options/share-options.php:119
+msgid "Before cart"
+msgstr "Antes del carrito"
+
+#: ../plugin-options/share-options.php:120
+msgid "Cart collaterals"
+msgstr ""
+
+#: ../plugin-options/share-options.php:121
+msgid "After cart"
+msgstr "Después del carrito"
+
+#: ../plugin-options/share-options.php:129
+msgid "Facebook OpenGraph Meta Defaults"
+msgstr ""
+
+#: ../plugin-options/share-options.php:133
+msgid "Default Title"
+msgstr "Título predeterminado"
+
+#: ../plugin-options/share-options.php:139
+msgid "Default Description"
+msgstr "Descripción predeterminada"
+
+#: ../plugin-options/share-options.php:145
+msgid "Default Image"
+msgstr "Imagen predeterminada"
+
+#: ../plugin-options/share-options.php:148
+msgid "Image size must be at least 200x200px"
+msgstr "El tamaño de la imagen debe ser de al menos 200x200px"
+
+#: ../templates/admin/class-ywsfd-custom-coupon-purge.php:110
+msgid "Remove expired coupons"
+msgstr "Borrar cupones caducados"
+
+#: ../templates/admin/class-ywsfd-custom-coupon-purge.php:111
+msgid "Removal of expired coupons in progress..."
+msgstr "Borrado de cupones caducados en progreso..."
+
+#: ../templates/admin/class-ywsfd-custom-image-upload.php:97
+msgid "Upload"
+msgstr "Subir"
+
+#: ../templates/admin/custom-coupon.php:51
+msgid "Description"
+msgstr "Descripción"
+
+#: ../templates/admin/custom-coupon.php:62
+msgid "Discount type"
+msgstr "Tipo de descuento"
+
+#: ../templates/admin/custom-coupon.php:91
+msgid "Coupon amount"
+msgstr "Cantidad del cupón"
+
+#: ../templates/admin/custom-coupon.php:105
+msgid "Number of days after which the coupon expires"
+msgstr "Número de días después del cual el cupón expira"
+
+#: ../templates/admin/custom-coupon.php:113
+msgid "No expiration"
+msgstr "Sin caducidad"
+
+#: ../templates/admin/custom-coupon.php:129
+msgid "Allow free shipping"
+msgstr "Permitir envío gratuito"
+
+#: ../templates/frontend/social-buttons-premium.php:22
+msgid "Send to a friend"
+msgstr "Enviar a un amigo"
+
+#: ../templates/frontend/social-buttons-premium.php:42
+msgid "Message"
+msgstr "Mensaje"
+
+#: ../templates/frontend/social-buttons-premium.php:52
+msgid "Send email"
+msgstr "Enviar email"
+
+#: ../templates/frontend/social-buttons.php:30
+msgid "Share"
+msgstr "Compartir"

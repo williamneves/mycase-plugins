@@ -1,0 +1,68 @@
+== Changelog ==
+
+= 1.2.6 =
+
+* Added: support to WooCommerce 2.6.2
+* Added: Spanish language
+* Fixed: WooCommerce not found issue
+
+= 1.2.5 =
+
+* Added: possibility to override templates
+* Fixed: default template style issue on Thunderbird
+* Fixed: font-family on Outlook
+* Tweak: improved support to YITH WooCommerce Review Reminder Premium
+
+= 1.2.4 =
+
+* Fixed: item SKU now appears in order table
+* Fixed: email template bug showing for partial refunds
+* Tweak: improved support to YITH WooCommerce Review Reminder Premium
+
+= 1.2.3 =
+
+* Added: set header padding
+* Added: set body text line height
+* Added: set background color for "Price" cell in table showing order items
+
+= 1.2.2 =
+
+* Added: possibility to use social mini-icons (30x30 px) in all email templates
+* Fixed: template styles
+* Fixed: minor bug
+
+= 1.2.1 =
+
+* Fixed: template styles
+* Fixed: WooCommerce email header logo style
+* Fixed: minor bug
+
+= 1.2.0 =
+
+* Added: support to WooCommerce 2.5
+* Added: support to WordPress 4.4.1
+* Added: improved integration with plugins using email templates
+* Added: Pinterest in socials
+* Added: possibility to duplicate email templates
+* Improved: email template code
+* Fixed: table styles
+* Fixed: minor bug
+
+= 1.1.3 =
+
+* Fixed: minor bug
+
+= 1.1.2 =
+
+* Fixed: First WooCommerce order email kept WooCommerce template style
+
+= 1.1.0 =
+
+* Added: Support to WordPress 4.2.4
+* Added: Support to WooCommerce 2.4.4
+
+* Initial release
+
+= 1.0.0 =
+
+* Initial release

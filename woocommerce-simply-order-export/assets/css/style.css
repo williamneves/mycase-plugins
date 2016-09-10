@@ -1,0 +1,23 @@
+.wpg-inputs { margin-top: 50px; }
+.wpg-dateholder { display: inline-block; margin-left: 25px; }
+	.wpg-dateholder:first-child { margin-left: 0; }
+.wpg-dateholder label, .wpg-dateholder .wpg-datepicker { vertical-align: middle; }
+.wpg-dateholder label { font-weight: 700; font-style: italic; }
+.orderexport-button { margin-top: 30px; }
+.orderexport-button .spinner { float: none; }
+.wpg-error { padding: 5px 10px;background: #FFF;border-left: 5px solid red; }
+#woo-soe-advanced { font-size: 1.1em; }
+	#woo-soe-advanced:hover { border-bottom: 1px solid #0074a2; }
+.woo-soe .order-statuses { margin-top: 10px; }
+
+/* Add-on css */
+#wpg-reorder { background: #C3C0A3; padding: 1em; }
+.reorder-section { border: 1px solid #333; padding: 10px; margin-top: 20px; }
+#wpg-reorder .wpg-reorder-button { margin-bottom: 10px; }
+
+/*Admin Notice*/
+.wsoe-que div { margin: 5px 0; }
+	.wsoe-que div:first-child { margin-top: 0 }
+	
+/*Timepicker*/
+.ui-timepicker-wrapper{overflow-y:auto;height:150px;width:6.5em;background:#fff;border:1px solid #ddd;-webkit-box-shadow:0 5px 10px rgba(0,0,0,.2);-moz-box-shadow:0 5px 10px rgba(0,0,0,.2);box-shadow:0 5px 10px rgba(0,0,0,.2);outline:0;z-index:10001;margin:0}.ui-timepicker-wrapper.ui-timepicker-with-duration{width:13em}.ui-timepicker-wrapper.ui-timepicker-with-duration.ui-timepicker-step-30,.ui-timepicker-wrapper.ui-timepicker-with-duration.ui-timepicker-step-60{width:11em}.ui-timepicker-list{margin:0;padding:0;list-style:none}.ui-timepicker-duration{margin-left:5px;color:#888}.ui-timepicker-list:hover .ui-timepicker-duration{color:#888}.ui-timepicker-list li{padding:3px 0 3px 5px;cursor:pointer;white-space:nowrap;color:#000;list-style:none;margin:0}.ui-timepicker-list:hover .ui-timepicker-selected{background:#fff;color:#000}.ui-timepicker-list .ui-timepicker-selected:hover,.ui-timepicker-list li:hover,li.ui-timepicker-selected{background:#1980EC;color:#fff}.ui-timepicker-list li:hover .ui-timepicker-duration,li.ui-timepicker-selected .ui-timepicker-duration{color:#ccc}.ui-timepicker-list li.ui-timepicker-disabled,.ui-timepicker-list li.ui-timepicker-disabled:hover,.ui-timepicker-list li.ui-timepicker-selected.ui-timepicker-disabled{color:#888;cursor:default}.ui-timepicker-list li.ui-timepicker-disabled:hover,.ui-timepicker-list li.ui-timepicker-selected.ui-timepicker-disabled{background:#f2f2f2}

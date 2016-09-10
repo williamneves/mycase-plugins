@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: recoverabandoncart\n"
+"POT-Creation-Date: 2014-05-09 15:51+0530\n"
+"PO-Revision-Date: 2014-05-09 15:53+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: recoverabandoncart.php:34
+msgid "General Settings"
+msgstr ""
+
+#: recoverabandoncart.php:35
+msgid "Abandon Cart"
+msgstr ""
+
+#: recoverabandoncart.php:36 recoverabandoncart.php:424
+#: recoverabandoncart.php:444
+msgid "Email Settings"
+msgstr ""
+
+#: recoverabandoncart.php:58
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: recoverabandoncart.php:108
+msgid "Your settings have been saved."
+msgstr ""
+
+#: recoverabandoncart.php:139 recoverabandoncart.php:198
+#: recoverabandoncart.php:283
+msgid "Template Name"
+msgstr ""
+
+#: recoverabandoncart.php:140 recoverabandoncart.php:200
+#: recoverabandoncart.php:284
+msgid "From Name"
+msgstr ""
+
+#: recoverabandoncart.php:141 recoverabandoncart.php:202
+#: recoverabandoncart.php:285
+msgid "From Email"
+msgstr ""
+
+#: recoverabandoncart.php:142 recoverabandoncart.php:204
+#: recoverabandoncart.php:286
+msgid "Subject"
+msgstr ""
+
+#: recoverabandoncart.php:143 recoverabandoncart.php:207
+msgid "Send Mail Duration"
+msgstr ""
+
+#: recoverabandoncart.php:213 recoverabandoncart.php:287
+msgid "Message"
+msgstr ""
+
+#: recoverabandoncart.php:218
+msgid "Save Changes"
+msgstr ""
+
+#: recoverabandoncart.php:219
+msgid "Return to Mail Templates"
+msgstr ""
+
+#: recoverabandoncart.php:282 recoverabandoncart.php:681
+msgid "ID"
+msgstr ""
+
+#: recoverabandoncart.php:294
+msgid "Edit"
+msgstr ""
+
+#: recoverabandoncart.php:294
+msgid "Delete"
+msgstr ""
+
+#: recoverabandoncart.php:334
+msgid "Save changes"
+msgstr ""
+
+#: recoverabandoncart.php:353
+msgid "Time Settings"
+msgstr ""
+
+#: recoverabandoncart.php:360
+msgid "Abandon Cart Time Type"
+msgstr ""
+
+#: recoverabandoncart.php:361 recoverabandoncart.php:394
+msgid "Please Select wether the time should be in Minutes,Hours,Days"
+msgstr ""
+
+#: recoverabandoncart.php:373
+msgid "Abandon Cart Time"
+msgstr ""
+
+#: recoverabandoncart.php:374
+msgid "Please Enter time after which the cart should be considered as abandon"
+msgstr ""
+
+#: recoverabandoncart.php:386
+msgid "Cron Settings"
+msgstr ""
+
+#: recoverabandoncart.php:393
+msgid "Cron Time Type"
+msgstr ""
+
+#: recoverabandoncart.php:406
+msgid "Cron Time"
+msgstr ""
+
+#: recoverabandoncart.php:407
+msgid "Please Enter time after which Email time testing will happen"
+msgstr ""
+
+#: recoverabandoncart.php:431 recoverabandoncart.php:451
+msgid "Email Template"
+msgstr ""
+
+#: recoverabandoncart.php:432 recoverabandoncart.php:452
+msgid "Please Enter create your email message here"
+msgstr ""
+
+#: recoverabandoncart.php:682
+msgid "Cart Details"
+msgstr ""
+
+#: recoverabandoncart.php:683
+msgid "UserName"
+msgstr ""
+
+#: recoverabandoncart.php:684
+msgid "Status"
+msgstr ""
+
+#: recoverabandoncart.php:685
+msgid "Email Template/Link Cliked"
+msgstr ""
+
+#: recoverabandoncart.php:686
+msgid "Placed Order"
+msgstr ""
+
+#: recoverabandoncart.php:687
+msgid "Completed"
+msgstr ""

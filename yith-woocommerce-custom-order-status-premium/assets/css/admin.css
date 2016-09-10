@@ -1,0 +1,91 @@
+/**
+ * Admin style
+ *
+ * @author Leanza Francesco
+ * @version 1.0.0
+ */
+
+#yith-wccos-metabox .yith-wccos-icon-manager{
+  	height: 200px;
+  	width: 450px;
+  	overflow-y: scroll;
+}
+
+#yith-wccos-metabox .yith-wccos-icon-manager-wrapper{
+	width: 500px;
+}
+
+#yith-wccos-metabox .yith-wccos-icon-manager-text{
+    width: 450px;
+}
+
+#yith-wccos-metabox .yith-wccos-icon-list-wrapper li{
+  	display: inline-block;
+  	padding: 5px;
+}
+
+#yith-wccos-metabox .custom_icon_wrapper{
+	display: none;
+}
+
+#yith_status_icon{
+	width:60px;
+}
+
+.yith_status_icon mark{
+    display: block;
+    text-indent: -9999px;
+    position: relative;
+    height: 1em;
+    width: 1em;
+    background: 0 0;
+    font-size: 1.4em;
+    margin: 0 auto;
+}
+
+.column-yith_status_icon span{
+	display: block;
+    position: relative;
+    height: 1em;
+    width: 1em;
+    background: 0 0;
+    font-size: 1.2em;
+    margin: 0 auto;
+    color: #777;
+}
+
+.column-yith_status_icon span::after{
+	content: "\e011";
+	top: 0;
+	font-family: WooCommerce;
+	speak: none;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	left: 0;
+	text-align: center;
+}
+
+#yith-wccos-metabox .search-choice-close{
+  z-index:9998;
+}
+
+#yith-wccos-metabox div.wp-picker-holder{
+  z-index:9999;
+  position: absolute;
+}
+
+
+#yith-wccos-metabox [data-font="FontAwesome"]:before {
+    font-family: 'FontAwesome';
+    content: attr(data-yicon) !important;
+    speak: none;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

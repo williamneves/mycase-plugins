@@ -1,0 +1,133 @@
+#livechat {
+	padding-top: 20px;
+}
+#lc_logo {
+	float: left;
+	width: 100%;
+	height: 120px;
+}
+	#lc_logo img {
+		display: block;
+		float: left;
+	}
+	#lc_logo span {
+		display: block;
+		margin-left: 200px;
+
+		/**
+		 * inheriting "h2" element styles
+		 * - could not use actual <h2> element
+		 *   due to some problems with "updated" divs
+		*/
+		color: #464646;
+		font: italic normal normal 24px Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
+		line-height: 80px;
+		text-shadow: rgba(255, 255, 255, 1) 0 1px 0;
+	}
+
+.clear {
+	clear: both;
+}
+
+#livechat div.installed_ok { background-color: #e1fdc5; border-color: #6ac611; }
+.postbox h3 { cursor: default; }
+.postbox_content { padding: 0 10px; }
+.postbox_content ul { margin-top: 5px; }
+.postbox label { line-height: 1.5em; }
+.postbox .asterisk { color: red; }
+.explanation { color: #999; padding-left: 5px; }
+a.help,
+span.help a { color: #999; }
+#wpbody-content a.help:hover,
+#wpbody-content .help a:hover { color: #222; }
+.installed_ok a.help,
+.installed_ok .help a,
+.info a.help,
+.info .help a { color: #666; }
+.installed_ok a.help,
+.info a.help,
+.installed_ok span.help,
+.info span.help { font-weight: normal; color: #666; font-size: 85%; }
+h3.no-radius { -moz-border-radius: 0; }
+hr.livechat { margin-bottom: 1em; height: 1px; border: 0; color: #999; background: #ccc; }
+
+.ajax_message { display: none; background: url(../images/ajax_loader.gif) no-repeat 5px 60%; font-size: 85%; padding: 0; }
+.ajax_message.wait,
+.ajax_message.message { display: block; }
+.ajax_message.wait { text-indent: 28px; }
+.ajax_message.message { background-image: none; text-indent: 0px; }
+
+#control_panel { width: 99%; border: 0; }
+
+#reset_settings {
+	font-size: 85%;
+}
+#reset_settings, #reset_settings a {
+	color: #999;
+}
+
+
+#livechat .back {
+	margin-top: 20px;
+}
+
+p.img {
+}
+	p.img img {
+		padding: 1px;
+		background: white;
+		border: 1px solid #bbb;
+
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+	}
+
+.btn a {
+	display: inline-block;
+	padding: 3px 10px;
+	color: white;
+
+	text-decoration: none;
+	font-weight: normal;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+
+	text-shadow: 1px 1px 0 #06a;
+	border-top: 1px solid #4bf;
+	border-bottom: 1px solid #39f;
+
+	-moz-box-shadow: 0 1px 0 #39d, 0 -1px 0 #39d, 1px 0 0 #39d, -1px 0 0 #39d;
+	-webkit-box-shadow: 0 1px 0 #39d, 0 -1px 0 #39d, 1px 0 0 #39d, -1px 0 0 #39d;
+	box-shadow: 0 1px 0 #39d, 0 -1px 0 #39d, 1px 0 0 #39d, -1px 0 0 #39d;
+
+	background: #4ae;
+	background: -moz-linear-gradient(top,  #4ae,  #28d);
+	background: -webkit-gradient(linear, left top, left bottom, from(#4ae), to(#28d));
+
+}
+.btn a:hover {
+	text-decoration: none;
+	border-top-color: #5cf;
+	border-bottom-color: #3af;
+	color: white;
+
+	-moz-box-shadow: 0 1px 0 #4ae, 0 -1px 0 #4ae, 1px 0 0 #4ae, -1px 0 0 #4ae;
+	-webkit-box-shadow: 0 1px 0 #4ae, 0 -1px 0 #4ae, 1px 0 0 #4ae, -1px 0 0 #4ae;
+	box-shadow: 0 1px 0 #4ae, 0 -1px 0 #4ae, 1px 0 0 #4ae, -1px 0 0 #4ae;
+
+	background: #4bf;
+	background: -moz-linear-gradient(top,  #4bf,  #39d);
+	background: -webkit-gradient(linear, left top, left bottom, from(#4bf), to(#39d));
+}
+.btn a:active,
+.btn a:focus {
+	/* margin-top: 1px did not work as intended under Chrome */
+	position: relative;
+	top: 1px;
+}
+
+#advanced {
+	margin-bottom: 0;
+}

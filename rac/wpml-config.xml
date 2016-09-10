@@ -1,0 +1,6 @@
+<wpml-config>
+    <admin-texts>
+        <key name="rac_unsub_myaccount_heading"/>
+        <key name="rac_unsub_myaccount_text"/>
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,173 @@
+3.16.4
+- Fixed: Video Backgrounds - VC stretch row and full height conflict
+- Fixed: Hosted Video background - JS console error
+- Fixed: IB 2 - Style 11 iOS issue
+- Fixed: Image param - content pass as array instead string
+- Fixed: Hotspot - Misalignment
+- Fixed: Row Backgrounds - Image separator conflict with full height option
+- Fixed: Admin - Redux CSS conflicts with UAVC
+- Fixed: Timeline - Backend structure break due image alignment
+- Fixed: Multiple video backgrounds - Poster images not showing on mobile devices
+- Improvement - Advanced Tabs - Responsive accordion scroll to container on open tab option - http://bsf.io/lmde8
+- Improvement -  Advanced Button - Inline alignment option added to display buttons inline - http://bsf.io/bvkn4
+- BSF Core v1.17 - With fallback to W3 Total Cache's deleting transients on every page reload
+
+3.16.3
+- Fixed: BSF Core - fatal error issue
+- Fixed: Fancy Text - Pause on hover disable issue
+- Fixed: Font icons issue over https protocol
+- Fixed: Advanced Tabs - VC's Image Gallery not working
+- Improvement: Provide ultimate access for different user roles (in Debug mode)
+
+3.16.2
+- Improvement: ultimate_images filter used for WPRocket
+- Improvement: Info Circle - Responsive icon/image
+- Improvement: Expandable Section - Optimized jQuery-UI library
+- Fixed: YouTube Video Background - VC stretch row conflict
+- Fixed: Advanced Button - Spelling mistake
+- Fixed: Backend input number styling
+- Fixed: Advanced Tabs - Warnings
+- Fixed: List Icon - Warning
+- Fixed: Advanced Carousel - Touch move not working
+- BSF Core 1.11 - Improvement in updating plugin
+
+3.16.1
+- Fixed: Interactive banner style 1 not working in Firefox
+- Fixed: Conflict for tabs due to javascript
+- Fixed: image separator - link opening in new tab only
+- Fixed: Ultimate and Parallax plugin conflict
+- Fixed: Fancy Text - Slide up effect duplicating strings bug
+- Fixed: Backend console errors while loading presets
+- Fixes of Sticky section
+- Update: Fancy Text - vTicker script updated (v1.15) and removed down direction support
+- Update: Google Map API updated to 3.23
+- BSF Core v1.6
+
+3.16.0.1
+- Fix: PHP error appearing on some of the PHP old versions for the range slider.
+
+3.16.0
+- New: Element Range Slider.
+- Fix: Important security vulnerability. Thank you Ivan (https://hackerone.com/reactors08) for reporting this privately.
+- Fix: Countdown Timer responsive font size options were not working.
+- Fix: Countdown Timer kept adding <style> tags on each count-down.
+- Fix: Info-Circle link is not working on mobile devices
+- Fix: Images in Hot-spot element were not working.
+- Fix: Hot-spot element tooltip was not working.
+- Fix: improved the scroll on advanced tabs on mobile devices.
+
+3.15.2
+- Fixed: Row stretch not working after VC 4.10
+
+3.15.1
+- Fixed: Fancy text - Multiple lines sliding at a time
+- Fixed: Team - Opacity option not working
+- Fixes for Sticky section
+- Improvement: Image param - alt text can be set through media uploader for all elements
+- 100+ Presets for 15+ elements
+
+Quick Video - http://bsf.io/7a3wp
+
+Elements - 
+
+* Advanced Button
+* Countdown Timer
+* Dual button
+* Flipbox
+* Google Map
+* Headings
+* Highlight Box
+* Info box
+* Info Tables
+* Interactive banner
+* Interactive Banner 2
+* Just Icon
+* Creative link
+* Modal Box
+* Pricing Tables
+* Counter
+* Team module 
+
+Note - Images are not possible to add into presets, hence, image should be selected once preset loaded in few elements.
+
+3.15.0
+- New element: Sticky section
+- Improvement: Infor Circle - Link support
+- Improvement: Google Map - DISABLE_ULTIMATE_GOOGLE_MAP_API constant to disable map API from Ultimate
+- Improvement: Image separator - Link support
+- Improvement: Design option added to elements
+- Fixed: Info Circle - Typography fixes after breakpoint
+- Fixed: Row background - Browser full dimension and Easy parallax issue with other full width scripts
+- Fixed: Info Circle - Extra space/margin from top and bottom
+- Fixed: Info Box - W3C validation errors
+- Fixed: Content box - Background image with counter issue
+- Fixed: Info Box - CSS fixes
+- Fixed: Timeline - Not working with Optimized with javascript and featured item or separator
+- Fixed: Interactive banner 2 - Using custom selector, effects are not working
+- Fixed: Highlight Box - Shortcodes are not working if used in editor
+- Fixed: Info List - Description font size is too large while loading
+- Fixes for Advanced Button
+
+3.14.1
+- Fixed: Creative Link - Style 8 responsive typography not working
+- Fixed: Advanced Tabs - responsive typography not working
+- Fixed: Advanced Button - Clogged hover background color
+- Fixed: Fancy Text - Slide up/down alignment issue
+- Fixed: Google Maps - Open info window on marker click not working
+- Fixed: Backend collapse due JS error from Team module
+- Fixed: Advanced Tabs - responsive typography not working
+- Improvement: Modal Popup - Trigger on another element on click event
+
+3.14.0
+- New element: Team
+- Improvement: Interactive Banner 2 - HTML Tag
+- Improvement: Smooth scroll - Compatible mode, Speed and steps options
+- Improvement: Flip box - ultFlipBoxClicked event added for developers 
+- Improvement: Font icon manager - Updated URL scheme fix using set_url_scheme while loading fonts
+- Improvement: BSF CORE - registration menu under dashboard, addon resources under resources page
+- Improvement: Responsive font size, line height and Google fonts added to all elements
+- Improvement: Row Separator - New "Multi triangle" separator
+- Improvement: Video Backgrounds - Placeholder position set to center
+- Fixed: VC 4.8 compatibility issue with vc_generate_dependencies_attributes
+- Fixed: Google font manager - subsets are not working if Load scripts globally option is enabled
+- Fixed: Advanced Carousel - navigation styles
+- Fixed: Hosted video background - Full height dimension causing text outside
+- Fixed: IB2 - Broken image tag removed if image not selected 
+- Fixed: Unoptimized JS+CSS Interactive banner not working if IB2 added on same page
+- VC 4.9 compatible for row backgrounds and margin bottom 
+
+3.13.7
+- Fixed: Headings - duplicate uniqid conflict in fast server execution time
+- Fixed: Fancy Text - Resources are not loading due optimized resources improvement in 3.13.5
+- Fixed: Google Maps - Styled maps not working in IE
+- Fixed: Info Box - Twenty fifteen theme link border issue
+- Fixed: Google Maps - Marker info not working on mouse click event
+- Fixed: Content Box - Border color issue in FireFox
+- Fixed: Advanced Carousel - Horizontal full width issue
+- Fixed: Google Maps - Zoom on scrolling not working
+- Fixed: Image Separator - CSS conflict with VC
+- Fixed: Info Tables - Misaligned button
+- Fixed: Info Tables - Title and subtitle color not working
+- Improvement: List icon - Typography added
+- Improvement: Highlight box - w3c validation
+- Improvement: Smooth scroll script update used "Mousewheel Smooth Scroll" plugin's script
+- Improvement: Google Maps - Pan control removed in v3
+- Improvement: Future release VC4.8 compatible
+
+3.13.6
+- Fixed: Backgrounds not working since 3.13.5
+- Improvement: Optimized resources will load only if ultimate element is exists on page
+
+3.13.5
+- Fixed: Google Font Manager: Not working if Load scripts globally option is active
+- Fixed: Content-Box - Margin not working.
+- Fixed: Tab -Accordion content not visible issue
+- Fixed: Advanced Tabs - old vc not supported function
+- Fixed: Creative Button - Safari/Mac style 9 issue
+- Fixed: Dual Button - Misaligned icons in Safari/Mac
+- Fixed: Advanced Button - Border radius on hover issue in Safari/Mac
+- Fixed: Advanced Button - removed unnecessary padding if link applied
+- Fixed: Hotspot - Not working in admin since VC 4.7.4
+- Improvement: BSF Core - HTML5 Local Storage form filling
+- Improvement: BSF Core - Changelog link on update notice
+- Improvement: BSF Core - Ajax featured shiny updates

@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Recover Abandoned Cart\n"
+"POT-Creation-Date: 2016-06-21 18:03-0300\n"
+"PO-Revision-Date: 2016-06-21 18:06-0300\n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/admin/class-wp-carts-list-table.php:26
+msgid "Info"
+msgstr "Informações"
+
+#: ../includes/admin/class-wp-carts-list-table.php:27
+msgid "Email"
+msgstr ""
+
+#: ../includes/admin/class-wp-carts-list-table.php:28
+msgid "Subtotal"
+msgstr ""
+
+#: ../includes/admin/class-wp-carts-list-table.php:29
+msgid "Status"
+msgstr "Status"
+
+#: ../includes/admin/class-wp-carts-list-table.php:30
+msgid "Email sent"
+msgstr "Email enviado!"
+
+#: ../includes/admin/class-wp-carts-list-table.php:31
+msgid "Last update"
+msgstr "Última atualização"
+
+#: ../includes/admin/class-wp-carts-list-table.php:32
+msgid "Action"
+msgstr "Ação"
+
+#: ../includes/admin/class-wp-carts-list-table.php:135
+#: ../includes/admin/class-yith-wc-abandoned-cart-metaboxes.php:133
+msgid "Not sent"
+msgstr "Email não enviado"
+
+#: ../includes/admin/class-wp-carts-list-table.php:173
+msgid "Send Email"
+msgstr "Enviar E-mail"
+
+#: ../includes/admin/class-wp-carts-list-table.php:174
+msgid "Delete"
+msgstr "Remover"
+
+#: ../includes/admin/class-wp-carts-list-table.php:202
+msgid "View"
+msgstr "Ver"
+
+#: ../includes/admin/class-wp-carts-list-table.php:209
+#: ../templates/admin/metabox_cart_action.php:20
+msgid "Send email"
+msgstr "Enviar email"
+
+#: ../includes/admin/class-yith-wc-abandoned-cart-metaboxes.php:66
+msgid "Cart Info"
+msgstr "Carrinho"
+
+#: ../includes/admin/class-yith-wc-abandoned-cart-metaboxes.php:98
+#: ../includes/admin/tinymce/tinymce-plugin-langs.php:15
+msgid "Cart Content"
+msgstr "Conteúdo do Carrinho"
+
+#: ../includes/admin/class-yith-wc-abandoned-cart-metaboxes.php:121
+msgid "Cart Action"
+msgstr "Ação do carrinho"
+
+#: ../includes/admin/tinymce/tinymce-plugin-langs.php:12
+msgid "User First Name"
+msgstr "Primeiro Nome"
+
+#: ../includes/admin/tinymce/tinymce-plugin-langs.php:13
+msgid "User Last Name"
+msgstr "Último Nome"
+
+#: ../includes/admin/tinymce/tinymce-plugin-langs.php:14
+msgid "User Name"
+msgstr "Nome de usuário"
+
+#: ../includes/class-yith-wc-abandoned-cart-admin.php:145
+msgid "Email Sent"
+msgstr "Email Enviado"
+
+#: ../includes/class-yith-wc-abandoned-cart-admin.php:183
+#: ../includes/class-yith-wc-abandoned-cart-admin.php:334
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../includes/class-yith-wc-abandoned-cart-admin.php:184
+#: ../includes/class-yith-wc-abandoned-cart.php:92
+msgid "Carts"
+msgstr "Carrinhos"
+
+#: ../includes/class-yith-wc-abandoned-cart-admin.php:185
+#: ../plugin-options/email-options.php:8
+msgid "Email Template"
+msgstr "Template de Email"
+
+#: ../includes/class-yith-wc-abandoned-cart-admin.php:189
+#: ../includes/class-yith-wc-abandoned-cart-admin.php:336
+msgid "Premium Version"
+msgstr "Versão Premium"
+
+#: ../includes/class-yith-wc-abandoned-cart-admin.php:195
+#: ../includes/class-yith-wc-abandoned-cart-admin.php:196
+#: ../includes/class-yith-wc-abandoned-cart.php:79
+msgid "Abandoned Cart"
+msgstr "Carrinho Abandonado"
+
+#: ../includes/class-yith-wc-abandoned-cart-admin.php:359
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../includes/class-yith-wc-abandoned-cart.php:77
+msgctxt "Post Type General Name"
+msgid "Abandoned Cart"
+msgstr ""
+
+#: ../includes/class-yith-wc-abandoned-cart.php:78
+msgctxt "Post Type Singular Name"
+msgid "Abandoned Cart"
+msgstr ""
+
+#: ../includes/class-yith-wc-abandoned-cart.php:80
+msgid "Parent Item:"
+msgstr ""
+
+#: ../includes/class-yith-wc-abandoned-cart.php:81
+msgid "All Abandoned Carts"
+msgstr "Todos os carrinhos abandonados"
+
+#: ../includes/class-yith-wc-abandoned-cart.php:82
+msgid "View Abandoned Carts"
+msgstr "Ver carrinhos abandonados"
+
+#: ../includes/class-yith-wc-abandoned-cart.php:83
+#: ../includes/class-yith-wc-abandoned-cart.php:84
+msgid "Add New Abandoned Cart"
+msgstr ""
+
+#: ../includes/class-yith-wc-abandoned-cart.php:85
+msgid "Edit Abandoned Cart"
+msgstr ""
+
+#: ../includes/class-yith-wc-abandoned-cart.php:86
+msgid "Update Abandoned Cart"
+msgstr ""
+
+#: ../includes/class-yith-wc-abandoned-cart.php:87
+msgid "Search Abandoned Cart"
+msgstr ""
+
+#: ../includes/class-yith-wc-abandoned-cart.php:88
+msgid "Not found"
+msgstr ""
+
+#: ../includes/class-yith-wc-abandoned-cart.php:89
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../includes/emails/class.yith-wc-abandoned-cart-email.php:30
+msgid "Recover Abandoned Cart Email"
+msgstr ""
+
+#: ../includes/emails/class.yith-wc-abandoned-cart-email.php:31
+msgid ""
+"This is the email sent to the customer from the admin in YITH WooCommerce "
+"Recover Abandoned Cart Plugin"
+msgstr ""
+
+#: ../init.php:34
+msgid ""
+"You can't activate the free version of YITH WooCommerce Recover Abandoned "
+"Cart while you are using the premium one."
+msgstr ""
+
+#: ../init.php:56 ../init.php:128
+msgid ""
+"YITH WooCommerce Recover Abandoned Cart is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: ../plugin-options/email-options.php:14
+msgid "Email Sender Name"
+msgstr ""
+
+#: ../plugin-options/email-options.php:22
+msgid "Email Sender"
+msgstr ""
+
+#: ../plugin-options/email-options.php:30
+msgid "Email Subject"
+msgstr ""
+
+#: ../plugin-options/email-options.php:39
+msgid "Email content"
+msgstr ""
+
+#: ../plugin-options/general-options.php:8
+msgid "General settings"
+msgstr ""
+
+#: ../plugin-options/general-options.php:14
+msgid "Enable Recover Abandoned Cart"
+msgstr ""
+
+#: ../plugin-options/general-options.php:22
+msgid "Cart abandoned cut-off time"
+msgstr ""
+
+#: ../plugin-options/general-options.php:23
+msgid "Minutes that have to pass to consider a cart abandoned"
+msgstr ""
+
+#: ../templates/admin/metabox_cart_action.php:14
+msgid "Email sent:"
+msgstr ""
+
+#: ../templates/admin/metabox_cart_action.php:19
+msgid "Email action:"
+msgstr ""
+
+#: ../templates/admin/metabox_cart_content.php:14
+#: ../templates/cart_content.php:14
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: ../templates/admin/metabox_cart_content.php:15
+#: ../templates/cart_content.php:15
+msgid "Product"
+msgstr "Produto"
+
+#: ../templates/admin/metabox_cart_content.php:16
+#: ../templates/cart_content.php:16
+msgid "Product Price"
+msgstr "Preço do produto"
+
+#: ../templates/admin/metabox_cart_content.php:17
+#: ../templates/cart_content.php:17
+msgid "Quantity"
+msgstr "Quantidade"
+
+#: ../templates/admin/metabox_cart_content.php:18
+#: ../templates/cart_content.php:18
+msgid "Total"
+msgstr ""
+
+#: ../templates/admin/metabox_cart_info_content.php:15
+msgid "Cart Status:"
+msgstr "Estado do Carrinho: "
+
+#: ../templates/admin/metabox_cart_info_content.php:20
+msgid "Cart Last Update:"
+msgstr "Última Atualização do Carrinho:"
+
+#: ../templates/admin/metabox_cart_info_content.php:25
+msgid "User:"
+msgstr "Usuário:"
+
+#: ../templates/admin/metabox_cart_info_content.php:30
+msgid "User email:"
+msgstr "Email do Utilizador:"
+
+#: ../templates/admin/premium.php:231 ../templates/admin/premium.php:389
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Recover Abandoned "
+"Cart%2$s to benefit from all features!"
+msgstr ""
+
+#: ../templates/admin/premium.php:234 ../templates/admin/premium.php:392
+msgid "UPGRADE"
+msgstr ""
+
+#: ../templates/admin/premium.php:235 ../templates/admin/premium.php:393
+msgid "to the premium version"
+msgstr ""
+
+#: ../templates/admin/premium.php:241
+msgid "Premium Features"
+msgstr ""
+
+#: ../templates/admin/premium.php:249
+msgid "Type of users"
+msgstr ""
+
+#: ../templates/admin/premium.php:252
+#, php-format
+msgid ""
+"Recovering information about a user who has abandoned the cart might turn "
+"out to be a very powerful weapon to improve your earnings.%3$sYou can limit "
+"your %1$smarketing strategy%2$s to some users only, those who have "
+"registered into your site and with a specific %1$srole%2$s, the one you "
+"specify from inside the plugin."
+msgstr ""
+
+#: ../templates/admin/premium.php:262
+msgid "Guest users"
+msgstr ""
+
+#: ../templates/admin/premium.php:265
+#, php-format
+msgid ""
+"It happens many times that an %1$sunregistered%2$s user was so near to "
+"purchase, had filled our %1$scheckout%2$s form but then had not completed "
+"the order for connection problems or for doubts aroused at the last minute."
+"%3$sWith the premium version of the plugin, you will be able to track also "
+"these users and contact them in a later moment to remind them of complete "
+"their missed purchase."
+msgstr ""
+
+#: ../templates/admin/premium.php:281
+msgid "Notification email"
+msgstr ""
+
+#: ../templates/admin/premium.php:284
+#, php-format
+msgid ""
+"What's more satisfying than seeing an abandoned cart turning into a purchase "
+"order? %1$sYou can get emails for each successful conversion%2$s, containing "
+"all information about the order and the user who made it. Keep always "
+"updated about what happens in your e-commerce shop."
+msgstr ""
+
+#: ../templates/admin/premium.php:294
+msgid "Different email templates "
+msgstr ""
+
+#: ../templates/admin/premium.php:297
+#, php-format
+msgid ""
+"Endless email templates that you can configure to encourage reluctant users "
+"to %1$scome back to your shop%2$s and evaluate the purchase offer.%3$sWrite "
+"emails and schedule their sending, proposing new contents and always more "
+"interesting offers. Do not let it go is the first rule to aim to success!"
+msgstr ""
+
+#: ../templates/admin/premium.php:313
+msgid "Coupons"
+msgstr ""
+
+#: ../templates/admin/premium.php:316
+#, php-format
+msgid ""
+"The most seducing weapon to approach users that have already visited your "
+"shop. A different coupon for each email template: you can configure "
+"%1$sdiscounts%2$s and %1$sexpiration date%2$s, in order to urge your users "
+"to hurry and reduce the possible useless doubts they can have."
+msgstr ""
+
+#: ../templates/admin/premium.php:326
+msgid "Automatic sending of emails "
+msgstr ""
+
+#: ../templates/admin/premium.php:329
+#, php-format
+msgid ""
+"With few and simple options, you will be able to configure the automatic "
+"sending of emails to users that have abandoned their cart on your site."
+"%3$sAfter a certain time span since the cart was abandoned, the email will "
+"be generated automatically: in this way, there could be %1$snew invitations "
+"every day%2$s, which likely will be converted in purchase orders."
+msgstr ""
+
+#: ../templates/admin/premium.php:345
+msgid "WPML"
+msgstr ""
+
+#: ../templates/admin/premium.php:348
+#, php-format
+msgid ""
+"Currently WPML is the most popular system among those who want a multi-"
+"language and multi-currency site. WPML compatibility symbolizes an added "
+"value to any products, and YITH WooCommerce Recover Abandoned Cart is no "
+"less so.%3$sThe plugin will let you %1$screate an email in the different "
+"languages%2$s set in your site: the system will send it in the language "
+"related to the one of the abandoned cart of the user."
+msgstr ""
+
+#: ../templates/admin/premium.php:358
+msgid "Log"
+msgstr ""
+
+#: ../templates/admin/premium.php:361
+#, php-format
+msgid ""
+"A complete list of the traced emails of your %1$sshop%2$s to have an order "
+"history of all users that have thought to purchase on your shop.%3$sThanks "
+"to the general page, you will be able to see at a glance the complete list "
+"of all generated %1$semails%2$s from the plugin and their related "
+"information, just like the IDs of the abandoned carts and the date in which "
+"they were sent."
+msgstr ""
+
+#: ../templates/admin/premium.php:377
+msgid "Advanced report"
+msgstr ""
+
+#: ../templates/admin/premium.php:380
+#, php-format
+msgid ""
+"Read the information of the plugin report, so that you can easily go back to "
+"the recap data of your site. The overall amount of %1$sabandoned carts%2$s "
+"and those recovered, the %1$sconversion rate%2$s of the carts, and the total "
+"%1$searnings%2$s that they had on the economy of your shop.And for "
+"statistics lovers, the amount of emails sent, and how many visits these have "
+"generated.%3$sEverything to make your e-commerce better."
+msgstr ""
+
+#: ../templates/cart_content.php:107
+msgid "Cart Subtotal"
+msgstr "Subtotal no Carrinho"

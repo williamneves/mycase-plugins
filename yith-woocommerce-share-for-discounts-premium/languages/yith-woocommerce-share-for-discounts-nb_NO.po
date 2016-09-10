@@ -1,0 +1,1710 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Share For Discounts Premium v1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-06-20 17:06:44+0000\n"
+"Last-Translator: rune <rune@arctic-fritid.no>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Norwegian (Bokmål)\n"
+"X-Poedit-Country: NORWAY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: class.yith-wc-share-for-discounts.php:173
+#@ yith-woocommerce-share-for-discounts
+msgid "General Settings"
+msgstr "Generelle innstillinger"
+
+#: class.yith-wc-share-for-discounts.php:177
+#: plugin-options/coupon-options.php:18
+#@ yith-woocommerce-share-for-discounts
+msgid "Coupon Settings"
+msgstr "Kupong innstillinger"
+
+#: class.yith-wc-share-for-discounts.php:178
+#: plugin-options/share-options.php:18
+#@ yith-woocommerce-share-for-discounts
+msgid "Sharing Settings"
+msgstr "Delings innstillinger"
+
+#: class.yith-wc-share-for-discounts.php:181
+#: class.yith-wc-share-for-discounts.php:939
+#@ yith-woocommerce-share-for-discounts
+msgid "Premium Version"
+msgstr "Premium versjon"
+
+#: class.yith-wc-share-for-discounts.php:187
+#: class.yith-wc-share-for-discounts.php:188
+#: includes/class-ywsfd-share-email.php:47
+#@ yith-woocommerce-share-for-discounts
+#@ yith-woocommerce-coupon-email-system
+msgid "Share For Discounts"
+msgstr "Del for rabatter"
+
+#: class.yith-wc-share-for-discounts.php:217
+#@ yith-woocommerce-share-for-discounts
+msgid "You need to add a Facebook App ID"
+msgstr "Du må legge til en Facebook App ID"
+
+#: class.yith-wc-share-for-discounts.php:322
+#@ yith-woocommerce-share-for-discounts
+msgid "Share the product and get 10% discount!"
+msgstr "Del produktet og få 10% rabatt!"
+
+#: class.yith-wc-share-for-discounts.php:356
+#: plugin-options/share-options.php:32
+#@ yith-woocommerce-share-for-discounts
+msgid "Thank you for sharing!"
+msgstr "Takk for at du delte!"
+
+#: class.yith-wc-share-for-discounts.php:361
+#: plugin-options/share-options.php:40
+#@ yith-woocommerce-share-for-discounts
+msgid "Your discount has been activated and applied to your shopping cart."
+msgstr "Din rabatt har blitt aktivert og lagt til i handlekurven din."
+
+#: class.yith-wc-share-for-discounts.php:563
+#@ yith-woocommerce-share-for-discounts
+msgid "Guest"
+msgstr "Gjest"
+
+#: class.yith-wc-share-for-discounts.php:696
+#: plugin-options/coupon-options.php:25
+#@ yith-woocommerce-share-for-discounts
+msgid "10% off for the shared product"
+msgstr "10% rabatt på det delte produktet"
+
+#: class.yith-wc-share-for-discounts.php:936
+#: plugin-fw/lib/yit-cpt-unlimited.php:1048
+#: plugin-fw/lib/yit-cpt-unlimited.php:1196
+#: plugin-fw/lib/yit-cpt-unlimited.php:1202
+#: plugin-fw/lib/yit-plugin-panel.php:74
+#@ yith-woocommerce-share-for-discounts
+#@ yith-plugin-fw
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: class.yith-wc-share-for-discounts.php:966
+#@ yith-woocommerce-share-for-discounts
+msgid "Plugin Documentation"
+msgstr "Plugin dokumentasjon"
+
+#: class.yith-wc-share-for-discounts.php:1019
+#@ yith-woocommerce-share-for-discounts
+msgid "To use the coupon, you need to add the product to the cart"
+msgstr "For å bruke rabattkoden, må du legge produktet i handlekurven"
+
+#: includes/class-ywsfd-ajax-premium.php:80
+#@ yith-woocommerce-share-for-discounts
+msgid "We were unable to process your request, please try again."
+msgstr "Vi kunne ikke behandle forespørselen din, vennligst prøv igjen."
+
+#: includes/class-ywsfd-ajax-premium.php:87
+#: templates/frontend/social-buttons-premium.php:28
+#@ yith-woocommerce-share-for-discounts
+msgid "Your friend email"
+msgstr "Din venns e-postadresse"
+
+#: includes/class-ywsfd-ajax-premium.php:92
+#: templates/frontend/social-buttons-premium.php:35
+#@ yith-woocommerce-share-for-discounts
+msgid "Your email"
+msgstr "Din e-postadresse"
+
+#: includes/class-ywsfd-ajax-premium.php:97
+#@ yith-woocommerce-share-for-discounts
+msgid "Your message"
+msgstr "Din melding"
+
+#: includes/class-ywsfd-ajax-premium.php:114
+#@ woocommerce
+msgid "is a required field."
+msgstr ""
+
+#: includes/class-ywsfd-ajax-premium.php:121
+#@ woocommerce
+msgid "is not a valid email address."
+msgstr ""
+
+#: includes/class-ywsfd-ajax-premium.php:134
+#, php-format
+#@ yith-woocommerce-share-for-discounts
+msgid "%s wants to share something with you on %s site"
+msgstr "%s ønsker å dele noe med deg på %s site"
+
+#: includes/class-ywsfd-ajax-premium.php:143
+#@ yith-woocommerce-share-for-discounts
+msgid "There was an error while sending the email, please try again."
+msgstr "Det oppstod en feil under sending av e-posten, vennligst prøv igjen."
+
+#: includes/class-ywsfd-ajax-premium.php:210
+#, php-format
+#@ yith-woocommerce-share-for-discounts
+msgid "Cancellation completed. %d coupon deleted."
+msgid_plural "Cancellation completed. %d coupons deleted."
+msgstr[0] "Avbestilling fullført. %d rabattkupong ble slettet."
+msgstr[1] "Avbestilling fullført. %d rabattkuponger ble slettet."
+
+#: includes/class-ywsfd-ajax-premium.php:215
+#, php-format
+#@ yith-woocommerce-share-for-discounts
+msgid "An error has occurred: %s"
+msgstr "Det har oppstått en feil: %s"
+
+#: includes/class-ywsfd-share-email.php:46
+#@ yith-woocommerce-coupon-email-system
+msgid "YITH WooCommerce Share For Discounts gives you the perfect tool to reward your users when they share the products they are going to purchase."
+msgstr ""
+
+#: init.php:23
+#@ yith-woocommerce-share-for-discounts
+msgid "YITH WooCommerce Share For Discounts is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Share For Discounts er aktivert, men ikke trådt i kraft. Dette plugin krever WooCommerce for å fungere."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:460
+#: plugin-fw/lib/yit-cpt-unlimited.php:574
+#: plugin-fw/lib/yit-cpt-unlimited.php:719
+#: plugin-fw/lib/yit-cpt-unlimited.php:1632
+#, php-format
+#@ yith-plugin-fw
+msgid "Add %s"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:461
+#: plugin-fw/lib/yit-cpt-unlimited.php:575
+#, php-format
+#@ yith-plugin-fw
+msgid "Add New %s"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:462
+#: plugin-fw/lib/yit-cpt-unlimited.php:576
+#: plugin-fw/lib/yit-cpt-unlimited.php:1267
+#: plugin-fw/lib/yit-cpt-unlimited.php:1304
+#, php-format
+#@ yith-plugin-fw
+msgid "Edit %s"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:463
+#: plugin-fw/lib/yit-cpt-unlimited.php:577
+#, php-format
+#@ yith-plugin-fw
+msgid "New %s"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:464
+#: plugin-fw/lib/yit-cpt-unlimited.php:578
+#, php-format
+#@ yith-plugin-fw
+msgid "All %s"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:465
+#: plugin-fw/lib/yit-cpt-unlimited.php:579
+#: plugin-fw/lib/yit-cpt-unlimited.php:1251
+#: plugin-fw/lib/yit-cpt-unlimited.php:1305
+#, php-format
+#@ yith-plugin-fw
+msgid "View %s"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:466
+#: plugin-fw/lib/yit-cpt-unlimited.php:580
+#, php-format
+#@ yith-plugin-fw
+msgid "Search %s"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:467
+#: plugin-fw/lib/yit-cpt-unlimited.php:581
+#, php-format
+#@ yith-plugin-fw
+msgid "No %s found"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:468
+#: plugin-fw/lib/yit-cpt-unlimited.php:582
+#, php-format
+#@ yith-plugin-fw
+msgid "No %s found in Trash"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:625
+#, php-format
+#@ yith-plugin-fw
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:626
+#@ yith-plugin-fw
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:627
+#@ yith-plugin-fw
+msgid "Search Categories"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:628
+#@ yith-plugin-fw
+msgid "All Categories"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:629
+#@ yith-plugin-fw
+msgid "Parent Category"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:630
+#@ yith-plugin-fw
+msgid "Parent Category:"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:631
+#@ yith-plugin-fw
+msgid "Edit Category"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:632
+#@ yith-plugin-fw
+msgid "Update Category"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:633
+#@ yith-plugin-fw
+msgid "Add New Category"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:634
+#@ yith-plugin-fw
+msgid "New Category Name"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:635
+#@ yith-plugin-fw
+msgid "Category"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:724
+#@ yith-plugin-fw
+msgid "Categories"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1042
+#, php-format
+#@ yith-plugin-fw
+msgid "%s Settings"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1051
+#@ yith-plugin-fw
+msgid "Type"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1052
+#, php-format
+#@ yith-plugin-fw
+msgid "Layout for this %s"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1058
+#@ yith-plugin-fw
+msgid "Rewrite"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1059
+#@ yith-plugin-fw
+msgid "Univocal identification name in the URL for each product (slug from post if empty)"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1064
+#@ yith-plugin-fw
+msgid "Label in Singular"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1065
+#@ yith-plugin-fw
+msgid "Set a label in singular (title of portfolio if empty)"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1070
+#@ yith-plugin-fw
+msgid "Label in Plural"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1071
+#@ yith-plugin-fw
+msgid "Set a label in plural (title of portfolio if empty)"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1076
+#@ yith-plugin-fw
+msgid "Taxonomy"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1077
+#@ yith-plugin-fw
+msgid "If you want to use categories in the portfolio, set a name for taxonomy. Name should be a slug (must not contain capital letters nor spaces) and must not be more than 32 characters long (database structure restriction)."
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1082
+#@ yith-plugin-fw
+msgid "Taxonomy Rewrite"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1083
+#@ yith-plugin-fw
+msgid "Set univocal name for each category page URL."
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1088
+#@ yith-plugin-fw
+msgid "Single layout"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1089
+#@ yith-plugin-fw
+msgid "Layout for single page of this portfolio"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1130
+#@ yith-plugin-fw
+msgid "layout settings"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1222
+#: plugin-fw/lib/yit-cpt-unlimited.php:1235
+#@ yith-plugin-fw
+msgid "Quick links"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1475
+#, php-format
+#@ yith-plugin-fw
+msgid "Show frontend of the %s"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1482
+#: plugin-fw/templates/metaboxes/types/customtabs.php:46
+#: plugin-fw/templates/metaboxes/types/customtabs.php:90
+#@ yith-plugin-fw
+msgid "Name"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1631
+#, php-format
+#@ yith-plugin-fw
+msgid "Add %s from images"
+msgstr ""
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1633
+#@ yith-plugin-fw
+msgid "Upload multiple files"
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel-sidebar.php:421
+#: plugin-fw/templates/panel/sidebar/sidebar.php:3
+#@ yith-plugin-fw
+msgid "Hide sidebar"
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel-sidebar.php:422
+#: plugin-fw/templates/panel/sidebar/sidebar.php:3
+#@ yith-plugin-fw
+msgid "Show sidebar"
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel-wc.php:374
+#@ yith-plugin-fw
+msgid "The changes you have made will be lost if you leave this page."
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:73
+#@ yith-plugin-fw
+msgid "Plugin Settings"
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:116
+#@ yith-plugin-fw
+msgid "YITH Plugins"
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:296
+#: plugin-fw/lib/yit-plugin-panel.php:299
+#@ yith-plugin-fw
+msgid "How to install premium version"
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:351
+#: plugin-fw/lib/yit-plugin-subpanel.php:146
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:11
+#@ yith-plugin-fw
+msgid "Save Changes"
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:354
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+#@ yith-plugin-fw
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:356
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+#@ yith-plugin-fw
+msgid "Reset to default"
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:356
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:18
+#@ yith-plugin-fw
+msgid "Are you sure?"
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:552
+#@ yith-plugin-fw
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:553
+#@ yith-plugin-fw
+msgid "Settings saved"
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:554
+#@ yith-plugin-fw
+msgid "Settings reset"
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:555
+#@ yith-plugin-fw
+msgid "Element deleted correctly."
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:556
+#: plugin-fw/lib/yit-plugin-panel.php:557
+#@ yith-plugin-fw
+msgid "Element updated correctly."
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:558
+#@ yith-plugin-fw
+msgid "Database imported correctly."
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:559
+#@ yith-plugin-fw
+msgid "An error has occurred during import. Please try again."
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:560
+#@ yith-plugin-fw
+msgid "The added file is not valid."
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:561
+#@ yith-plugin-fw
+msgid "Sorry, import is disabled."
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-panel.php:562
+#@ yith-plugin-fw
+msgid "Sorting successful."
+msgstr ""
+
+#: plugin-fw/lib/yit-plugin-subpanel.php:149
+#@ yith-plugin-fw
+msgid "If you continue with this action, you will reset all the options in this page."
+msgstr ""
+
+#: plugin-fw/lib/yit-pointers.php:70
+#@ yith-plugin-fw
+msgid "Plugins Activated"
+msgstr ""
+
+#: plugin-fw/lib/yit-pointers.php:71
+#@ yith-plugin-fw
+msgid ""
+"From now on, you can find all plugin options in YIT Plugin menu.\n"
+"                                     For each plugin installed, customization settings will be available as a new entry in YIT Plugin menu."
+msgstr ""
+
+#: plugin-fw/lib/yit-pointers.php:73
+#: plugin-fw/lib/yit-pointers.php:89
+#@ yith-plugin-fw
+msgid "Discover all our plugins available on:"
+msgstr ""
+
+#: plugin-fw/lib/yit-pointers.php:74
+#: plugin-fw/lib/yit-pointers.php:90
+#@ yith-plugin-fw
+msgid "and"
+msgstr ""
+
+#: plugin-fw/lib/yit-pointers.php:84
+#@ yith-plugin-fw
+msgid "Plugins Upgraded"
+msgstr ""
+
+#: plugin-fw/lib/yit-pointers.php:85
+#@ yith-plugin-fw
+msgid ""
+"From now on, you can find all options of your plugins in YIT Plugin menu.\n"
+"                                    Any time one of our plugins is updated, a new entry will be added to this menu.\n"
+"                                    For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"                                    will be moved from previous location to YIT Plugin tab."
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:135
+#, php-format
+#@ yith-plugin-fw
+msgid "There is a new version of %plugin_name% available."
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:136
+#, php-format
+#@ yith-plugin-fw
+msgid "View version %latest% details."
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:137
+#@ yith-plugin-fw
+msgid "Automatic update is unavailable for this plugin,"
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:138
+#, php-format
+#@ yith-plugin-fw
+msgid "please <a href=\"%activate_link%\">activate</a> your copy of %plugin_name%."
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:139
+#@ yith-plugin-fw
+msgid "Update now."
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:240
+#@ yith-plugin-fw
+msgid "YIThemes Repository"
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:274
+#@ yit
+msgid "Invalid URL Provided."
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:287
+#@ yit
+msgid "Could not create Temporary file."
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:439
+#, php-format
+#@ yith-plugin-fw
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button\" title=\"%3$s\">View version %4$s details</a>."
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:441
+#, php-format
+#@ yith-plugin-fw
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button\" title=\"%3$s\">View version %4$s details</a>. <em>You have to activate the plugin on a single site of the network to benefit from automatic updates.</em>"
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:443
+#, php-format
+#@ yith-plugin-fw
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button\" title=\"%3$s\">View version %4$s details</a>. <em>Automatic update is unavailable for this plugin, please <a href=\"%5$s\" title=\"License activation\">activate</a> your copy of %6s.</em>"
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:445
+#, php-format
+#@ yith-plugin-fw
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button\" title=\"%3$s\">View version %4$s details</a> or <a href=\"%5$s\">update now</a>."
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:517
+#@ yith-plugin-fw
+msgid "You can't update the plugins for this site."
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:521
+#@ yith-plugin-fw
+msgid "You do not have sufficient permissions to update the plugins for this site."
+msgstr ""
+
+#: plugin-fw/lib/yit-upgrade.php:528
+#@ yith-plugin-fw
+msgid "Update Plugin"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:182
+#, php-format
+#@ yith-plugin-fw
+msgctxt "%s = field name"
+msgid "%s field cannot be empty"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:183
+#, php-format
+#@ yith-plugin-fw
+msgid "%s and %s fields cannot be empty"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:184
+#@ yith-plugin-fw
+msgid "Unable to contact the remote server, please try again later. Thanks!"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:185
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:88
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:166
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:197
+#: plugin-fw/templates/metaboxes/types/contactform.php:148
+#: plugin-fw/templates/metaboxes/types/contactform.php:340
+#@ yith-plugin-fw
+msgid "Email"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:186
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:89
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:167
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:198
+#@ yith-plugin-fw
+msgid "License Key"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:187
+#@ yith-plugin-fw
+msgid "Are you sure you want to deactivate the license for current site?"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:667
+#@ yith-plugin-fw
+msgid "Invalid Request"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:668
+#@ yith-plugin-fw
+msgid "Invalid license key"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:669
+#@ yith-plugin-fw
+msgid "Software has been deactivated"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:670
+#@ yith-plugin-fw
+msgid "Maximum number of activations exceeded"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:671
+#@ yith-plugin-fw
+msgid "Invalid instance ID"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:672
+#@ yith-plugin-fw
+msgid "Invalid security key"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:673
+#@ yith-plugin-fw
+msgid "License key has expired"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:674
+#@ yith-plugin-fw
+msgid "License key has been banned"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:675
+#@ woocommerce-software-add-on
+msgid "Current product is not included with your membership key"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:676
+#@ yith-plugin-fw
+msgid "Great"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:676
+#@ yith-plugin-fw
+msgid "License successfully activated"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-licence.php:677
+#@ woocommerce-software-add-on
+msgid "License key deactivated for website"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:67
+#: plugin-fw/licence/lib/yit-plugin-licence.php:68
+#: plugin-fw/licence/lib/yit-theme-licence.php:69
+#: plugin-fw/licence/lib/yit-theme-licence.php:70
+#: plugin-fw/licence/lib/yit-theme-licence.php:109
+#: plugin-fw/licence/lib/yit-theme-licence.php:110
+#@ yith-plugin-fw
+msgid "License Activation"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:117
+#: plugin-fw/licence/lib/yit-theme-licence.php:118
+#, php-format
+#@ yith-plugin-fw
+msgid "%s"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:159
+#@ yith-plugin-fw
+msgid "I cannot find the license key for activating the theme I have bought some time ago. Where can I find it?"
+msgstr ""
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:163
+#@ yith-plugin-fw
+msgid ""
+"If you have purchased one of our products before 27 January 2015, you can benefit from support and updates (the services offered with the license)\n"
+"                    until 27 January 2016 and you do not have to purchase it again to get a new license key, because, before this date, your license used to be activated automatically by our system.\n"
+"                    After 27 January 2016, instead, if you want to benefit from support and updates you have to buy a new license and activate it through the license key you will be\n"
+"                    provided with and that you can find in your YIThemes account, in section \"My licenses\"."
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:23
+#@ yith-plugin-fw
+msgid "Yithemes License Activation"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:27
+#@ yith-plugin-fw
+msgid "Have you updated your licenses? Have you asked for an extension? Update information concerning your products."
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:29
+#@ yith-plugin-fw
+msgid "Update license information"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:42
+#@ yith-plugin-fw
+msgid "Product to activate"
+msgid_plural "Products to activate"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:61
+#@ yith-plugin-fw
+msgid "Activate"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:80
+#@ yith-plugin-fw
+msgid "Activated"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:86
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:164
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:194
+#@ yith-plugin-fw
+msgid "Product Name"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:92
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:201
+#@ yith-plugin-fw
+msgid "Expires"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:95
+#@ yith-plugin-fw
+msgid "Remaining"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:97
+#@ yith-plugin-fw
+msgid "Membership"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:101
+#@ yith-plugin-fw
+msgid "License Actions"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:126
+#, php-format
+#@ yith-plugin-fw
+msgid "%1s out of %2s"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:142
+#@ yith-plugin-fw
+msgid "Deactivate"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:147
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:204
+#@ yith-plugin-fw
+msgid "Renew"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:160
+#@ yith-plugin-fw
+msgid "Banned"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:190
+#@ yith-plugin-fw
+msgid "Expired"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:226
+#@ yith-plugin-fw
+msgid "Order again"
+msgstr ""
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:228
+#@ yith-plugin-fw
+msgid "Renew license"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/ajax-products.php:23
+#@ yith-plugin-fw
+msgid "Search for a product"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/categories.php:36
+#@ yith-plugin-fw
+msgid "No categories."
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/categories.php:42
+#@ yith-plugin-fw
+msgid "+ Add New Category"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/categories.php:46
+#@ yit
+msgid "Add"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:7
+#@ yith-plugin-fw
+msgid "Text Input"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:8
+#@ yith-plugin-fw
+msgid "Checkbox"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:9
+#@ yith-plugin-fw
+msgid "Select"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:10
+#@ yith-plugin-fw
+msgid "Textarea"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:11
+#@ yith-plugin-fw
+msgid "Radio Input"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:12
+#@ yith-plugin-fw
+msgid "Password Field"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:13
+#@ yith-plugin-fw
+msgid "File Upload"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:47
+#@ yith-plugin-fw
+msgid "Theme Icon"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:48
+#@ yith-plugin-fw
+msgid "Custom Icon"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:49
+#: plugin-fw/templates/metaboxes/types/responsivesliders.php:24
+#@ yith-plugin-fw
+msgid "None"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:60
+#@ yith-plugin-fw
+msgid "Add field"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:69
+#: plugin-fw/templates/metaboxes/types/contactform.php:261
+#: plugin-fw/templates/metaboxes/types/customtabs.php:37
+#: plugin-fw/templates/metaboxes/types/customtabs.php:82
+#@ yith-plugin-fw
+msgid "Remove"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:70
+#: plugin-fw/templates/metaboxes/types/contactform.php:262
+#@ yith-plugin-fw
+msgid "Click to toggle"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:77
+#: plugin-fw/templates/metaboxes/types/contactform.php:269
+#@ yith-plugin-fw
+msgid "Field Title"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:81
+#: plugin-fw/templates/metaboxes/types/contactform.php:273
+#@ yith-plugin-fw
+msgid "Insert the title for the field."
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:86
+#: plugin-fw/templates/metaboxes/types/contactform.php:278
+#@ yith-plugin-fw
+msgid "Data Name"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:90
+#: plugin-fw/templates/metaboxes/types/contactform.php:282
+#@ yith-plugin-fw
+msgid "REQUIRED: Field identification name to be entered into email body. <strong>Note:</strong>Use only lowercase characters and underscores."
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:95
+#: plugin-fw/templates/metaboxes/types/contactform.php:287
+#@ yith-plugin-fw
+msgid "Field Type"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:103
+#: plugin-fw/templates/metaboxes/types/contactform.php:295
+#@ yith-plugin-fw
+msgid "Select the type for this field."
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:108
+#: plugin-fw/templates/metaboxes/types/contactform.php:300
+#@ yith-plugin-fw
+msgid "Checked"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:112
+#: plugin-fw/templates/metaboxes/types/contactform.php:304
+#@ yith-plugin-fw
+msgid "Select this option if you want this field appears as already checked."
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:117
+#: plugin-fw/templates/metaboxes/types/contactform.php:309
+#@ yith-plugin-fw
+msgid "Add options "
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:118
+#: plugin-fw/templates/metaboxes/types/contactform.php:310
+#@ yith-plugin-fw
+msgid "Add option"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:121
+#: plugin-fw/templates/metaboxes/types/contactform.php:313
+#: plugin-fw/templates/metaboxes/types/contactform.php:436
+#@ yith-plugin-fw
+msgid "Selected"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:124
+#: plugin-fw/templates/metaboxes/types/contactform.php:316
+#: plugin-fw/templates/metaboxes/types/contactform.php:436
+#@ yith-plugin-fw
+msgid "Delete option"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:130
+#: plugin-fw/templates/metaboxes/types/contactform.php:322
+#@ yith-plugin-fw
+msgid "Error Message"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:134
+#: plugin-fw/templates/metaboxes/types/contactform.php:326
+#@ yith-plugin-fw
+msgid "Insert the error message for validation."
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:139
+#: plugin-fw/templates/metaboxes/types/contactform.php:331
+#@ yith-plugin-fw
+msgid "Required"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:143
+#: plugin-fw/templates/metaboxes/types/contactform.php:335
+#@ yith-plugin-fw
+msgid "Select this option if it must be required."
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:152
+#: plugin-fw/templates/metaboxes/types/contactform.php:344
+#@ yith-plugin-fw
+msgid "Select this option if the email must be valid."
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:157
+#: plugin-fw/templates/metaboxes/types/contactform.php:349
+#@ yith-plugin-fw
+msgid "Reply To"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:161
+#: plugin-fw/templates/metaboxes/types/contactform.php:353
+#@ yith-plugin-fw
+msgid "Select this if it is the email you can reply to."
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:166
+#: plugin-fw/templates/metaboxes/types/contactform.php:358
+#@ yith-plugin-fw
+msgid "Class"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:170
+#: plugin-fw/templates/metaboxes/types/contactform.php:362
+#@ yith-plugin-fw
+msgid "Insert additional class(es) (separated by commas) for more personalization."
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:175
+#: plugin-fw/templates/metaboxes/types/contactform.php:367
+#@ yith-plugin-fw
+msgid "Icon"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:203
+#: plugin-fw/templates/metaboxes/types/contactform.php:391
+#: plugin-fw/templates/metaboxes/types/icon-list.php:69
+#: plugin-fw/templates/metaboxes/types/select-icon.php:33
+#: plugin-fw/templates/metaboxes/types/upload.php:21
+#: plugin-fw/templates/panel/types/upload.php:31
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:40
+#: templates/admin/class-ywsfd-custom-image-upload.php:97
+#@ yith-plugin-fw
+#@ yith-woocommerce-share-for-discounts
+msgid "Upload"
+msgstr "Last opp"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:209
+#: plugin-fw/templates/metaboxes/types/contactform.php:397
+#: plugin-fw/templates/metaboxes/types/icon-list.php:75
+#: plugin-fw/templates/metaboxes/types/select-icon.php:39
+#@ yith-plugin-fw
+msgid "Image preview"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:217
+#: plugin-fw/templates/metaboxes/types/contactform.php:405
+#@ yith-plugin-fw
+msgid "Insert an icon for more personalization."
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:222
+#: plugin-fw/templates/metaboxes/types/contactform.php:409
+#@ yith-plugin-fw
+msgid "Width"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:247
+#: plugin-fw/templates/metaboxes/types/contactform.php:421
+#@ yith-plugin-fw
+msgid "Set field length."
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:28
+#@ yith-plugin-fw
+msgid "Close all"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:28
+#@ yith-plugin-fw
+msgid "Expand all"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:52
+#: plugin-fw/templates/metaboxes/types/customtabs.php:95
+#@ yith-plugin-fw
+msgid "Value"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:53
+#: plugin-fw/templates/metaboxes/types/customtabs.php:96
+#@ yith-plugin-fw
+msgid "Content of the tab. (HTML is supported)"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:65
+#@ yith-plugin-fw
+msgid "Add custom product tab"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:107
+#@ yith-plugin-fw
+msgid "Do you want to remove the custom tab?"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:89
+#, php-format
+#@ yith-plugin-fw
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:91
+#, php-format
+#@ yith-plugin-fw
+msgid "(Default: <i %s></i> )"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:40
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+#: plugin-fw/templates/metaboxes/types/images.php:38
+#: plugin-fw/templates/metaboxes/types/images.php:64
+#@ yith-plugin-fw
+msgid "Delete image"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+#@ yith-plugin-fw
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+#@ yith-plugin-fw
+msgid "Add to gallery"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+#@ yith-plugin-fw
+msgid "Add images"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+#@ yith-plugin-fw
+msgid "Delete"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/images.php:42
+#@ yith-plugin-fw
+msgid "Upload new images"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/images.php:75
+#@ yith-plugin-fw
+msgid "Are you sure you want to remove this image?"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:25
+#: plugin-fw/templates/metaboxes/types/sidebars.php:36
+#@ yith-plugin-fw
+msgid "Left sidebar"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:28
+#: plugin-fw/templates/metaboxes/types/sidebars.php:42
+#: plugin-fw/templates/metaboxes/types/sidebars.php:45
+#@ yith-plugin-fw
+msgid "No sidebar"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:31
+#: plugin-fw/templates/metaboxes/types/sidebars.php:39
+#@ yith-plugin-fw
+msgid "Right sidebar"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:34
+#: plugin-fw/templates/metaboxes/types/sidebars.php:53
+#: plugin-fw/templates/metaboxes/types/sidebars.php:64
+#@ yith-plugin-fw
+msgid "Choose a sidebar"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/sidebars.php:51
+#@ yith-plugin-fw
+msgid "Left Sidebar"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/sidebars.php:62
+#@ yith-plugin-fw
+msgid "Right Sidebar"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/typography.php:42
+#@ yith-plugin-fw
+msgid "px"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/typography.php:43
+#@ yith-plugin-fw
+msgid "em"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/typography.php:44
+#@ yith-plugin-fw
+msgid "pt"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/typography.php:45
+#@ yith-plugin-fw
+msgid "rem"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/typography.php:59
+#: plugin-fw/templates/metaboxes/types/typography.php:153
+#: plugin-fw/templates/metaboxes/types/typography.php:217
+#@ yith-plugin-fw
+msgid "Web fonts"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/typography.php:71
+#@ yith-plugin-fw
+msgid "Google fonts"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/typography.php:96
+#@ yith-plugin-fw
+msgid "Regular"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/typography.php:97
+#@ yith-plugin-fw
+msgid "Bold"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/typography.php:98
+#@ yith-plugin-fw
+msgid "Extra bold"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/typography.php:99
+#@ yith-plugin-fw
+msgid "Italic"
+msgstr ""
+
+#: plugin-fw/templates/metaboxes/types/typography.php:100
+#@ yith-plugin-fw
+msgid "Italic bold"
+msgstr ""
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:17
+#@ yit
+msgid "Join the club"
+msgstr ""
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:24
+#@ yit
+msgid "Despacho Theme - 100% FREE"
+msgstr ""
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:28
+#@ yit
+msgid "FREE!"
+msgstr ""
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:34
+#@ yit
+msgid "Important Links"
+msgstr ""
+
+#: plugin-fw/templates/panel/types/upload.php:32
+#@ yith-plugin-fw
+msgid "Reset"
+msgstr ""
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:17
+#@ yith-plugin-fw
+msgid "Reset Defaults"
+msgstr ""
+
+#: plugin-options/coupon-options.php:22
+#@ yith-woocommerce-share-for-discounts
+msgid "Coupon settings"
+msgstr "Kupong innstillinger"
+
+#: plugin-options/coupon-options.php:34
+#@ yith-woocommerce-review-for-discounts
+msgid "Expired Coupon Clearing"
+msgstr "Sletting av utløpte kuponger"
+
+#: plugin-options/coupon-options.php:36
+#@ yith-woocommerce-review-for-discounts
+msgid "Automatically deletes expired coupons (Only those created by this plugin)"
+msgstr "Sletter utløpte kuponger automatisk (Kun de som er opprettet av denne plugin)."
+
+#: plugin-options/general-options.php:16
+#@ yith-woocommerce-share-for-discounts
+msgid "Email to a friend"
+msgstr "E-post til en venn"
+
+#: plugin-options/general-options.php:20
+#@ yith-woocommerce-share-for-discounts
+msgid "Enable email sharing"
+msgstr "Aktiver deling via e-post"
+
+#: plugin-options/general-options.php:34
+#@ yith-woocommerce-share-for-discounts
+msgid "Share For Discounts settings"
+msgstr "Innstillinger"
+
+#: plugin-options/general-options.php:38
+#@ yith-woocommerce-share-for-discounts
+msgid "Enable YITH WooCommerce Share For Discounts"
+msgstr "Aktiver deling for rabatt"
+
+#: plugin-options/general-options.php:49
+#@ yith-woocommerce-share-for-discounts
+msgid "Facebook"
+msgstr "Facebook"
+
+#: plugin-options/general-options.php:53
+#@ yith-woocommerce-share-for-discounts
+msgid "Enable Facebook sharing"
+msgstr "Aktiver deling via Facebook"
+
+#: plugin-options/general-options.php:60
+#@ yith-woocommerce-share-for-discounts
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: plugin-options/general-options.php:67
+#@ yith-woocommerce-share-for-discounts
+msgid "Facebook Button Type"
+msgstr "Facebook knapptype"
+
+#: plugin-options/general-options.php:69
+#@ yith-woocommerce-share-for-discounts
+msgid "Select the type of button you want to show for Facebook"
+msgstr "Velg den type knapp du ønsker å bruke med Facebook"
+
+#: plugin-options/general-options.php:72
+#@ yith-woocommerce-share-for-discounts
+msgid "Like and Share Buttons"
+msgstr "Like og deleknapper"
+
+#: plugin-options/general-options.php:73
+#@ yith-woocommerce-share-for-discounts
+msgid "Like Button Only"
+msgstr "Kun likeknapp"
+
+#: plugin-options/general-options.php:74
+#: plugin-options/general-options.php:123
+#@ yith-woocommerce-share-for-discounts
+msgid "Share Button Only"
+msgstr "Kun deleknapp"
+
+#: plugin-options/general-options.php:83
+#@ yith-woocommerce-share-for-discounts
+msgid "Twitter"
+msgstr "Twitter"
+
+#: plugin-options/general-options.php:87
+#@ yith-woocommerce-share-for-discounts
+msgid "Enable Twitter sharing"
+msgstr "Aktiver deling via Twitter"
+
+#: plugin-options/general-options.php:89
+#@ yith-woocommerce-share-for-discounts
+msgid "Note: due to a change made by twitter, you can not be sure that the tweets are published, so the coupons will be given even if the tweet is canceled. For more information about this change, please click here:"
+msgstr "Merk: På grunn av en endring utført av Twitter, kan du ikke være sikker på at alle tweets blir publisert. Rabattkuponger vil bli aktivert selv om tweet blir kansellert. For mer informasjon om denne endringen, klikke her:"
+
+#: plugin-options/general-options.php:94
+#@ yith-woocommerce-share-for-discounts
+msgid "Twitter username"
+msgstr "Twitter brukernavn"
+
+#: plugin-options/general-options.php:96
+#@ yith-woocommerce-share-for-discounts
+msgid "Set this option if you want to include \"via @YourUsername\" to your tweets"
+msgstr "Aktiver dette alternativet dersom du ønsker å inkludere \"via @DittBrukernavn\" til dine tweets."
+
+#: plugin-options/general-options.php:105
+#@ yith-woocommerce-share-for-discounts
+msgid "Google+"
+msgstr "Google+"
+
+#: plugin-options/general-options.php:109
+#@ yith-woocommerce-share-for-discounts
+msgid "Enable Google+ sharing"
+msgstr "Aktiver deling via Google+"
+
+#: plugin-options/general-options.php:116
+#@ yith-woocommerce-share-for-discounts
+msgid "Google+ Button Type"
+msgstr "Google+ knapptype"
+
+#: plugin-options/general-options.php:118
+#@ yith-woocommerce-share-for-discounts
+msgid "Select the type of button you want to show for Google+. Note: because of a bug unresolved by Google, the \"Share\" button could not generate the coupon correctly. For more information about the bug, please click here:"
+msgstr "Velg den type knapp du ønsker å bruke med Google+. Merk: På grunn av en uløst feil hos Google, kan ikke \"Dele\" -knappen generere rabattkupongen riktig. For mer informasjon om denne feilen, klikk her:"
+
+#: plugin-options/general-options.php:121
+#@ yith-woocommerce-share-for-discounts
+msgid "+1 and Share Buttons"
+msgstr "+1 og deleknapper"
+
+#: plugin-options/general-options.php:122
+#@ yith-woocommerce-share-for-discounts
+msgid "+1 Button Only"
+msgstr "Kun +1 knapp"
+
+#: plugin-options/share-options.php:22
+#@ yith-woocommerce-share-for-discounts
+msgid "Box title before sharing"
+msgstr "Titteltekst over delingsknapper"
+
+#: plugin-options/share-options.php:24
+#@ yith-woocommerce-share-for-discounts
+msgid "Share and get your discount!"
+msgstr "Del med venner og få ekstra rabatt!"
+
+#: plugin-options/share-options.php:27
+#@ yith-woocommerce-share-for-discounts
+msgid "Title showed above the sharing buttons"
+msgstr "Titteltekst som fremkommer over delingsknappene."
+
+#: plugin-options/share-options.php:30
+#@ yith-woocommerce-share-for-discounts
+msgid "Box title after sharing"
+msgstr "Titteltekst som fremkommer etter deling"
+
+#: plugin-options/share-options.php:35
+#@ yith-woocommerce-share-for-discounts
+msgid "Title showed after the sharing"
+msgstr "Titteltekst som fremkommer etter at deling er utført."
+
+#: plugin-options/share-options.php:38
+#@ yith-woocommerce-share-for-discounts
+msgid "Message after sharing"
+msgstr "Melding som fremkommer etter deling"
+
+#: plugin-options/share-options.php:43
+#@ yith-woocommerce-share-for-discounts
+msgid "Text that replaces the buttons after the sharing"
+msgstr "Melding som erstatter delingsknappene etter utført deling."
+
+#: plugin-options/share-options.php:46
+#@ yith-woocommerce-share-for-discounts
+msgid "URL to share"
+msgstr "Nettadressen som skal deles"
+
+#: plugin-options/share-options.php:51
+#@ yith-woocommerce-share-for-discounts
+msgid "If not specified, it will be used the URL of the page"
+msgstr "Dersom ikke spesifisert, vil nettadressen til aktuell side brukes."
+
+#: plugin-options/share-options.php:54
+#@ yith-woocommerce-share-for-discounts
+msgid "Show on product page"
+msgstr "Vis på produktsiden"
+
+#: plugin-options/share-options.php:64
+#@ yith-woocommerce-share-for-discounts
+msgid "Product page position"
+msgstr "Plassering på produktsiden"
+
+#: plugin-options/share-options.php:69
+#@ yith-woocommerce-share-for-discounts
+msgid "The position where the sharing buttons are showed in product detail pages."
+msgstr "Posisjonen der delingsknappene fremkommer på produktdetaljsiden."
+
+#: plugin-options/share-options.php:71
+#@ yith-woocommerce-share-for-discounts
+msgid "Before title"
+msgstr "Før tittel"
+
+#: plugin-options/share-options.php:72
+#@ yith-woocommerce-share-for-discounts
+msgid "After price"
+msgstr "Etter pris"
+
+#: plugin-options/share-options.php:73
+#@ yith-woocommerce-share-for-discounts
+msgid "Before \"Add to cart\""
+msgstr "Før \"Legg i kurven\""
+
+#: plugin-options/share-options.php:74
+#@ yith-woocommerce-share-for-discounts
+msgid "Before tabs"
+msgstr "Før fanene"
+
+#: plugin-options/share-options.php:75
+#@ yith-woocommerce-share-for-discounts
+msgid "Between tabs and related products"
+msgstr "Mellom fanene og relaterte produkter"
+
+#: plugin-options/share-options.php:76
+#@ yith-woocommerce-share-for-discounts
+msgid "After related products"
+msgstr "Etter relaterte produkter"
+
+#: plugin-options/share-options.php:80
+#@ yith-woocommerce-share-for-discounts
+msgid "Show on checkout page"
+msgstr "Vis på kassesiden"
+
+#: plugin-options/share-options.php:90
+#@ yith-woocommerce-share-for-discounts
+msgid "Checkout position"
+msgstr "Plassering på kassesiden"
+
+#: plugin-options/share-options.php:95
+#@ yith-woocommerce-share-for-discounts
+msgid "The position where share buttons are showed in checkout page."
+msgstr "Posisjonen der delingsknappene fremkommer på kassesiden."
+
+#: plugin-options/share-options.php:97
+#@ yith-woocommerce-share-for-discounts
+msgid "Before customer details"
+msgstr "Før kundedetaljer"
+
+#: plugin-options/share-options.php:98
+#@ yith-woocommerce-share-for-discounts
+msgid "After customer details"
+msgstr "Etter kundedetaljer"
+
+#: plugin-options/share-options.php:102
+#@ yith-woocommerce-share-for-discounts
+msgid "Show on cart page"
+msgstr "Vis på handlekurvsiden"
+
+#: plugin-options/share-options.php:112
+#@ yith-woocommerce-share-for-discounts
+msgid "Cart page position"
+msgstr "Plassering på handlekurvsiden"
+
+#: plugin-options/share-options.php:117
+#@ yith-woocommerce-share-for-discounts
+msgid "The position where share buttons are showed in cart page."
+msgstr "Posisjonen der delingsknappene fremkommer på handlekurvsiden."
+
+#: plugin-options/share-options.php:119
+#@ yith-woocommerce-share-for-discounts
+msgid "Before cart"
+msgstr "Før handlekurven"
+
+#: plugin-options/share-options.php:120
+#@ yith-woocommerce-share-for-discounts
+msgid "Cart collaterals"
+msgstr "Handlekurv kollateraler"
+
+#: plugin-options/share-options.php:121
+#@ yith-woocommerce-share-for-discounts
+msgid "After cart"
+msgstr "Etter handlekurven"
+
+#: plugin-options/share-options.php:129
+#@ yith-woocommerce-share-for-discounts
+msgid "Facebook OpenGraph Meta Defaults"
+msgstr "Facebook OpenGraph Metastandard"
+
+#: plugin-options/share-options.php:133
+#@ yith-woocommerce-share-for-discounts
+msgid "Default Title"
+msgstr "Standard tittel"
+
+#: plugin-options/share-options.php:139
+#@ yith-woocommerce-share-for-discounts
+msgid "Default Description"
+msgstr "Standard beskrivelse"
+
+#: plugin-options/share-options.php:145
+#@ yith-woocommerce-share-for-discounts
+msgid "Default Image"
+msgstr "Standard bilde"
+
+#: plugin-options/share-options.php:148
+#@ yith-woocommerce-share-for-discounts
+msgid "Image size must be at least 200x200px"
+msgstr "Bildestørrelsen må være minst 200 x 200px"
+
+#: templates/admin/class-ywsfd-custom-coupon-purge.php:110
+#@ yith-woocommerce-share-for-discounts
+msgid "Remove expired coupons"
+msgstr "Slett utløpte rabattkuponger"
+
+#: templates/admin/class-ywsfd-custom-coupon-purge.php:111
+#@ yith-woocommerce-share-for-discounts
+msgid "Removal of expired coupons in progress..."
+msgstr "Sletting av utløpte rabattkuponger pågår..."
+
+#: templates/admin/custom-coupon.php:51
+#@ woocommerce
+msgid "Description"
+msgstr ""
+
+#: templates/admin/custom-coupon.php:62
+#@ woocommerce
+msgid "Discount type"
+msgstr ""
+
+#: templates/admin/custom-coupon.php:91
+#@ woocommerce
+msgid "Coupon amount"
+msgstr ""
+
+#: templates/admin/custom-coupon.php:105
+#@ yith-woocommerce-share-for-discounts
+msgid "Number of days after which the coupon expires"
+msgstr "Antall dager kupongen skal være aktiv før den utløper."
+
+#: templates/admin/custom-coupon.php:113
+#@ woocommerce
+msgid "No expiration"
+msgstr ""
+
+#: templates/admin/custom-coupon.php:129
+#@ woocommerce
+msgid "Allow free shipping"
+msgstr ""
+
+#: templates/frontend/social-buttons-premium.php:22
+#@ yith-woocommerce-share-for-discounts
+msgid "Send to a friend"
+msgstr "Send til en venn"
+
+#: templates/frontend/social-buttons-premium.php:42
+#@ yith-woocommerce-share-for-discounts
+msgid "Message"
+msgstr "Melding"
+
+#: templates/frontend/social-buttons-premium.php:52
+#@ yith-woocommerce-share-for-discounts
+msgid "Send email"
+msgstr "Send meldingen"
+
+#: templates/frontend/social-buttons.php:30
+#@ yith-woocommerce-share-for-discounts
+msgid "Share"
+msgstr "Del"
+

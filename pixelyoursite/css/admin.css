@@ -1,0 +1,365 @@
+.wrap {
+    margin-top: 25px;
+}
+
+.disabled {
+    pointer-events: none;
+}
+
+.pys-btn.disabled,
+table.disabled {
+    opacity: 0.6;
+}
+
+tr.disabled,
+form.disabled {
+    opacity: 0.6;
+    pointer-events: none;
+}
+
+.aligncenter {
+    display: block !important;
+    margin: 0 auto;
+}
+
+.pys-logo {
+    background: url('../img/logo.png') no-repeat;
+    width: 261px;
+    height: 58px;
+}
+
+a {
+    color: #F4524D;
+}
+
+a:hover {
+    color: #F4524D;
+}
+
+a.big {
+    font-size: 24px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+hr {
+    margin: 25px 0;
+}
+
+code {
+    padding: 1px 4px;
+}
+
+.pys-list pre {
+    margin-top: 0;
+
+    white-space: pre-wrap;       /* CSS 3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;
+}
+
+.pys-rating {
+    text-align: center;
+}
+
+.pys-content {
+    margin: -1px 0 15px;
+}
+
+ul.dashed {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1.5em;
+}
+
+ul.dashed > li:before {
+    display: inline-block;
+    content: "\2014\a0";
+    width: 1.5em;
+    margin-left: -1.5em;
+}
+
+/* nav menu */
+
+.pys-menu {
+    overflow: hidden;
+    clear: both;
+    margin-bottom: 0;
+}
+
+.pys-menu .nav-tab {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 0;
+}
+
+.pys-menu .nav-tab-active {
+    background: #fff;
+    border-bottom: 1px solid #fff;
+}
+
+/* panels */
+
+.pys-panel {
+    display: none;
+}
+
+/* boxes */
+
+.pys-box {
+    overflow: hidden;
+    clear: both;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 25px 0;
+    margin-bottom: 15px;
+    background: #fff;
+}
+
+.pys-box-red {
+    background: #F4524D;
+    color: #fff;
+}
+
+.pys-box-red h1,
+.pys-box-red h2,
+.pys-box-red p,
+.pys-box-red u,
+.pys-box-red i,
+.pys-box-red ul {
+    color: #fff;
+}
+
+.pys-box-middle {
+    color: #fff;
+    text-align: center;
+    background: #516F9F;
+}
+
+.pys-box-middle h2,
+.pys-box-middle h3,
+.pys-box-middle p,
+.pys-box-middle u,
+.pys-box-middle i {
+    color: #fff;
+}
+
+/* grid */
+
+.pys-col {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 25px;
+}
+
+.pys-col-full {
+    width: 100%;
+}
+
+.pys-col-one-half {
+    width: 50%;
+}
+
+.pys-col-narrow {
+    float: none;
+    width: 70%;
+    margin: 25px auto;
+}
+
+.pys-col-border-left {
+    border-left: 1px solid #ccc;
+}
+
+.pys-col-border-right {
+    border-right: 1px solid #ccc;
+}
+
+/* aligns */
+
+h3.align-one-third {
+    margin-left: 30%;
+    padding: 0 18px;
+}
+
+/* @todo: verify me */
+
+tr.align-one-third td:first-child {
+    width: 30%;
+}
+
+tr.align-one-third td:last-child {
+    width: 70%;
+}
+
+/* buttons */
+
+.pys-btn,
+.pys-btn:hover,
+a.pys-btn,
+a.pys-btn:hover {
+    line-height: normal;
+    display: inline-block;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 10px 25px;
+    border: none;
+}
+
+.pys-btn:hover.pys-btn-big,
+a.pys-btn:hover.pys-btn-big {
+    line-height: normal;
+    padding: 12px 35px;
+}
+
+.pys-btn-red,
+a.pys-btn-red {
+    background: #F4524D;
+}
+
+.pys-btn-blue,
+a.pys-btn-blue {
+    background: #516F9F;
+}
+
+.pys-btn.pys-btn-big {
+    font-size: 20px;
+    padding: 12px 35px;
+}
+
+/* tables */
+
+table.layout {
+    width: 100%;
+    margin: 25px 0;
+    table-layout: fixed;
+}
+
+table.layout tr {
+    margin-bottom: 5px;
+}
+
+table.layout tr.tall td {
+    padding-bottom: 25px;
+}
+
+table.layout td {
+    padding: 5px 15px;
+}
+
+table.layout td.legend {
+    vertical-align: top;
+}
+
+table.layout td.narrow {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+table.pys-list .button {
+    margin-right: 5px;
+}
+
+table.layout.search {
+    background-color: transparent; /* default styles bug fix */
+}
+
+/* forms */
+
+.label {
+    text-align: right;
+    margin: 0;
+    line-height: 27px;
+    font-weight: bold;
+}
+
+.label.big {
+    font-size: 16.9px;
+}
+
+.legend > .label {
+    line-height: inherit;
+}
+
+.help {
+    display: block;
+    color: #666;
+    font-size: 13px;
+    margin: 5px 0;
+}
+
+input[type="text"] {
+    width: 300px;
+    max-width: 100%;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+input[type="checkbox"].big {
+    margin-top: -3px;
+}
+
+/* tickbox */
+
+#TB_window h2 {
+    margin: 1em 0;
+}
+
+#TB_window table tr td:last-child {
+    width: 70%;
+}
+
+#TB_window .actions-row {
+    text-align: right;
+    padding: 5px 15px;
+}
+
+/* event fields show/hide classes */
+
+.ViewContent-visible,
+.Search-visible,
+.AddToCart-visible,
+.AddToWishlist-visible,
+.InitiateCheckout-visible,
+.AddPaymentInfo-visible,
+.Purchase-visible,
+.Lead-visible,
+.CompleteRegistration-visible,
+.CustomCode-visible,
+.CustomEvent-visible{
+    display: none;
+}
+
+.ViewContent .ViewContent-visible,
+.AddToCart .AddToCart-visible,
+.AddToWishlist .AddToWishlist-visible,
+.InitiateCheckout .InitiateCheckout-visible,
+.AddPaymentInfo .AddPaymentInfo-visible,
+.Purchase .Purchase-visible,
+.Lead .Lead-visible,
+.CompleteRegistration .CompleteRegistration-visible,
+.Search .Search-visible,
+.CustomCode .CustomCode-visible,
+.CustomEvent .CustomEvent-visible {
+    display: table-row;
+}
+
+.URL-visible,
+.CSS-visible {
+    display: none;
+}
+
+.URL .URL-visible,
+.CSS .CSS-visible {
+    display: table-row;
+}
